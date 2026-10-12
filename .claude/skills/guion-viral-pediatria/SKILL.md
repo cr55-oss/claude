@@ -100,6 +100,11 @@ de la guía de tono.
 
 ### 1. Buscar candidatos y validar
 
+**Antes de gastar créditos, revisa la biblioteca.** Si el reel ya tiene desglose en
+`biblioteca/reels/<id>.md` (hecho con el skill `desglose-reel-tania`), úsalo como base para los
+pasos 1-2: ya trae métricas, filtro triple, transcripción y momento del payoff. No lo vuelvas a
+ver con vidIQ.
+
 **Herramientas:** vidIQ es la herramienta principal para búsqueda y análisis de reels
 (`vidiq_instagram_tiktok_outlier_search` para descubrir candidatos con el triple filtro de vistas/
 seguidores/duración, `vidiq_watch_shortform_content` para ver el contenido completo). Si en algún
