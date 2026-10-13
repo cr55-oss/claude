@@ -25,7 +25,7 @@
 import { existsSync, mkdirSync, rmSync } from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
-import { argumentos, exigirProjeto, ffmpeg, gravarJson, lerJson, lerQuadros, mmss } from "./comum.mjs";
+import { argumentos, exigirProjeto, ffmpeg, gravarJson, lerJson, lerQuadros, mmss, navegador } from "./comum.mjs";
 
 // ---------- ajustes ----------
 const LARGURA_ALVO = 64; // largura do rosto (px) na escala reduzida em que o rastreio acontece
@@ -788,9 +788,9 @@ const conferir = async (tempos) => {
       const pontos = [{ x: plano.rosto.x, y: (plano.rosto.y * 1920) / H0, rotulo: "fixo", cor: "#FF3BD4" }];
       if (r) pontos.push({ x: pos(r.x), y: (pos(r.y) * 1920) / H0, rotulo: "rastro", cor: "#7CFC00" });
       const inputProps = { imagem: `medir/rastro-${i}.jpg`, largura, altura, pontos };
-      const composition = await selectComposition({ serveUrl, id: "Medir", inputProps });
+      const composition = await selectComposition({ serveUrl, id: "Medir", inputProps, ...navegador });
       const saida = `out/rastro/rastro-t${t.toFixed(2).padStart(6, "0")}.jpg`;
-      await renderStill({ composition, serveUrl, frame: 0, output: saida, inputProps, imageFormat: "jpeg", logLevel: "error" });
+      await renderStill({ composition, serveUrl, frame: 0, output: saida, inputProps, imageFormat: "jpeg", logLevel: "error", ...navegador });
       console.log(saida);
     }
   } finally {

@@ -8,7 +8,7 @@ import { bundle } from "@remotion/bundler";
 import { renderStill, selectComposition } from "@remotion/renderer";
 import { mkdirSync, rmSync } from "node:fs";
 import path from "node:path";
-import { argumentos, exigirProjeto, lerJson } from "./comum.mjs";
+import { argumentos, exigirProjeto, lerJson, navegador } from "./comum.mjs";
 
 exigirProjeto();
 const { opcoes, posicionais } = argumentos();
@@ -40,14 +40,14 @@ if (tempos.length === 0) {
 const serveUrl = await bundle({ entryPoint: path.resolve("src/index.ts") });
 try {
   const inputProps = opcoes.guias ? { plano, guias: true } : undefined;
-  const composition = await selectComposition({ serveUrl, id: "Edicao", inputProps });
+  const composition = await selectComposition({ serveUrl, id: "Edicao", inputProps, ...navegador });
   // rodada completa começa limpa, para não confundir quadros novos com os de uma rodada anterior
   if (opcoes.momentos || (opcoes.guias && posicionais.length === 0)) rmSync("out/stills", { recursive: true, force: true });
   mkdirSync("out/stills", { recursive: true });
   for (const t of tempos) {
     const frame = Math.max(0, Math.min(composition.durationInFrames - 1, Math.round(t * composition.fps)));
     const output = `out/stills/${opcoes.guias ? "guias-" : ""}t${t.toFixed(2).padStart(6, "0")}.jpg`;
-    await renderStill({ composition, serveUrl, frame, output, inputProps, imageFormat: "jpeg", jpegQuality: 88, scale: 0.5, logLevel: "error" });
+    await renderStill({ composition, serveUrl, frame, output, inputProps, imageFormat: "jpeg", jpegQuality: 88, scale: 0.5, logLevel: "error", ...navegador });
     console.log(output);
   }
 } finally {

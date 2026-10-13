@@ -14,7 +14,7 @@
   "dependencies": {
     "@remotion/bundler": "4.0.527",
     "@remotion/cli": "4.0.527",
-    "@remotion/google-fonts": "4.0.527",
+    "@remotion/fonts": "4.0.527",
     "@remotion/install-whisper-cpp": "4.0.527",
     "@remotion/media": "4.0.527",
     "@remotion/renderer": "4.0.527",

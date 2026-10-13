@@ -23,7 +23,7 @@ import { createHash } from "node:crypto";
 import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { argumentos, exigirProjeto, ffmpeg, ffprobe, gravarJson, lerJson, lerQuadros } from "./comum.mjs";
+import { argumentos, exigirProjeto, ffmpeg, ffprobe, gravarJson, lerJson, lerQuadros, navegador as configNavegador } from "./comum.mjs";
 
 exigirProjeto();
 const { opcoes, posicionais } = argumentos();
@@ -316,7 +316,7 @@ const navegador = async () => {
   garantirPasta(publica);
   const serveUrl = await bundle({ entryPoint: entrada, publicDir: publica });
   rmSync(publica, { recursive: true, force: true });
-  const browser = await openBrowser("chrome", { logLevel: "error" });
+  const browser = await openBrowser("chrome", { logLevel: "error", browserExecutable: configNavegador.browserExecutable });
   const still = async (id, inputProps, output, formato) => {
     const composition = await selectComposition({ serveUrl, id, inputProps, puppeteerInstance: browser, logLevel: "error" });
     await renderStill({

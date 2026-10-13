@@ -7,7 +7,7 @@ import { bundle } from "@remotion/bundler";
 import { renderMedia, selectComposition } from "@remotion/renderer";
 import { existsSync, mkdirSync, rmSync } from "node:fs";
 import path from "node:path";
-import { argumentos, exigirProjeto, ffmpeg, lerJson, medirVolume } from "./comum.mjs";
+import { argumentos, exigirProjeto, ffmpeg, lerJson, medirVolume, navegador } from "./comum.mjs";
 import { conferirPlano, tiposDoModelo } from "./conferir.mjs";
 
 exigirProjeto();
@@ -34,7 +34,7 @@ mkdirSync(path.dirname(saida), { recursive: true });
 
 const serveUrl = await bundle({ entryPoint: path.resolve("src/index.ts") });
 try {
-  const composition = await selectComposition({ serveUrl, id: "Edicao" });
+  const composition = await selectComposition({ serveUrl, id: "Edicao", ...navegador });
   let ultimo = -1;
   await renderMedia({
     composition,
@@ -49,6 +49,7 @@ try {
     colorSpace: "bt709",
     outputLocation: bruto,
     logLevel: "error",
+    ...navegador,
     onProgress: ({ progress }) => {
       const pct = Math.floor(progress * 10) * 10;
       if (pct !== ultimo) {

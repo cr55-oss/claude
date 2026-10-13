@@ -9,7 +9,7 @@ import { renderStill, selectComposition } from "@remotion/renderer";
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { argumentos, exigirProjeto, ffmpeg, ffprobe, gravarJson, medirVolume, mmss } from "./comum.mjs";
+import { argumentos, exigirProjeto, ffmpeg, ffprobe, gravarJson, medirVolume, mmss, navegador } from "./comum.mjs";
 
 // 1.7.2: última versão que compila só com `make` e já conhece o modelo turbo.
 const VERSAO_WHISPER = "1.7.2";
@@ -102,7 +102,16 @@ console.log(`Transcrevendo a fala em ${ilhas.length} bloco(s) (${modelo}, ${idio
 console.log("Na primeira vez o Whisper é compilado e o modelo (1,6 GB) é baixado: leva alguns minutos.");
 await installWhisperCpp({ to: PASTA_WHISPER, version: VERSAO_WHISPER, printOutput: false });
 mkdirSync(PASTA_MODELOS, { recursive: true });
-await downloadWhisperModel({ model: modelo, folder: PASTA_MODELOS, printOutput: false });
+try {
+  await downloadWhisperModel({ model: modelo, folder: PASTA_MODELOS, printOutput: false });
+} catch (e) {
+  // O modelo vem do HuggingFace. Em sessões na nuvem com rede limitada esse domínio costuma estar
+  // bloqueado: sem o modelo não há transcrição, e o modelo não funciona sem ela.
+  console.error(`\nNão foi possível baixar o modelo do Whisper (${modelo}): ${e.message}`);
+  console.error("O download vem de huggingface.co (e do CDN dele, *.hf.co). Libere esses domínios na rede do ambiente");
+  console.error(`ou coloque o arquivo ggml-${modelo}.bin em ${PASTA_MODELOS} e rode de novo.`);
+  process.exit(1);
+}
 
 // Pausas curtas (a partir de 0,2 s): usadas para tirar palavra de dentro de pausa e para
 // redistribuir as palavras de um trecho em que o Whisper devolveu tempos quebrados
@@ -356,8 +365,8 @@ const serveUrl = await bundle({ entryPoint: path.resolve("src/index.ts") });
 try {
   for (const i of [1, 2, 3]) {
     const inputProps = { imagem: `medir/quadro-${i}.jpg`, largura: larguraQuadro, altura: alturaQuadro };
-    const composition = await selectComposition({ serveUrl, id: "Medir", inputProps });
-    await renderStill({ composition, serveUrl, frame: 0, output: `work/medir-${i}.jpg`, inputProps, imageFormat: "jpeg", logLevel: "error" });
+    const composition = await selectComposition({ serveUrl, id: "Medir", inputProps, ...navegador });
+    await renderStill({ composition, serveUrl, frame: 0, output: `work/medir-${i}.jpg`, inputProps, imageFormat: "jpeg", logLevel: "error", ...navegador });
   }
 } finally {
   rmSync(serveUrl, { recursive: true, force: true });

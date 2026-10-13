@@ -22,11 +22,26 @@ El video se convierte en un examen hecho en vivo. La persona abre en pantalla co
 1. **Ambiente.**
    - Este modelo corre **en la computadora** del usuario: Claude Code, la app de Claude con acceso a la terminal, o el Codex (en la app de ChatGPT o en la terminal).
    - Necesita Node 18+, unos 3,5 GB libres e internet la primera vez (Whisper y modelo de transcripción, 1,6 GB, descargados una sola vez; navegador de render, 100 MB; el proyecto, ~1 GB). En Mac, la transcripción compila Whisper con las herramientas de Xcode (`xcode-select --install`).
-   - Si no puedes correr comandos en la computadora del usuario (ChatGPT o Claude en el navegador, sin terminal), **detente y explica eso**. No entregues una versión simplificada (solo subtítulos, cortes hechos por otro camino).
+   - También corre en una **sesión de Claude Code en la nube** (claude.ai/code o la app, con terminal): ve "Correr en la nube" abajo antes de empezar.
+   - Si no puedes correr comandos en ningún lado (ChatGPT o Claude en el navegador, sin terminal), **detente y explica eso**. No entregues una versión simplificada (solo subtítulos, cortes hechos por otro camino).
 2. **Carga la skill de Remotion** (`remotion-best-practices`). Si no está instalada, pídele al usuario que corra `npx skills add remotion-dev/skills`. El proyecto ya viene listo: no necesita `remotion-create` ni del Studio (los cuadros de `stills.mjs` son la vista previa). El pedido de edición ya es el pedido para renderizar.
 3. Confirma la ruta del video. Pregunta una vez **nombre y área** de quién habla (ej.: "Dra. Ana Ribeiro" / "Fisioterapeuta", "Carla" / "Educación financiera"): van en la firma del cierre, como en un expediente. Sin respuesta, continúa sin firma.
 
 - **Idioma:** el video del usuario está en español por defecto. La transcripción (`preparar.mjs` ya usa `--idioma es`), los subtítulos y cada texto en pantalla (rótulos, títulos, tarjetas, cierre) van en el idioma del video. Si el usuario habla otro idioma, pasa `--idioma <código>` a `preparar.mjs`. Este modelo trae sus rótulos fijos ya traducidos al español; si en los `stills` ves algún texto fijo que no corresponde al idioma del video, tradúcelo en `src/` antes del render.
+
+## Correr en la nube
+
+En una sesión de Claude Code en la nube (contenedor Linux, sin GPU, red limitada) el flujo es el mismo, con estas diferencias:
+
+- **El video** llega como archivo subido al chat: la ruta aparece en el mensaje del usuario (por ejemplo `/root/.claude/uploads/<sesión>/<archivo>.mp4`). Un link de Instagram/TikTok no sirve: pide el archivo.
+- **La carpeta del proyecto** va en el scratchpad de la sesión (o fuera del repo), nunca dentro del repo: `node_modules`, `work` y `out` pesan ~1 GB y no se commitean.
+- **Navegador del render:** los scripts usan solos el Chromium preinstalado (`PLAYWRIGHT_BROWSERS_PATH`), porque `remotion.media` está bloqueado. Para forzar otro: `REMOTION_BROWSER_EXECUTABLE=/ruta/al/chrome`.
+- **Tipografía:** Figtree viene dentro del proyecto (`public/fontes`), no depende de Google Fonts.
+- **Transcripción:** whisper.cpp se compila desde GitHub (≈1–2 min) y el modelo se baja de `huggingface.co` (redirige a `*.hf.co`). Si `preparar.mjs` dice que no pudo bajar el modelo, **detente**: el usuario debe agregar `huggingface.co` y `hf.co` a los dominios permitidos de la red del entorno (menú del entorno → Edit → Network access). No inventes la transcripción ni la reemplaces con otra cosa. El contenedor es efímero: en una sesión nueva el modelo se baja de nuevo (1,6 GB); si tarda mucho o la máquina es lenta, usa `--modelo small`.
+- **Sin escuchar:** para decidir tomas dudosas usa el `volumedetect` del paso 3 y los cuadros; no hay audio para ti.
+- **Render en CPU:** cuenta varios minutos por cada minuto de video. Corre `render.mjs` en segundo plano si pasa de ~10 min.
+- **Entrega:** deja el MP4 final en el scratchpad (o en una carpeta que el usuario pueda abrir) y envíalo con la herramienta de archivos al usuario; no lo commitees al repo.
+- **`imagens.mjs`** (búsqueda de imágenes en Wikimedia, Openverse, Pexels) depende de dominios que suelen estar bloqueados; el flujo de este modelo no lo necesita.
 
 ## Flujo
 

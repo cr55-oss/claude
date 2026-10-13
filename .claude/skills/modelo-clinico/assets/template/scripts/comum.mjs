@@ -1,7 +1,7 @@
 // Utilitários do motor. Usa o ffmpeg que já vem com o Remotion: o aluno não instala nada.
 import { RenderInternals } from "@remotion/renderer";
 import { spawn, spawnSync } from "node:child_process";
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const caminho = (type) =>
@@ -72,6 +72,21 @@ export const lerQuadros = (args, bytes, aoQuadro) =>
       else resolve(indice);
     });
   });
+
+// Navegador do render. Por padrão o Remotion baixa o dele (de remotion.media); onde esse download
+// não é possível (sessões na nuvem com rede limitada) usa um Chromium já instalado:
+// REMOTION_BROWSER_EXECUTABLE, ou o headless shell do Playwright em PLAYWRIGHT_BROWSERS_PATH.
+const acharNavegador = () => {
+  if (process.env.REMOTION_BROWSER_EXECUTABLE) return process.env.REMOTION_BROWSER_EXECUTABLE;
+  const pasta = process.env.PLAYWRIGHT_BROWSERS_PATH;
+  if (!pasta || !existsSync(pasta)) return null;
+  for (const d of readdirSync(pasta).filter((n) => n.startsWith("chromium_headless_shell-")).sort().reverse()) {
+    const bin = path.join(pasta, d, "chrome-linux", "headless_shell");
+    if (existsSync(bin)) return bin;
+  }
+  return null;
+};
+export const navegador = { browserExecutable: acharNavegador() };
 
 export const lerJson = (arquivo) => JSON.parse(readFileSync(arquivo, "utf8"));
 // Listas só de números (o rastro do rosto, a onda do áudio…) ficam numa linha só: o arquivo
