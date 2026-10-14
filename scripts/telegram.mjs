@@ -77,7 +77,8 @@ export function parseReelUrls(text) {
     let reel = null;
     if (host === "instagram.com") {
       const i = parts.findIndex((p) => ["reel", "reels", "p", "tv"].includes(p));
-      if (i >= 0 && parts[i + 1]) reel = { id: `ig-${parts[i + 1].toLowerCase()}`, url: `https://www.instagram.com/reel/${parts[i + 1]}/` };
+      // /p/ puede ser carrusel o reel: se conserva el link tal cual para no romper los carruseles.
+      if (i >= 0 && parts[i + 1]) reel = { id: `ig-${parts[i + 1].toLowerCase()}`, url: `https://www.instagram.com/${parts[i] === "reels" ? "reel" : parts[i]}/${parts[i + 1]}/`, tipo: parts[i] === "p" ? "post" : "reel" };
     } else if (host === "tiktok.com") {
       const i = parts.indexOf("video");
       if (i >= 0 && /^\d+$/.test(parts[i + 1] || "")) reel = { id: `tt-${parts[i + 1]}`, url: `https://www.tiktok.com/${parts[0]}/video/${parts[i + 1]}` };
