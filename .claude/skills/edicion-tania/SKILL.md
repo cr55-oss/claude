@@ -26,6 +26,7 @@ Referencias de esta skill (léelas antes de planear):
 - `references/audio.md` — voz, música con arco emocional, SFX, niveles.
 - `references/ganchos-visuales.md` — cómo detectar y tratar acciones físicas (hielo, objetos, demostraciones).
 - `references/fluidez.md` — quitar muletillas y cortar sin que se note (fluidez).
+- `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Pexels/Pixabay por API, Artlist con Claude en Chrome), música y efectos. Script: `scripts/buscar-broll.mjs`.
 - `references/flujo-tecnico.md` — herramientas y comandos (Whisper, ffmpeg, Remotion).
 - `references/plantilla-plan.md` — formato del plan que se entrega para aprobación.
 - Ejemplo de plan aprobado: `edicion/plan-fiebre-agua-fria.md` (en la raíz del repo).
@@ -71,6 +72,7 @@ Usa la herramienta de preguntas (con opciones y tu recomendación primero). Preg
 
 ### Fase 4 — Elaborar el plan
 Escríbelo en `edicion/plan-<tema>.md` con `plantilla-plan.md`: reglas que aplican a este video, tratamiento de ganchos detectados, escena por escena (qué dice, encuadre, zona sobre la cabeza, subtítulos, audio), arco musical, recursos a conseguir (búsquedas exactas de B-roll/música/SFX), lista de ilustraciones y los puntos donde tomaste una decisión que el usuario debe revisar.
+Antes de presentarlo, **busca y preselecciona los recursos** (B-roll, música, efectos) siguiendo `recursos.md`, y ponlos en el plan para aprobar.
 Presenta al usuario un resumen corto (tabla de escenas + decisiones a revisar) y el link/ruta del plan.
 
 ### Fase 5 — Aprobación
