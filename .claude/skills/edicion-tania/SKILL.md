@@ -25,6 +25,7 @@ Referencias de esta skill (léelas antes de planear):
 - `references/estilo.md` — imagen, tipografía, ilustraciones, zonas, sistema de puntuación.
 - `references/audio.md` — voz, música con arco emocional, SFX, niveles.
 - `references/ganchos-visuales.md` — cómo detectar y tratar acciones físicas (hielo, objetos, demostraciones).
+- `references/fluidez.md` — quitar muletillas y cortar sin que se note (fluidez).
 - `references/flujo-tecnico.md` — herramientas y comandos (Whisper, ffmpeg, Remotion).
 - `references/plantilla-plan.md` — formato del plan que se entrega para aprobación.
 - Ejemplo de plan aprobado: `edicion/plan-fiebre-agua-fria.md` (en la raíz del repo).
@@ -58,6 +59,7 @@ Objetivo: saber exactamente con qué material trabajas. Ver `flujo-tecnico.md` p
    - Lo que dijo que **no** está en el guion ("espera", "otra vez", comentarios) → se corta salvo que aporte.
    Resultado: la lista de cortes (tramos que se quedan, en el orden original) para aprobar en el plan.
 3. Marca palabras dudosas, censuradas o faltantes (Whisper vs. guion).
+   Detecta también **muletillas, arranques en falso y palabras repetidas** con el método de `fluidez.md` (Whisper suele limpiarlas de la transcripción).
 4. **Estructura narrativa:** gancho, identificación, autoridad, error/tensión, giro, explicación, solución, frase(s) clave, CTA. Pon tiempos.
 5. **Frases clave** (máx. 2–3): las que la gente recordaría o guardaría.
 6. **El momento más íntimo/emocional** (uno solo).
@@ -75,7 +77,7 @@ Presenta al usuario un resumen corto (tabla de escenas + decisiones a revisar) y
 **Espera un "aprobado" explícito** (o los cambios). Si pide cambios, actualiza el plan y vuelve a pedir aprobación. Sin aprobación no se pasa a la Fase 6.
 
 ### Fase 6 — Editar
-Orden: corte limpio → corrección de color → procesamiento de voz → ilustraciones y textos sincronizados a la palabra → B-roll → música y SFX → mezcla. Detalles en `flujo-tecnico.md`.
+Orden: corte limpio (tomas + muletillas + silencios, con las técnicas de `fluidez.md` para que no se noten los cortes) → corrección de color → procesamiento de voz → ilustraciones y textos sincronizados a la palabra → B-roll → música y SFX → mezcla. Detalles en `flujo-tecnico.md`.
 
 ### Fase 7 — Revisión antes del render
 Genera cuadros de verificación (un cuadro en cada evento del plan + bordes de cada escena) a ~540 px de ancho y revísalos tú primero: texto entero, nada sobre el rostro ni sobre la acción, zonas seguras de Instagram, dibujo correcto en la palabra correcta. Muéstrale al usuario los más importantes (gancho, frases clave, cierre) y ajusta lo que pida.
