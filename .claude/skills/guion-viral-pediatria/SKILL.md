@@ -180,6 +180,9 @@ Anota en qué segundo o % del video se revela el payoff en el original. Casi sie
 temprano (3-8s) — ese es el problema estructural que vamos a corregir.
 
 **Punto de control obligatorio: NO pases al paso 3 sin confirmación explícita del usuario.**
+(Excepción: si el reel llega marcado "adaptar" desde la bandeja de Telegram — skill
+`bandeja-telegram-tania` —, esa marca ya es la confirmación: Tania o el equipo eligieron la base
+antes de pedirlo.)
 Después de mostrar la descomposición (y las métricas del candidato — vistas, seguidores,
 verificación de outlier), pregunta directamente si esto le parece buena base para adaptar, o
 espera a que lo diga sin preguntar si el mensaje del usuario ya lo deja claro. El usuario decide

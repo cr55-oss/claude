@@ -1,7 +1,13 @@
 # Biblioteca de reels — Dra. Tania
 
-Desgloses hechos con el skill `desglose-reel-tania`. Uno por reel en `reels/`, el más reciente
-arriba. Para ver patrones: pide "qué patrones ves en la biblioteca".
+Todo lo que se manda al grupo de Telegram y lo que trae el radar de vidIQ, el más reciente
+arriba. Lo maneja el skill `bandeja-telegram-tania`.
 
-| Analizado | Reel | Creador | Seguidores | Vistas | Outlier | Filtro | Pilar | Nivel | Estructura | Tipo de gancho | Lección |
-|---|---|---|---|---|---|---|---|---|---|---|---|
+**Estados:** 📥 Guardado (sin analizar, 0 créditos) → 🔍 Analizado (`reels/<id>.md`) →
+✍️ Guion listo (`guiones/<id>.md`) → 🎬 Grabado
+
+Para adaptar uno: respondan en Telegram al mensaje del link con "adaptar" (o "me gusta", "este
+sí", ✅, 👍), o díganlo aquí en Claude.
+
+| Fecha | Reel | Estado | Origen | Mandado por | Nota | Creador | Outlier | Pilar | Estructura | Lección |
+|---|---|---|---|---|---|---|---|---|---|---|

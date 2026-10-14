@@ -21,19 +21,18 @@ Este skill termina en el desglose guardado. Nunca escribas la "versión de Tania
 usuario la quiere, pasa el desglose a `guion-viral-pediatria`, que tiene su propio punto de
 control (el usuario confirma la base antes de reestructurar).
 
-## Cómo llegan los links (inbox)
+## Cómo llegan los links
 
-Tania usa iPhone y el equipo usa Android; los dos usan Telegram. El inbox es **un grupo o canal
-de Telegram** (por ejemplo "Reels para analizar") donde cualquiera suelta links mientras
-scrollea. Cuando se sientan a trabajar, copian todos los links y los pegan juntos en un solo
-mensaje. También vale compartir un link directo a la app de Claude.
+Lo normal es que lleguen por el grupo de Telegram y los guarde el skill `bandeja-telegram-tania`
+(estado 📥 en `biblioteca/INDICE.md`, sin gastar créditos). Este skill se usa cuando alguien pide
+**adaptar** uno: desde Telegram ("adaptar" respondiendo al link) o aquí en el chat.
 
-Al recibir el mensaje:
+Al recibir links:
 1. Extrae todas las URLs de Instagram (`/reel/`, `/p/`), TikTok (`/@user/video/<id>`) y YouTube
-   Shorts. Ignora texto alrededor y duplicados.
+   Shorts. Ignora el texto alrededor y los duplicados.
 2. Id de cada reel: `ig-<shortcode en minúsculas>`, `tt-<id del video>`, `yt-<id en minúsculas>`.
 3. Si `biblioteca/reels/<id>.md` ya existe, **no lo vuelvas a analizar** (cuesta créditos):
-   avisa "ya estaba en la biblioteca" y muestra su resumen.
+   avisa "ya estaba analizado" y muestra su resumen.
 4. Links cortos de TikTok (`vm.tiktok.com`, `tiktok.com/t/`) no los acepta vidIQ: pide el link
    completo.
 
@@ -109,7 +108,8 @@ mecanismo; las palabras de Tania se escriben en `guion-viral-pediatria`.
 ## Guardar en la biblioteca
 
 1. Escribe `biblioteca/reels/<id>.md` con la plantilla de `references/plantilla-desglose.md`.
-2. Agrega una fila a `biblioteca/INDICE.md` (la más reciente arriba).
+2. En `biblioteca/INDICE.md`: si el reel ya tiene fila, cámbiale el estado a 🔍 Analizado y
+   llena creador, outlier, pilar, estructura y lección; si no tiene, agrégala arriba.
 3. **Haz commit y push.** Esta sesión corre en un contenedor temporal: lo que no se sube a git
    se pierde. Mensaje: `Biblioteca: desglose de <id> (@creador)` o, para lotes,
    `Biblioteca: N desgloses`.

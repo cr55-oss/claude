@@ -80,5 +80,5 @@ tipo_gancho: miedo específico
 ## Fila para `biblioteca/INDICE.md`
 
 ```
-| 2026-10-12 | [ig-abc123](reels/ig-abc123.md) | @handle | 63K | 812K | 8.5x | ✅ | Seguridad | N2 | Charlie | miedo específico | <lección en una línea> |
+| 2026-10-12 | [ig-abc123](reels/ig-abc123.md) | 🔍 Analizado | Telegram | Tania | cólicos, mira el gancho | @handle | 8.5x | Seguridad | Charlie | <lección en una línea> |
 ```
