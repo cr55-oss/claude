@@ -5,12 +5,14 @@ Claude busca y preselecciona los recursos **él mismo**; el usuario aprueba la s
 ## Dónde y cómo
 | Fuente | Cómo accede Claude | Qué buscar ahí |
 |---|---|---|
-| **Magnific (antes Freepik) — fuente principal** | **Conector `magnific`**: `stock_search` (video/foto/vector/ícono; filtros `ai_generated: excluded`, `orientation`, `video_type: footage`), `stock_get` (detalles), previsualización con marca de agua para elegir, `stock_download` para el archivo final (**gasta créditos**: ~150 los gratuitos, ~600 los premium) | B-roll de mamás/bebés/fiebre/baño, fotos, íconos dibujados a mano (`shape: hand-drawn`) como referencia de trazo |
+| **Artlist — fuente principal (suscripción ya pagada)** | Claude en Chrome con la sesión del usuario | B-roll, **música** y **efectos**. Las descargas de stock entran en la suscripción (sin costo por clip); las funciones de IA de Artlist sí pueden gastar créditos aparte: no usarlas sin aprobación |
+| **Magnific (antes Freepik) — respaldo** | **Conector `magnific`**: `stock_search` (video/foto/vector/ícono; filtros `ai_generated: excluded`, `orientation`, `video_type: footage`), `stock_get` (detalles), previsualización con marca de agua para elegir, `stock_download` para el archivo final (**gasta créditos**: ~150 los gratuitos, ~600 los premium) | B-roll de mamás/bebés/fiebre/baño, fotos, íconos dibujados a mano (`shape: hand-drawn`) como referencia de trazo |
 | **Pexels** (gratis, API) | `scripts/buscar-broll.mjs` con `PEXELS_API_KEY` | B-roll de mamás, bebés, casa, baño, médico |
 | **Pixabay** (gratis, API, opcional) | el mismo script con `PIXABAY_API_KEY` | complemento de Pexels |
-| **Artlist** (de pago, sin API pública) | **Claude en Chrome** con la sesión del usuario: navegar artlist.io, buscar, abrir clips, mirar previsualizaciones y descargar con su cuenta | B-roll premium, **música** y **efectos de sonido** |
 
 Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas exactas y el usuario descarga.
+
+**Orden de búsqueda:** Artlist primero (ya pagado) → Pexels/Pixabay (gratis) → Magnific solo si no se encontró nada adecuado (gasta créditos; mostrar el costo en el plan).
 
 ### Magnific: reglas de uso
 - Revisa el saldo con `account_balance` antes de descargar; **nunca descargues (gasta créditos) antes de la aprobación del plan.**
