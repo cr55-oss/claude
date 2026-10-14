@@ -32,6 +32,10 @@ Referencias de esta skill (léelas antes de planear):
 
 ---
 
+## Lo que recibes en cada video
+- **El crudo:** un solo archivo grabado **en orden**. Trae tomas repetidas, errores y silencios, pero las ideas ya están en la secuencia correcta. **No se reordenan segmentos**: el trabajo de corte es *quitar* (tomas fallidas, repeticiones, silencios), no reacomodar.
+- **El guion escrito** (pídelo si no lo tienes). Es la referencia para saber qué toma es la buena y qué frases son las importantes.
+
 ## El flujo [fijo]
 
 **No edites, no renderices y no generes gráficos finales antes de la Fase 5.** Las fases 1–4 solo analizan y proponen.
@@ -46,13 +50,19 @@ Objetivo: saber exactamente con qué material trabajas. Ver `flujo-tecnico.md` p
 6. **Lo que hace único a este video** (lo más importante de la fase). Mira el material completo y anota todo lo que no es "Tania hablando a cámara": objetos o accesorios, acciones (hielo, sacar algo, mostrar), un bebé o persona en cuadro, cambios de lugar o de plano, gestos fuertes, humor, una emoción visible, sonidos reales interesantes, un error espontáneo que vale la pena dejar. Para cada uno: ¿cómo lo potencia la edición? El plan **empieza** por esta lista.
 
 ### Fase 2 — Analizar el guion
-1. **Transcribe con Whisper palabra por palabra** (tiempos por palabra). Si el usuario dio una transcripción, úsala solo para comparar; manda la de Whisper.
-2. Marca palabras dudosas, censuradas o faltantes.
-3. **Estructura narrativa:** gancho, identificación, autoridad, error/tensión, giro, explicación, solución, frase(s) clave, CTA. Pon tiempos.
-4. **Frases clave** (máx. 2–3): las que la gente recordaría o guardaría.
-5. **El momento más íntimo/emocional** (uno solo).
-6. **Qué se puede dibujar:** cada concepto que se pueda convertir en objeto visual (síntoma, órgano, proceso, dato, consejo).
-7. **Fidelidad médica:** lista de lo que **no** se debe inventar en pantalla (números, dosis, plazos, diagnósticos no dichos).
+1. **Transcribe con Whisper palabra por palabra** (tiempos por palabra).
+2. **Alinea lo que dijo con el guion escrito**, frase por frase. Para cada frase del guion:
+   - ¿Cuántas veces la dijo? → si hay varias tomas, por defecto queda **la última completa y sin errores**; si una anterior se ve mejor (gesto, energía, sin trabarse), proponla en el plan.
+   - ¿La dijo distinto al guion? → si es una mejora natural o una improvisación buena, se queda; si es un error, se busca otra toma.
+   - ¿Falta alguna frase del guion en el crudo? → avísalo en la Fase 3.
+   - Lo que dijo que **no** está en el guion ("espera", "otra vez", comentarios) → se corta salvo que aporte.
+   Resultado: la lista de cortes (tramos que se quedan, en el orden original) para aprobar en el plan.
+3. Marca palabras dudosas, censuradas o faltantes (Whisper vs. guion).
+4. **Estructura narrativa:** gancho, identificación, autoridad, error/tensión, giro, explicación, solución, frase(s) clave, CTA. Pon tiempos.
+5. **Frases clave** (máx. 2–3): las que la gente recordaría o guardaría.
+6. **El momento más íntimo/emocional** (uno solo).
+7. **Qué se puede dibujar:** cada concepto que se pueda convertir en objeto visual (síntoma, órgano, proceso, dato, consejo).
+8. **Fidelidad médica:** lista de lo que **no** se debe inventar en pantalla (números, dosis, plazos, diagnósticos no dichos).
 
 ### Fase 3 — Preguntar lo necesario
 Usa la herramienta de preguntas (con opciones y tu recomendación primero). Pregunta **solo lo que cambia el plan** y no se puede deducir del material: palabras dudosas, qué toma queda cuando hay dos buenas, si se conserva toda la duración, si hay B-roll propio, si una acción que viste fue intencional, etc. Si no hay dudas reales, dilo y sigue.

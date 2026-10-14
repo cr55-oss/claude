@@ -12,6 +12,7 @@ Archivo: `edicion/plan-<tema>.md`. Ejemplo completo: `edicion/plan-fiebre-agua-f
 ## Resumen del análisis
 - Video: <resolución, luz, audio, espacio sobre la cabeza y en qué tramos, tomas>
 - Guion: <estructura con tiempos, frases clave, momento íntimo>
+- Tomas: <frase del guion → toma elegida (tiempo) y por qué · frases dichas distinto al guion · frases faltantes>
 - Ganchos visuales detectados: <evento, cuadro cumbre, si habla encima, propuesta>
 - Palabras dudosas: <lista>
 
