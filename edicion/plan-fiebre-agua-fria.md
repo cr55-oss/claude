@@ -4,6 +4,8 @@
 **Estilo:** "Trazo a mano cálido" — ver maqueta: https://claude.ai/artifact/8y5gtXG1bKhK7n7sUFh9p7
 **Archivo crudo:** `202610051046.mp4` (Drive → `Reels-Tania/crudos/`)
 
+> **Estado: BORRADOR hecho sin ver el video** (solo con la transcripción). Con la skill `edicion-tania`, el Claude que edite debe hacer primero la Fase 1 (analizar el video) y la Fase 2 (Whisper), ajustar este plan con lo que encuentre, preguntar lo necesario y **pedir aprobación antes de editar**.
+>
 > Los tiempos de este plan salen de la transcripción por bloques de ~5 s. **Antes de editar, transcribir con Whisper (palabra por palabra) y re-sincronizar cada evento a la palabra exacta** que lo dispara (columna "Disparo"). Si el encuadre real no deja espacio sobre la cabeza en algún tramo, usar acercamiento en lugar de dibujo.
 
 ---
@@ -106,10 +108,12 @@ Leyenda: **A** = toma de Tania · **Zona** = espacio sobre la cabeza · **Sub** 
 **Dice:** "No le des un baño de agua fría para la fiebre hasta que veas [esto]."
 **Acción:** Tania echa hielo a la bañera. **La acción es el gancho; la edición está a su servicio.** Correr primero la detección de la sección 2.0 para obtener los tiempos exactos (inicio del gesto, impacto del hielo, fin de la acción).
 
+**Dato confirmado:** Tania **habla mientras echa el hielo** → no hay cold open ni cámara lenta (la voz manda). La tensión se crea con encuadre, sonido y el momento en que entra el texto. *Los tiempos exactos salen del análisis del video; esto es un criterio, no una receta: si al ver el material algo funciona mejor, proponerlo en el plan.*
+
 **Corte**
-- **Primer cuadro ya en movimiento:** el video arranca con la mano/el hielo ya en el aire o a punto de caer. Se quita todo lo anterior al gesto (máximo 0,3 s antes del impacto).
-- **"Cold open" si la acción ocurre antes de que hable:** se abre con el impacto (0,5–1 s) y la voz entra justo después. Si habla durante la acción, se respeta el orden original.
-- **Nunca acelerar** la voz. Si el impacto ocurre en un tramo **sin voz**, se permite **cámara lenta al 50 % solo durante ~0,4 s** alrededor del impacto (rampa de velocidad); con voz encima, no.
+- **Primer cuadro ya en movimiento:** arrancar en la primera sílaba o en el inicio del gesto, lo que ocurra primero. Nada de cuadros muertos.
+- Respetar el orden original (habla + acción a la vez). **Nunca acelerar** ni ralentizar.
+- **Analizar en qué palabra cae el impacto del hielo:** si cae sobre "baño" o "fría", es el momento cumbre natural; construir el ★ ahí.
 
 **Encuadre**
 - Plano completo de la acción mientras ocurre (no tapar la bañera ni las manos).
@@ -128,7 +132,7 @@ Leyenda: **A** = toma de Tania · **Zona** = espacio sobre la cabeza · **Sub** 
 
 **Audio (la tensión se construye con sonido)**
 - **0 → impacto:** casi silencio + un *riser* grave muy sutil (crea expectativa).
-- **Impacto:** el **sonido real** del hielo/agua es el protagonista: aislarlo y **subirlo +4/+6 dB**; si el sonido real es pobre, reforzarlo con SFX de `ice cubes dropping in water` / `ice splash` sincronizado al cuadro exacto.
+- **Impacto:** el sonido del hielo/agua tiene que **oírse sin tapar la voz**. Como habla encima, colocar el refuerzo (SFX `ice cubes dropping in water` / `ice splash`, o el sonido real aislado) en el **hueco entre dos palabras** más cercano al impacto, con un pico corto; si no hay hueco, dejarlo por debajo de la voz (−6 dB respecto a ella) y con brillo (2–6 kHz) para que se distinga.
 - **Justo después del impacto:** golpe grave apagado (*low hit*) que coincide con la entrada del título.
 - Luego, pad grave sostenido hasta la escena 2.
 
