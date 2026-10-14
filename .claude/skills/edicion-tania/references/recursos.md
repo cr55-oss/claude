@@ -5,14 +5,17 @@ Claude busca y preselecciona los recursos **él mismo**; el usuario aprueba la s
 ## Dónde y cómo
 | Fuente | Cómo accede Claude | Qué buscar ahí |
 |---|---|---|
-| **Artlist — fuente principal (suscripción ya pagada)** | Claude en Chrome con la sesión del usuario | B-roll, **música** y **efectos**. Las descargas de stock entran en la suscripción (sin costo por clip); las funciones de IA de Artlist sí pueden gastar créditos aparte: no usarlas sin aprobación |
+| **Epidemic Sound — música y efectos (conector)** | Conector `Epidemic_Sound` (ver sección abajo) | Música con arco emocional, stems, ajuste a la duración exacta, efectos de sonido |
+| **Artlist — B-roll principal (suscripción ya pagada)** | Claude en Chrome con la sesión del usuario | B-roll (y música/efectos si Epidemic no tiene algo). Las descargas de stock entran en la suscripción (sin costo por clip); las funciones de IA de Artlist sí pueden gastar créditos aparte: no usarlas sin aprobación |
 | **Magnific (antes Freepik) — respaldo** | **Conector `magnific`**: `stock_search` (video/foto/vector/ícono; filtros `ai_generated: excluded`, `orientation`, `video_type: footage`), `stock_get` (detalles), previsualización con marca de agua para elegir, `stock_download` para el archivo final (**gasta créditos**: ~150 los gratuitos, ~600 los premium) | B-roll de mamás/bebés/fiebre/baño, fotos, íconos dibujados a mano (`shape: hand-drawn`) como referencia de trazo |
 | **Pexels** (gratis, API) | `scripts/buscar-broll.mjs` con `PEXELS_API_KEY` | B-roll de mamás, bebés, casa, baño, médico |
 | **Pixabay** (gratis, API, opcional) | el mismo script con `PIXABAY_API_KEY` | complemento de Pexels |
 
 Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas exactas y el usuario descarga.
 
-**Orden de búsqueda:** Artlist primero (ya pagado) → Pexels/Pixabay (gratis) → Magnific solo si no se encontró nada adecuado (gasta créditos; mostrar el costo en el plan).
+**Audio:** Epidemic primero → Artlist si falta algo.
+
+**Orden de búsqueda (B-roll):** Artlist primero (ya pagado) → Pexels/Pixabay (gratis) → Magnific solo si no se encontró nada adecuado (gasta créditos; mostrar el costo en el plan).
 
 ### Magnific: reglas de uso
 - Revisa el saldo con `account_balance` antes de descargar; **nunca descargues (gasta créditos) antes de la aprobación del plan.**
@@ -38,7 +41,23 @@ Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas e
 - **Calidad:** mínimo 1080 px en el lado corto; sin cámara temblorosa salvo que se busque.
 - **Licencia:** uso comercial permitido; guardar créditos.
 
-## Música (Artlist / Epidemic)
+## Música y efectos con Epidemic Sound (conector — fuente principal de audio)
+Herramientas del conector `Epidemic_Sound`:
+- `SearchRecordings`: buscar por término, estado de ánimo (`moodSlugs`), instrumento, BPM, duración, sin voces (`vocals: false`). Devuelve etiquetas, BPM, duración, **stems** y una vista previa MP3.
+- `SearchSimilarToRecording` / `SearchExternalReferences`: "algo como esta pista" (incluso a partir de una canción de Spotify que le guste al usuario).
+- `EditRecording` + `PollEditRecordingJob` + `DownloadRecordingEdit`: **reacomoda la pista a la duración exacta del video** (`targetDurationMs`), evitando o prefiriendo partes (`preferenceRegions`) y **colocando una sección concreta en un segundo concreto** (`requiredRegionsAtOffsets`), p. ej. que la parte que "resuelve" caiga justo en la frase clave o en el CTA.
+- `DownloadRecording`: WAV completo o **stems** (p. ej. solo `INSTRUMENTS` o sin `DRUMS`) para bajar la energía en partes tranquilas.
+- `SearchSoundEffects` / `SearchSimilarToSoundEffect` / `DownloadSoundEffect`: kit de efectos (lápiz sobre papel, hielo cayendo al agua, whoosh grave, latido).
+
+**Cómo "escucha" Claude la música sin oídos:** descarga la vista previa MP3 y la analiza con ffmpeg (curva de volumen por segundo con `ebur128`/`astats`, silencios, picos) o lee el `waveformUrl`. Así ubica dónde la pista es tranquila, dónde crece y dónde resuelve, y la alinea con el arco del guion. Aun así, **el usuario escucha las 2–3 finalistas y elige**.
+
+Flujo de música en el plan:
+1. Buscar 6–10 pistas por estado de ánimo (`sentimental`, `hopeful`, `peaceful`, `elegant`; piano solo o ambient; sin voces; 60–90 BPM).
+2. Analizar su forma (curva de energía) y quedarse con 3 cuya forma se parezca al arco emocional del video.
+3. En el plan: las 3 con link de vista previa, motivo y en qué segundo del video caería cada sección.
+4. Tras la aprobación: `EditRecording` a la duración exacta del corte final, con la sección que resuelve anclada a la frase clave / CTA; descargar en WAV.
+
+## Música (Artlist / Epidemic) — criterios
 - Claude **no puede escuchar**: preselecciona por la información del catálogo (estado de ánimo, instrumentos, BPM, duración, si tiene secciones tensas y cálidas, si tiene versiones/stems).
 - Propone **3 pistas** con el motivo y los tiempos donde cambiaría de sección; **el usuario las escucha y elige**.
 - Búsquedas: `emotional piano warm`, `soft ambient hopeful`, `gentle piano tension`, sin voces.

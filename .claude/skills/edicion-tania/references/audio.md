@@ -22,7 +22,7 @@ No una pista plana: la música sigue la estructura del guion. Patrón base (ajú
 | Explicación | pulso ligero, curioso |
 | Solución | resolución cálida, alivio |
 | CTA | sube y termina en la última palabra |
-- Fuente: biblioteca con licencia **comercial** (Artlist Max / Epidemic Pro). Búsquedas: `emotional piano warm`, `soft ambient hopeful`, `gentle piano tension`. Ideal una pista con sección tensa y sección que resuelve, o dos del mismo autor.
+- Fuente: **Epidemic Sound por conector** (ver `recursos.md`: búsqueda por estado de ánimo, análisis de la forma de la pista y ajuste a la duración exacta con la sección que resuelve anclada a la frase clave). Respaldo: Artlist. Licencia **comercial**. Búsquedas: `emotional piano warm`, `soft ambient hopeful`, `gentle piano tension`. Ideal una pista con sección tensa y sección que resuelve, o dos del mismo autor.
 - Niveles: con voz, la música ~20–24 dB por debajo (mínimo 7 LU de diferencia); ducking 6–12 dB con transiciones de 300–500 ms; sube levemente en pausas.
 
 ## Efectos de sonido (firma sonora)
