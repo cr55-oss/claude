@@ -66,22 +66,73 @@
 
 ---
 
+## 2.0 Detección de ganchos visuales y objetos (correr ANTES de editar)
+
+Tania a veces usa ganchos físicos: echar hielo a la bañera, sacar objetos de debajo de la mesa, mostrar algo a cámara. Si la edición no los detecta, se tapan con texto o se cortan mal y se pierde el mejor momento del video. Proceso:
+
+**1. Señales automáticas (ffmpeg / análisis de cuadros)**
+| Señal | Cómo | Qué indica |
+|---|---|---|
+| **Movimiento** | diferencia entre cuadros consecutivos (energía de movimiento por cada 0,1 s), sobre todo fuera del área del rostro | gesto grande: lanzar, sacar, mostrar |
+| **Transitorios de audio** | picos súbitos que **no** son voz (onsets entre palabras de Whisper, o energía alta en 2–8 kHz) | impacto: hielo, agua, golpe en la mesa, objeto |
+| **Cambio de escena** | detector de escena de ffmpeg (`scdet`) | corte de toma / cambio de plano |
+| **Huecos en la voz** | intervalos de Whisper sin palabras con movimiento alto | acción sin diálogo (candidata a cold open o cámara lenta) |
+
+**2. Confirmación visual (Claude mira los cuadros)**
+- Extraer un cuadro cada 0,2 s en los **primeros 6 s** y en cada pico detectado (±1 s).
+- Para cada pico, describir: qué objeto, qué gesto, **cuadro exacto del momento cumbre** (impacto, objeto visible por primera vez), y **en qué zona de la pantalla ocurre**.
+
+**3. Registro de eventos** (`work/eventos.json`), un elemento por acción:
+`{ tipo: "impacto" | "revelacion" | "demostracion", objeto, inicio, cumbre, fin, zona: {x,y,w,h}, tieneVoz: true|false }`
+
+**4. Reglas de tratamiento según el tipo**
+| Tipo | Ejemplo | Tratamiento |
+|---|---|---|
+| **Impacto** | hielo a la bañera, golpe | primer cuadro en movimiento · silencio + riser antes · ★ acercamiento en la cumbre · sonido real +4/+6 dB (o SFX reforzado) · cámara lenta 50 % solo si no hay voz · texto **después** |
+| **Revelación** | saca un objeto de debajo de la mesa | whoosh grave al subir el objeto · ★ acercamiento al objeto en la cumbre · **círculo/flecha dibujados a mano** señalando el objeto + rótulo a mano con su nombre · subtítulo con el nombre del objeto en ocre |
+| **Demostración** | muestra cómo se hace algo | sin acercamientos bruscos · dibujos guía (flechas, pasos) en la zona libre · nada tapa las manos |
+
+**5. Reglas de oro**
+- **La zona de la acción es intocable**: ni títulos, ni dibujos, ni ventanas de B-roll encima mientras ocurre. Los gráficos se mueven al área libre.
+- El texto **responde** a la acción (llega después de la cumbre), nunca la anticipa.
+- Si una acción es más fuerte que la frase con la que se abre el video, **la acción abre el video** (cold open).
+- Toda acción detectada se reporta al usuario en la revisión ("detecté hielo a la bañera en 0:00,8; propongo cold open") antes del render.
+
 ## 2. Escena por escena
 
 Leyenda: **A** = toma de Tania · **Zona** = espacio sobre la cabeza · **Sub** = subtítulos · ★ = acercamiento
 
-### Escena 1 — Gancho · 0:00–0:04
+### Escena 1 — Gancho VISUAL (Tania echa hielo a la bañera) · 0:00–0:04
 **Dice:** "No le des un baño de agua fría para la fiebre hasta que veas [esto]."
-- **A:** 100 %. ★ en "hasta que veas".
-- **Zona:** título apilado (sin subtítulos):
+**Acción:** Tania echa hielo a la bañera. **La acción es el gancho; la edición está a su servicio.** Correr primero la detección de la sección 2.0 para obtener los tiempos exactos (inicio del gesto, impacto del hielo, fin de la acción).
+
+**Corte**
+- **Primer cuadro ya en movimiento:** el video arranca con la mano/el hielo ya en el aire o a punto de caer. Se quita todo lo anterior al gesto (máximo 0,3 s antes del impacto).
+- **"Cold open" si la acción ocurre antes de que hable:** se abre con el impacto (0,5–1 s) y la voz entra justo después. Si habla durante la acción, se respeta el orden original.
+- **Nunca acelerar** la voz. Si el impacto ocurre en un tramo **sin voz**, se permite **cámara lenta al 50 % solo durante ~0,4 s** alrededor del impacto (rampa de velocidad); con voz encima, no.
+
+**Encuadre**
+- Plano completo de la acción mientras ocurre (no tapar la bañera ni las manos).
+- **★ Acercamiento seco en el cuadro del impacto** (110–115 %, centrado en el agua/hielo), 0,5–0,8 s.
+- Luego vuelve al rostro de Tania para "hasta que veas esto".
+
+**Texto (aplaza el título hasta después del impacto)**
+- **Antes y durante la acción: nada en pantalla** salvo subtítulos de 1–2 palabras si habla. La acción no compite con texto.
+- **Después del impacto:** título apilado **fuera del área de la acción** (si la bañera está abajo, el título va arriba):
   ```
   NO le des un
   BAÑO de agua FRÍA     ← "FRÍA" en ocre
   para la fiebre
   ```
-  Entra palabra por palabra con la voz.
-- **Audio:** sin música; solo una nota/pad grave sostenido muy bajo (tensión). "Pop" grave al completar el título.
-- **Objetivo:** frenar el scroll con la promesa completa en pantalla en < 3 s.
+- En "no le des" se dibuja una **✗ ocre a mano** sobre la bañera/hielo (trazo, no sticker).
+
+**Audio (la tensión se construye con sonido)**
+- **0 → impacto:** casi silencio + un *riser* grave muy sutil (crea expectativa).
+- **Impacto:** el **sonido real** del hielo/agua es el protagonista: aislarlo y **subirlo +4/+6 dB**; si el sonido real es pobre, reforzarlo con SFX de `ice cubes dropping in water` / `ice splash` sincronizado al cuadro exacto.
+- **Justo después del impacto:** golpe grave apagado (*low hit*) que coincide con la entrada del título.
+- Luego, pad grave sostenido hasta la escena 2.
+
+**Objetivo:** que en el primer segundo ya esté pasando algo inesperado (hielo + bañera + doctora) y que el título llegue como respuesta a esa imagen.
 - ⚠️ Verificar con Whisper la palabra final ("esto"); la transcripción la corta.
 
 ### Escena 2 — La escena que toda mamá vivió · 0:04–0:09
