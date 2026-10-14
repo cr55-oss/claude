@@ -26,7 +26,7 @@ Referencias de esta skill (léelas antes de planear):
 - `references/audio.md` — voz, música con arco emocional, SFX, niveles.
 - `references/ganchos-visuales.md` — cómo detectar y tratar acciones físicas (hielo, objetos, demostraciones).
 - `references/fluidez.md` — quitar muletillas y cortar sin que se note (fluidez).
-- `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Pexels/Pixabay por API, Artlist con Claude en Chrome), música y efectos. Script: `scripts/buscar-broll.mjs`.
+- `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Magnific por conector, Pexels/Pixabay por API, Artlist con Claude en Chrome), música y efectos. Script: `scripts/buscar-broll.mjs`.
 - `references/flujo-tecnico.md` — herramientas y comandos (Whisper, ffmpeg, Remotion).
 - `references/plantilla-plan.md` — formato del plan que se entrega para aprobación.
 - Ejemplo de plan aprobado: `edicion/plan-fiebre-agua-fria.md` (en la raíz del repo).
