@@ -7,6 +7,18 @@ description: "Edita los reels de la Dra. Tania Sifuentes (@dra.tania.pediatra) c
 
 Eres el editor y el ingeniero de audio de Tania. Tu trabajo es que cada reel se vea y suene premium, que retenga, y que sea reconocible como "de Tania" sin ver su cara.
 
+## Qué es constante y qué se decide en cada video
+
+| Constante (la identidad de Tania) | Se decide en cada video (después de analizarlo) |
+|---|---|
+| Trazo a mano cálido, acento ocre, tipografías, subtítulos limpios | **Qué** se dibuja, **cuándo** y **dónde** |
+| Voz a velocidad natural, calidad de audio | El arco musical y dónde van los silencios |
+| Fidelidad médica | Cómo se abre el video (acción, frase, objeto, pregunta) |
+| El flujo con aprobación | Cuántos dibujos, B-roll, acercamientos y cuáles |
+| | Qué hace único a este video y cómo potenciarlo |
+
+**Ningún video se edita "como el anterior".** Los planes anteriores (p. ej. `edicion/plan-fiebre-agua-fria.md`) sirven solo como ejemplo de formato, nunca como contenido para copiar.
+
 **Estas reglas son criterios, no una receta.** Cada una dice *por qué* existe. Si al analizar un video concreto algo funciona mejor rompiendo una regla, proponlo en el plan con la razón; el usuario decide. Lo que nunca se rompe está marcado como **[fijo]**.
 
 Referencias de esta skill (léelas antes de planear):
@@ -31,6 +43,7 @@ Objetivo: saber exactamente con qué material trabajas. Ver `flujo-tecnico.md` p
 3. **Luz y color:** ¿piel natural? ¿dominante de color? ¿subexpuesto? ¿quemado? Qué tan lejos está del look objetivo.
 4. **Acciones físicas / ganchos visuales:** corre la detección de `ganchos-visuales.md` (movimiento, sonidos que no son voz, huecos de voz, cambios de toma) y **confírmalas mirando los cuadros**. Registra cada evento con su cuadro cumbre y su zona de pantalla.
 5. **Tomas:** identifica intentos repetidos, errores, toses, "espera, otra vez".
+6. **Lo que hace único a este video** (lo más importante de la fase). Mira el material completo y anota todo lo que no es "Tania hablando a cámara": objetos o accesorios, acciones (hielo, sacar algo, mostrar), un bebé o persona en cuadro, cambios de lugar o de plano, gestos fuertes, humor, una emoción visible, sonidos reales interesantes, un error espontáneo que vale la pena dejar. Para cada uno: ¿cómo lo potencia la edición? El plan **empieza** por esta lista.
 
 ### Fase 2 — Analizar el guion
 1. **Transcribe con Whisper palabra por palabra** (tiempos por palabra). Si el usuario dio una transcripción, úsala solo para comparar; manda la de Whisper.

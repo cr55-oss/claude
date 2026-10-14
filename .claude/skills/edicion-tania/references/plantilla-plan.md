@@ -6,6 +6,9 @@ Archivo: `edicion/plan-<tema>.md`. Ejemplo completo: `edicion/plan-fiebre-agua-f
 # Plan de edición — "<título / primera frase>"
 **Crudo:** <archivo> · **Duración:** <original> → <estimada> · **Estado:** PENDIENTE DE APROBACIÓN
 
+## Lo que hace único a este video
+- <elemento del material> → <cómo lo potencia la edición>
+
 ## Resumen del análisis
 - Video: <resolución, luz, audio, espacio sobre la cabeza y en qué tramos, tomas>
 - Guion: <estructura con tiempos, frases clave, momento íntimo>
