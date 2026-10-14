@@ -15,7 +15,7 @@ Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas e
 
 **Audio:** Epidemic primero → Artlist si falta algo.
 
-**Orden de búsqueda (B-roll):** Artlist primero (ya pagado) → Pexels/Pixabay (gratis) → Magnific solo si no se encontró nada adecuado (gasta créditos; mostrar el costo en el plan).
+**Orden de búsqueda (B-roll):** Artlist primero (ya pagado) → Pexels/Pixabay (gratis) → Magnific (créditos) → Higgsfield para generar solo objetos/detalles que no existan en stock (créditos). Todo costo va en el plan.
 
 ### Magnific: reglas de uso
 - Revisa el saldo con `account_balance` antes de descargar; **nunca descargues (gasta créditos) antes de la aprobación del plan.**
@@ -40,6 +40,20 @@ Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas e
 - **Composición:** el sujeto debe caber bien en la ventana de la zona de contenido (o en vertical si va a pantalla completa); evitar texto, logos o marcas de agua.
 - **Calidad:** mínimo 1080 px en el lado corto; sin cámara temblorosa salvo que se busque.
 - **Licencia:** uso comercial permitido; guardar créditos.
+
+## Higgsfield (conector) — solo cuando el stock no alcanza
+Generación con IA (imagen/video), mejora de material y predicción de desempeño. **Gasta créditos: cada uso va en el plan con su costo y requiere aprobación.**
+
+**Sí se usa para:**
+- Planos de **objetos o detalle** que no existen en stock o no encajan: hielo cayendo al agua en cámara lenta, gotas, termómetro en macro, ropa ligera sobre una cama, un vaso de agua con luz cálida.
+- Visuales **abstractos/explicativos** que el dibujo a mano no resuelve bien (siempre coherentes con el look cálido; nunca "anatomía hiperrealista").
+- **Mejorar material propio:** reescalar (`upscale_video`), reencuadrar (`reframe`) o reiluminar un cuadro problemático.
+- **Revisión opcional del corte final** con `virality_predictor` (fuerza del gancho, riesgo de abandono). Es una opinión más, no una verdad: se reporta junto con el análisis propio.
+
+**No se usa para [fijo]:**
+- Bebés, niños o personas realistas generados con IA (se nota y resta credibilidad médica).
+- Procedimientos médicos, síntomas o diagnósticos "mostrados" con IA.
+- Clonar la voz o la cara de Tania, ni avatares/"AI influencer" de ella.
 
 ## Música y efectos con Epidemic Sound (conector — fuente principal de audio)
 Herramientas del conector `Epidemic_Sound`:
