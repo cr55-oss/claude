@@ -35,9 +35,10 @@ Siempre aplican además:
 - `.claude/skills/guion-viral-pediatria/references/tono-marca-dra-tania.md` (donde no choque con
   las reglas del tipo).
 - `.claude/skills/guion-viral-pediatria/references/banco-ganchos-validados.md` para el gancho.
-- La **biblioteca de carruseles** en `carruseles/biblioteca/`, si existe: busca ahí estructuras
-  validadas del mismo tipo antes de diseñar el arco, y di cuál usaste como referencia. Nunca
-  copies frases de la biblioteca — roba la estructura, no las frases.
+- Los **ejemplos de la biblioteca** que te pase el agente principal en el brief (carruseles de la
+  misma categoría con mejores resultados): úsalos como estructuras validadas antes de diseñar el
+  arco, y di cuál usaste como referencia. Nunca copies sus frases — roba la estructura, no las
+  frases.
 
 ## Reglas que no se rompen
 
