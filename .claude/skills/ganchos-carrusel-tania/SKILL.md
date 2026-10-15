@@ -14,9 +14,10 @@ description: Genera opciones de gancho para la PORTADA (slide 1) de un carrusel 
 - `guion-viral-pediatria` es para **reels/video**: entrega estructura completa (gancho + tensión +
   payoff + CTA) con voz y ritmo hablado. No se invoca para carruseles.
 
-**Este skill NO genera el resto de las slides, ni el copy interior, ni el diseño.** Eso lo arma
-Tania en sus propios proyectos — mantiene la regla ya acordada de que el carrusel completo es
-suyo, esto solo resuelve el punto donde más se pierde retención: la portada.
+**Este skill NO genera el resto de las slides, ni el copy interior, ni el diseño.** Solo resuelve
+el punto donde más se pierde retención: la portada. Cuando hay un **carrusel de referencia**
+(capturas de otra cuenta) y se quiere el texto completo adaptado, eso es
+`adaptar-carrusel-tania`, que reutiliza las reglas de portada de este skill.
 
 ## Paso 1 — detectar el dolor del papá/mamá primero
 

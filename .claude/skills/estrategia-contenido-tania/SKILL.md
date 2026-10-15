@@ -156,8 +156,9 @@ por eso los carruseles de viernes sí pueden cubrir Alcance/N1-2 sin romper la r
 nunca sin Tania al centro".
 
 **Esta parte del skill entrega solo tema + palabras clave de búsqueda — nunca gancho, ángulo ni
-estructura.** Tania arma el carrusel completo (gancho, copy, diseño) en sus propios proyectos; el
-skill no decide cómo se cuenta, solo de qué se habla. No se invoca `guion-viral-pediatria` para
+estructura.** Este skill no decide cómo se cuenta, solo de qué se habla: el gancho de portada
+para un tema sale de `ganchos-carrusel-tania`, y la adaptación completa de un carrusel de
+referencia sale de `adaptar-carrusel-tania`. No se invoca `guion-viral-pediatria` para
 esto (ese skill es solo para reels/video, y siempre entrega gancho+estructura, que es justo lo que
 aquí NO corresponde dar). Al documentar el plan mensual, agregar una lista de temas de carrusel
 por semana junto al calendario de reels — solo nombre del tema + palabras clave, igual de ligero
