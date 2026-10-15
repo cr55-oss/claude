@@ -67,6 +67,19 @@ Muéstrale al usuario **en un solo mensaje**:
   skill correspondiente.
 - Cuando el usuario apruebe, entrega la versión final limpia (solo slides + caption + diseño).
 
+### 6. Guardar en la biblioteca
+
+Al aprobar la versión final, guárdala en `carruseles/biblioteca/propios/` con el formato de
+`_plantilla.md` (métricas vacías). Cuando el usuario pase las métricas después de publicar,
+complétalas: así la biblioteca aprende qué convierte.
+
+## Biblioteca: agregar carruseles
+
+Si el usuario manda un carrusel y dice "guárdalo en la biblioteca" (sin pedir adaptación):
+transcribe las slides, clasifica tipo / rama / gancho, describe la estructura slide por slide y
+guárdalo en `carruseles/biblioteca/referencias/` (o `propios/` si es de Tania, con sus métricas).
+Pregunta solo lo que no se pueda deducir de las capturas. Ver `carruseles/biblioteca/README.md`.
+
 ## Otros flujos
 
 - Reels/video → skill `guion-viral-pediatria`.
