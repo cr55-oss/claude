@@ -42,13 +42,30 @@ El subagente **no ve las imágenes**. Pásale en el prompt:
 - la transcripción del texto de cada slide (numerada) y una descripción visual breve;
 - el link y las notas del usuario.
 
-Entrega lo que devuelva el editor al usuario tal cual.
+### 4. Revisión del agente (`revisor-carruseles`)
 
-### 4. Correcciones
+Antes de mostrarle el carrusel al usuario, pásale al subagente `revisor-carruseles` el brief, la
+transcripción del original y el carrusel del editor. Lanza un revisor **nuevo** cada vez: su
+valor es mirar sin el sesgo de quien escribió.
 
-Para cada corrección del usuario, **retoma al mismo editor con `SendMessage`** (no lances uno
-nuevo: perdería el contexto del carrusel). Si el editor marca una "corrección repetida", propón
-al usuario agregarla como regla en el skill correspondiente.
+Muéstrale al usuario **en un solo mensaje**:
+
+```
+📋 CARRUSEL (versión N)        ← lo del editor, tal cual
+🔍 REVISIÓN DEL AGENTE         ← lo del revisor, tal cual
+👉 ¿Aplico todo, solo algunos (ej. "1 y 3"), o tienes otros cambios?
+```
+
+### 5. El usuario decide → el editor corrige
+
+- Con la respuesta del usuario (observaciones aceptadas + sus propios cambios), **retoma al mismo
+  editor con `SendMessage`** — no lances uno nuevo: perdería el contexto del carrusel. Pásale
+  también las observaciones rechazadas, para que no las aplique.
+- Vuelve a lanzar el revisor solo si cambió el gancho, el cierre o la estructura (puede romperse
+  el anillo). Para cambios menores, muestra la nueva versión con una línea de qué cambió.
+- Si el editor marca una "corrección repetida", propón al usuario agregarla como regla en el
+  skill correspondiente.
+- Cuando el usuario apruebe, entrega la versión final limpia (solo slides + caption + diseño).
 
 ## Otros flujos
 
