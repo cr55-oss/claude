@@ -1,6 +1,6 @@
 ---
 name: adaptar-carrusel-tania
-description: Adapta un carrusel viral de Instagram (normalmente en inglés, de otra cuenta) a la marca de la Dra. Tania Sifuentes como storytelling emocional para mamás — diagnostica el tipo de carrusel (Revelación, Carta tierna, lista, provocación, antes/después) y activa la rama de reglas correcta, analiza por qué funcionó, diseña el arco emocional, escribe todas las slides con ritmo tipográfico, el caption y el diseño, elige el gancho con la data real de conversión de la cuenta, e itera con la retroalimentación del usuario hasta la versión final. Úsalo cuando el usuario mande capturas de un carrusel (con o sin link) y pida "adapta este carrusel", "analiza por qué funcionó", "pásalo a Tania", o invoque /adaptar-carrusel-tania. No lo uses para reels/video (eso es `guion-viral-pediatria`), ni cuando solo se pide el gancho de portada para un tema sin carrusel de referencia (eso es `ganchos-carrusel-tania`), ni para decidir de qué temas hacer carruseles (eso es `estrategia-contenido-tania`).
+description: Adapta un carrusel viral de MATERNIDAD (emocional, no médico) de Instagram (normalmente en inglés, de otra cuenta) a la marca de la Dra. Tania Sifuentes como storytelling emocional para mamás — diagnostica el tipo de carrusel (Revelación, Carta tierna, lista, provocación, antes/después) y activa la rama de reglas correcta, analiza por qué funcionó, diseña el arco emocional, escribe todas las slides con ritmo tipográfico, el caption y el diseño, elige el gancho con la data real de conversión de la cuenta, e itera con la retroalimentación del usuario hasta la versión final. Úsalo cuando el usuario mande capturas de un carrusel (con o sin link) y pida "adapta este carrusel", "analiza por qué funcionó", "pásalo a Tania", o invoque /adaptar-carrusel-tania. No lo uses para reels/video (eso es `guion-viral-pediatria`), ni cuando solo se pide el gancho de portada para un tema sin carrusel de referencia (eso es `ganchos-carrusel-tania`), ni para decidir de qué temas hacer carruseles (eso es `estrategia-contenido-tania`).
 ---
 
 # Adaptar carrusel viral → marca de la Dra. Tania
@@ -59,6 +59,22 @@ carrusel (error documentado: forzar herida a una carta tierna la destruye).
 | **C — Provocación → Revelación** | Giro en el medio | No compatible; avisar |
 | **D — Antes/Después emocional** | Contraste temporal | → **RAMA REVELACIÓN** si tiene columna vertebral única |
 | **E — Carta/Mensaje directo** | Voz íntima, tono de carta, suave | → **RAMA CARTA TIERNA**. No forzar a voz externa |
+
+### Filtro previo: ¿maternidad o médico?
+
+Este skill es un motor de **storytelling emocional de maternidad**. Antes del diagnóstico,
+decide si el original es:
+
+- **Maternidad/emocional** (la columna vertebral es una vivencia, una emoción, una identidad de
+  mamá) → sigue con este skill.
+- **Médico** (la columna vertebral es información clínica: síntomas, cuidados, prevención,
+  desarrollo, alimentación, sueño como técnica) → **no lo adaptes con estas reglas.** Forzar
+  arco/valle/anillo sobre contenido médico lo rompe igual que forzar herida a una carta tierna, y
+  el usuario ya comprobó que da malos resultados. Dilo en una línea y detente. *(Pendiente: un
+  proceso propio para carruseles médicos, basado en lo que sí convirtió — cabeza plana 2.20,
+  carseat 1.65: ángulo de peligro/prevención, motor de guardados.)*
+- **Híbrido** (miedo emocional + solución médica) → sí entra aquí, pero toda afirmación clínica
+  va a Notas críticas.
 
 ### Diagnóstico (3 preguntas)
 
