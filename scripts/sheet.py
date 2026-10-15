@@ -2,7 +2,8 @@
 """Lee y escribe filas en el Google Sheet "Biblioteca carruseles".
 
 Usa una cuenta de servicio de Google. La clave JSON se lee de la variable de
-entorno GOOGLE_SA_JSON (el contenido del archivo .json, o la ruta al archivo).
+entorno GOOGLE_SA_JSON: el contenido del .json, ese contenido en base64 (una
+sola línea, lo recomendado para el formato .env) o la ruta al archivo.
 La cuenta de servicio solo puede tocar los Sheets compartidos con su correo.
 
 Uso:
@@ -32,8 +33,12 @@ def load_key():
     if not raw:
         sys.exit("Falta GOOGLE_SA_JSON en el entorno (ver CLAUDE.md, sección Biblioteca).")
     if not raw.startswith("{"):
-        with open(raw) as f:
-            raw = f.read()
+        if os.path.isfile(raw):
+            with open(raw) as f:
+                raw = f.read()
+        else:
+            # Clave en base64 (una sola línea): la forma más fácil de pegarla en formato .env.
+            raw = base64.b64decode(raw + "=" * (-len(raw) % 4)).decode("utf-8-sig")
     return json.loads(raw)
 
 
