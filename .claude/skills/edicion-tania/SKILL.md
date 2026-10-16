@@ -1,9 +1,11 @@
 ---
 name: edicion-tania
-description: "Edita los reels de la Dra. Tania Sifuentes (@dra.tania.pediatra) con su estilo propio 'Trazo a mano cálido': ilustraciones de línea a mano que se dibujan solas sobre su cabeza, títulos apilados, subtítulos de 1-2 palabras sin contorno, acento ocre, color cálido y audio profesional. SIEMPRE sigue un flujo con aprobación: analizar el video → analizar el guion → preguntar lo necesario → elaborar el plan escena por escena → esperar aprobación del usuario → recién entonces editar. Úsala cuando el usuario pida editar, montar, postproducir o hacer el plan de edición de un video/reel de Tania, cuando suba un crudo de Tania, o cuando mencione 'edicion-tania', 'trazo a mano' o 'el estilo de Tania'. No es para escribir guiones (eso es guion-viral-pediatria) ni para estrategia (estrategia-contenido-tania)."
+description: "Edita los reels de la Dra. Tania Sifuentes (@dra.tania.pediatra) con edición premium: corte fluido sin muletillas, color cálido, audio profesional, subtítulos limpios, títulos apilados, efectos de héroe (cover story, glass type, checklist glass, chart grow, headline wall, digital zoom) y animaciones de calidad profesional. SIEMPRE sigue un flujo con aprobación: analizar el video → analizar el guion → preguntar lo necesario → elaborar el plan escena por escena → aprobación → prueba de estilo de 10 s → editar. Úsala cuando el usuario pida editar, montar, postproducir o hacer el plan de edición de un video/reel de Tania, cuando suba un crudo de Tania, o cuando mencione edicion-tania o el estilo de Tania. No es para escribir guiones (guion-viral-pediatria) ni para estrategia (estrategia-contenido-tania)."
 ---
 
 # Edición de reels — Dra. Tania (@dra.tania.pediatra)
+
+> **Decisión del usuario (tras el primer video):** las ilustraciones de "trazo a mano" simples **se rechazaron por verse demasiado simples**. No usarlas. Para explicar conceptos usar animaciones de calidad profesional (Lottie de motion designers, ilustración 3D suave, plantillas de motion graphics) y los efectos de `efectos.md`, siempre validados con la prueba de 10 s.
 
 Eres el editor y el ingeniero de audio de Tania. Tu trabajo es que cada reel se vea y suene premium, que retenga, y que sea reconocible como "de Tania" sin ver su cara.
 
@@ -11,7 +13,7 @@ Eres el editor y el ingeniero de audio de Tania. Tu trabajo es que cada reel se 
 
 | Constante (la identidad de Tania) | Se decide en cada video (después de analizarlo) |
 |---|---|
-| Trazo a mano cálido, acento ocre, tipografías, subtítulos limpios | **Qué** se dibuja, **cuándo** y **dónde** |
+| Acento ocre, tipografías, subtítulos limpios, nivel de acabado premium | **Qué** se dibuja, **cuándo** y **dónde** |
 | Voz a velocidad natural, calidad de audio | El arco musical y dónde van los silencios |
 | Fidelidad médica | Cómo se abre el video (acción, frase, objeto, pregunta) |
 | El flujo con aprobación | Cuántos dibujos, B-roll, acercamientos y cuáles |
@@ -25,6 +27,7 @@ Referencias de esta skill (léelas antes de planear):
 - `references/estilo.md` — imagen, tipografía, ilustraciones, zonas, sistema de puntuación.
 - `references/audio.md` — voz, música con arco emocional, SFX, niveles.
 - `references/ganchos-visuales.md` — cómo detectar y tratar acciones físicas (hielo, objetos, demostraciones).
+- `references/efectos.md` — catálogo de efectos de héroe (cover story, glass type, checklist glass, chart grow, headline wall, digital zoom, phone mockup) y cómo recortar a Tania para poner cosas detrás de ella.
 - `references/fluidez.md` — quitar muletillas y cortar sin que se note (fluidez).
 - `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Magnific por conector, Pexels/Pixabay por API, Artlist con Claude en Chrome), música y efectos. Script: `scripts/buscar-broll.mjs`.
 - `references/flujo-tecnico.md` — herramientas y comandos (Whisper, ffmpeg, Remotion).
@@ -100,4 +103,4 @@ MP4 1080×1920, H.264, 30 fps, −14 LUFS / −1 dBTP, en `Reels-Tania/editados/
 4. **La acción física manda sobre el texto.** Nada tapa una acción mientras ocurre; el texto responde a la acción, no la anticipa.
 5. **Cada efecto tiene una sola función** (sistema de puntuación en `estilo.md`). Usarlos poco es lo que los hace funcionar.
 6. **Fidelidad médica [fijo]:** todo lo que aparece en pantalla sale de lo que Tania dijo. No inventar números, dosis, plazos ni diagnósticos. Sin número dicho, el dibujo va sin cifras.
-7. **Identidad:** trazo a mano cálido + acento ocre + títulos apilados + subtítulos limpios. Nada de stickers, emojis, brillantina ni gráficos de plantilla **[fijo]**.
+7. **Identidad:** acento ocre + títulos apilados + subtítulos limpios + efectos de héroe con criterio. Nada de stickers, emojis, brillantina ni gráficos de plantilla **[fijo]**.
