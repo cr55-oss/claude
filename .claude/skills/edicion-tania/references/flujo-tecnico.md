@@ -45,5 +45,16 @@ Para el movimiento fuera del rostro, recorta primero el área sin cara (`crop=`)
 5. **Música y SFX:** pistas en `<Audio>` con volumen por frame (ducking dibujado según los tiempos de voz).
 6. **Render:** h264, crf ~17, yuv420p, bt709; luego normalizar a −14 LUFS / −1 dBTP con ffmpeg `loudnorm` en dos pasadas.
 
+## Velocidad (objetivo: ≤ 30–40 min por video después del primero)
+1. **Plantilla reutilizable:** si existe `.claude/skills/edicion-tania/assets/template/`, copiarla como base del proyecto (componentes, fuentes, kit de SFX, configuración de render) en lugar de construir desde cero. **Al terminar un video aprobado**, copiar ahí los componentes nuevos o mejorados (`Subtitulo`, `TituloApilado`, `Trazo`, ilustraciones SVG, `VentanaBroll`, etc.), sin el video ni los archivos pesados, y hacer commit, para que el siguiente video arranque con todo hecho.
+2. **Biblioteca de ilustraciones:** cada dibujo nuevo (termómetro, virus, cerebro…) se guarda en la plantilla; los videos siguientes reutilizan los que ya existen.
+3. **En paralelo:** mientras Whisper transcribe, buscar música/efectos/B-roll y extraer cuadros.
+4. **Revisión sin re-render:** para ajustes, abrir **Remotion Studio** (`npx remotion studio`) y que el usuario revise ahí en vivo; o renderizar solo el tramo afectado (`--frames=inicio-fin`) a 540 px. El render completo en 1080 se hace **una sola vez**, al final.
+5. **Render:** usar la máxima concurrencia razonable (`--concurrency` ≈ núcleos − 1) y aceleración por hardware si el equipo la tiene; Whisper con GPU si está disponible.
+6. **Registrar tiempos** de cada fase en la entrega para saber dónde se va el tiempo y mejorarlo.
+
+## Exportación opcional para ajustes manuales (DaVinci Resolve)
+Si el usuario quiere retocar algo a mano sin pedir otro render, exportar además: las capas de gráficos como video con transparencia (ProRes 4444 o WebM con alfa), el corte limpio, la música y los efectos por separado, y una línea de tiempo **FCPXML** que DaVinci Resolve (gratis) abre con todo acomodado.
+
 ## Fase 7 — cuadros de revisión
 `renderStill` en cada evento del plan y en los bordes de cada escena, a escala 0,5. Revisarlos antes de mostrarlos.
