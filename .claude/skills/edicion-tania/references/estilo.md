@@ -1,4 +1,4 @@
-# Estilo visual — "Trazo a mano cálido"
+# Estilo visual — "Editorial cálido"
 
 Valores por defecto. Ajusta al encuadre y al contenido de cada video y explica el ajuste en el plan.
 
@@ -20,7 +20,7 @@ Valores por defecto. Ajusta al encuadre y al contenido de cada video y explica e
 | Zona | Área aprox. | Uso |
 |---|---|---|
 | Franja segura superior | y 0–220 | nada importante (interfaz de IG) |
-| Zona de contenido | sobre la cabeza (medir en cada video) | dibujos, ventanas de B-roll, títulos apilados |
+| Zona de contenido | sobre la cabeza (medir en cada video) | animaciones, efectos de héroe, ventanas de B-roll, títulos apilados |
 | Rostro | — | **nunca** cubierto |
 | Zona de acción | donde ocurra el gesto/objeto | **nunca** cubierta mientras ocurre |
 | Subtítulos | centrados, altura del pecho (~y 1150–1300) | 1–2 palabras |
@@ -29,15 +29,16 @@ Valores por defecto. Ajusta al encuadre y al contenido de cada video y explica e
 ## Tipografía
 - **Subtítulos:** Montserrat 800, ~64 px, blanco, **sin contorno ni caja**, sombra suave (0 2 10 rgba(0,0,0,.45)). 1–2 palabras, corte seco sincronizado a la palabra. Ocre `#E8955A` solo en la palabra clave (no en cada frase).
 - **Títulos apilados:** Montserrat 900 MAYÚSCULAS (~120 px) para la palabra que pesa + Montserrat 300 minúsculas (~56 px) para los conectores. Una sola palabra en ocre. Entrada línea a línea o palabra a palabra: +14 px hacia arriba y aparición en 180–220 ms, `ease-out`, **sin rebote**. Mientras hay título, no hay subtítulo.
-- **Letra a mano:** Caveat 600–700 para pensamientos ("tengo que bajarle la fiebre ya") y rótulos de dibujos.
+- **Serif editorial:** Instrument Serif (regular/itálica) para pensamientos ("tengo que bajarle la fiebre ya") y para los efectos de héroe de `efectos.md`.
 
-## Ilustraciones
-- Línea crema `#FFFAF2`, 6–8 px a 1080, puntas redondeadas, sombra suave para separarla del fondo. Acento ocre `#E8955A`.
-- Se **dibujan solas** (trazo que avanza) en 0,5–1,2 s, `ease-in-out`; "vibración" de dibujo a mano (desplazamiento de ruido de ~2–3 px que cambia ~8 veces/s).
+## Animaciones (el trazo a mano simple está descartado)
+- Calidad de motion design profesional: efectos de héroe de `efectos.md`, animaciones Lottie de diseñadores, ilustración 3D suave y cálida, o motion graphics propios en Remotion con curvas de easing cuidadas (spring sin rebote exagerado).
+- Paleta: crema `#FFFAF2`, blanco, acento ocre `#E8955A`; sombras suaves para separarlas del fondo.
 - Aparecen **en la palabra que las nombra**; salen con fade de 250 ms al cambiar de idea.
-- Reutiliza el mismo dibujo cuando el concepto vuelve (p. ej. el termómetro) para dar continuidad.
-- Datos → objetos: un proceso es un diagrama a mano, una tendencia es una gráfica a mano (sin cifras si no se dijeron; etiqueta "ilustrativo"), una lista es una lista dibujada con ✓.
-- **Prohibido [fijo]:** stickers, emojis, brillantina, íconos de plantilla, flechas genéricas, ilustraciones 3D o de IA que no sigan el trazo.
+- Reutiliza el mismo elemento cuando el concepto vuelve (p. ej. el termómetro) para dar continuidad.
+- Datos → objetos: una lista es un checklist glass, una tendencia es un chart grow (sin cifras si no se dijeron), un mito es un headline wall.
+- Cada estilo nuevo se valida en la prueba de 10 s antes de usarse en el video completo.
+- **Prohibido [fijo]:** stickers, emojis, brillantina, íconos de plantilla, flechas genéricas, dibujos a mano simples, imágenes de IA de bebés o personas.
 
 ## B-roll
 - Solo cuando una situación real cuenta más que un dibujo (p. ej. "le tocas la frente"). Pocas tomas (2–4 por minuto como máximo).
@@ -54,7 +55,7 @@ Valores por defecto. Ajusta al encuadre y al contenido de cada video y explica e
 | ✓ / ✗ ocre a mano | correcto / incorrecto | soluciones vs. errores |
 
 ## Cierre
-Plano limpio, CTA con dibujo simple (p. ej. ícono de guardar a mano). Sin outro de marca salvo que el usuario lo pida. Cortar seco en la última palabra para que el loop sea natural.
+Plano limpio, CTA con un ícono animado limpio (p. ej. guardar). Sin outro de marca salvo que el usuario lo pida. Cortar seco en la última palabra para que el loop sea natural.
 
 ## Lista de control antes de entregar
 - [ ] Voz a velocidad natural; sin silencios largos ni tomas repetidas.

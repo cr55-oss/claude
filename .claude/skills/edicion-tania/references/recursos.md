@@ -7,7 +7,7 @@ Claude busca y preselecciona los recursos **él mismo**; el usuario aprueba la s
 |---|---|---|
 | **Epidemic Sound — música y efectos (conector)** | Conector `Epidemic_Sound` (ver sección abajo) | Música con arco emocional, stems, ajuste a la duración exacta, efectos de sonido |
 | **Artlist — B-roll principal (suscripción ya pagada)** | Claude en Chrome con la sesión del usuario | B-roll (y música/efectos si Epidemic no tiene algo). Las descargas de stock entran en la suscripción (sin costo por clip); las funciones de IA de Artlist sí pueden gastar créditos aparte: no usarlas sin aprobación |
-| **Magnific (antes Freepik) — respaldo** | **Conector `magnific`**: `stock_search` (video/foto/vector/ícono; filtros `ai_generated: excluded`, `orientation`, `video_type: footage`), `stock_get` (detalles), previsualización con marca de agua para elegir, `stock_download` para el archivo final (**gasta créditos**: ~150 los gratuitos, ~600 los premium) | B-roll de mamás/bebés/fiebre/baño, fotos, íconos dibujados a mano (`shape: hand-drawn`) como referencia de trazo |
+| **Magnific (antes Freepik) — respaldo** | **Conector `magnific`**: `stock_search` (video/foto/vector/ícono; filtros `ai_generated: excluded`, `orientation`, `video_type: footage`), `stock_get` (detalles), previsualización con marca de agua para elegir, `stock_download` para el archivo final (**gasta créditos**: ~150 los gratuitos, ~600 los premium) | B-roll de mamás/bebés/fiebre/baño, fotos |
 | **Pexels** (gratis, API) | `scripts/buscar-broll.mjs` con `PEXELS_API_KEY` | B-roll de mamás, bebés, casa, baño, médico |
 | **Pixabay** (gratis, API, opcional) | el mismo script con `PIXABAY_API_KEY` | complemento de Pexels |
 
@@ -22,7 +22,7 @@ Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas e
 - Elige mirando la previsualización (`previewUrl` / `videoPreviewUrl`, con marca de agua): bájala y extrae 3 cuadros con ffmpeg para revisarla.
 - Prefiere tomas **no generadas con IA** para personas y bebés; prefiere `orientation: portrait` o tomas donde el sujeto quepa en la ventana.
 - Al descargar, registra la licencia (`creations_register_download` con `license: true`) y guarda el archivo licenciado, nunca la previsualización.
-- Magnific también puede **generar efectos de sonido** (`audio_sfx_generate`: lápiz sobre papel, hielo cayendo al agua, whoosh grave) y **limpiar voz** (`audio_clean_speech`). Úsalos solo si el plan lo indica y con el costo en créditos visible en el plan.
+- Magnific también puede **generar efectos de sonido** (`audio_sfx_generate`: brillo de vidrio, hielo cayendo al agua, whoosh grave) y **limpiar voz** (`audio_clean_speech`). Úsalos solo si el plan lo indica y con el costo en créditos visible en el plan.
 
 ## Flujo (dentro de la Fase 4, antes de pedir aprobación)
 1. Para cada hueco de B-roll del plan, escribe 2–3 búsquedas en inglés (los catálogos responden mejor): situación + detalle + luz. Ej.: `mother touching baby forehead warm light`, `mom checking baby fever home`.
@@ -46,7 +46,7 @@ Generación con IA (imagen/video), mejora de material y predicción de desempeñ
 
 **Sí se usa para:**
 - Planos de **objetos o detalle** que no existen en stock o no encajan: hielo cayendo al agua en cámara lenta, gotas, termómetro en macro, ropa ligera sobre una cama, un vaso de agua con luz cálida.
-- Visuales **abstractos/explicativos** que el dibujo a mano no resuelve bien (siempre coherentes con el look cálido; nunca "anatomía hiperrealista").
+- Visuales **abstractos/explicativos** que una animación no resuelve bien (siempre coherentes con el look cálido; nunca "anatomía hiperrealista").
 - **Mejorar material propio:** reescalar (`upscale_video`), reencuadrar (`reframe`) o reiluminar un cuadro problemático.
 - **Revisión opcional del corte final** con `virality_predictor` (fuerza del gancho, riesgo de abandono). Es una opinión más, no una verdad: se reporta junto con el análisis propio.
 
@@ -61,7 +61,7 @@ Herramientas del conector `Epidemic_Sound`:
 - `SearchSimilarToRecording` / `SearchExternalReferences`: "algo como esta pista" (incluso a partir de una canción de Spotify que le guste al usuario).
 - `EditRecording` + `PollEditRecordingJob` + `DownloadRecordingEdit`: **reacomoda la pista a la duración exacta del video** (`targetDurationMs`), evitando o prefiriendo partes (`preferenceRegions`) y **colocando una sección concreta en un segundo concreto** (`requiredRegionsAtOffsets`), p. ej. que la parte que "resuelve" caiga justo en la frase clave o en el CTA.
 - `DownloadRecording`: WAV completo o **stems** (p. ej. solo `INSTRUMENTS` o sin `DRUMS`) para bajar la energía en partes tranquilas.
-- `SearchSoundEffects` / `SearchSimilarToSoundEffect` / `DownloadSoundEffect`: kit de efectos (lápiz sobre papel, hielo cayendo al agua, whoosh grave, latido).
+- `SearchSoundEffects` / `SearchSimilarToSoundEffect` / `DownloadSoundEffect`: kit de efectos (brillo de vidrio, tick suave, hielo cayendo al agua, whoosh grave, latido).
 
 **Cómo "escucha" Claude la música sin oídos:** descarga la vista previa MP3 y la analiza con ffmpeg (curva de volumen por segundo con `ebur128`/`astats`, silencios, picos) o lee el `waveformUrl`. Así ubica dónde la pista es tranquila, dónde crece y dónde resuelve, y la alinea con el arco del guion. Aun así, **el usuario escucha las 2–3 finalistas y elige**.
 
@@ -77,4 +77,4 @@ Flujo de música en el plan:
 - Búsquedas: `emotional piano warm`, `soft ambient hopeful`, `gentle piano tension`, sin voces.
 
 ## Efectos de sonido
-Preselección por nombre/descripción en Artlist: `pencil scratch paper`, `soft low whoosh`, `muted low pop`, `heartbeat soft`, `ice cubes dropping in water`. El usuario confirma al oírlos en la primera revisión; después quedan como "kit" fijo en `Reels-Tania/sfx/` para todos los videos.
+Preselección por nombre/descripción en Artlist: `soft glass shimmer`, `soft tick`, `soft low whoosh`, `muted low pop`, `heartbeat soft`, `ice cubes dropping in water`. El usuario confirma al oírlos en la primera revisión; después quedan como "kit" fijo en `Reels-Tania/sfx/` para todos los videos.

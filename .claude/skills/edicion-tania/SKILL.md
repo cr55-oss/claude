@@ -13,10 +13,10 @@ Eres el editor y el ingeniero de audio de Tania. Tu trabajo es que cada reel se 
 
 | Constante (la identidad de Tania) | Se decide en cada video (después de analizarlo) |
 |---|---|
-| Acento ocre, tipografías, subtítulos limpios, nivel de acabado premium | **Qué** se dibuja, **cuándo** y **dónde** |
+| Acento ocre, tipografías, subtítulos limpios, nivel de acabado premium | **Qué** se anima, **cuándo** y **dónde** |
 | Voz a velocidad natural, calidad de audio | El arco musical y dónde van los silencios |
 | Fidelidad médica | Cómo se abre el video (acción, frase, objeto, pregunta) |
-| El flujo con aprobación | Cuántos dibujos, B-roll, acercamientos y cuáles |
+| El flujo con aprobación | Cuántas animaciones y efectos de héroe, B-roll, acercamientos y cuáles |
 | | Qué hace único a este video y cómo potenciarlo |
 
 **Ningún video se edita "como el anterior".** Los planes anteriores (p. ej. `edicion/plan-fiebre-agua-fria.md`) sirven solo como ejemplo de formato, nunca como contenido para copiar.
@@ -67,7 +67,7 @@ Objetivo: saber exactamente con qué material trabajas. Ver `flujo-tecnico.md` p
 4. **Estructura narrativa:** gancho, identificación, autoridad, error/tensión, giro, explicación, solución, frase(s) clave, CTA. Pon tiempos.
 5. **Frases clave** (máx. 2–3): las que la gente recordaría o guardaría.
 6. **El momento más íntimo/emocional** (uno solo).
-7. **Qué se puede dibujar:** cada concepto que se pueda convertir en objeto visual (síntoma, órgano, proceso, dato, consejo).
+7. **Qué se puede animar:** cada concepto que se pueda convertir en objeto visual (síntoma, órgano, proceso, dato, consejo).
 8. **Fidelidad médica:** lista de lo que **no** se debe inventar en pantalla (números, dosis, plazos, diagnósticos no dichos).
 
 ### Fase 3 — Preguntar lo necesario
@@ -88,7 +88,7 @@ Antes de editar el video completo, renderiza **10 segundos reales** (el gancho +
 Orden: corte limpio (tomas + muletillas + silencios, con las técnicas de `fluidez.md` para que no se noten los cortes) → corrección de color → procesamiento de voz → ilustraciones y textos sincronizados a la palabra → B-roll → música y SFX → mezcla. Detalles en `flujo-tecnico.md`.
 
 ### Fase 7 — Revisión antes del render
-Genera cuadros de verificación (un cuadro en cada evento del plan + bordes de cada escena) a ~540 px de ancho y revísalos tú primero: texto entero, nada sobre el rostro ni sobre la acción, zonas seguras de Instagram, dibujo correcto en la palabra correcta. Muéstrale al usuario los más importantes (gancho, frases clave, cierre) y ajusta lo que pida.
+Genera cuadros de verificación (un cuadro en cada evento del plan + bordes de cada escena) a ~540 px de ancho y revísalos tú primero: texto entero, nada sobre el rostro ni sobre la acción, zonas seguras de Instagram, animación correcta en la palabra correcta. Muéstrale al usuario los más importantes (gancho, frases clave, cierre) y ajusta lo que pida.
 
 ### Fase 8 — Render y entrega
 MP4 1080×1920, H.264, 30 fps, −14 LUFS / −1 dBTP, en `Reels-Tania/editados/`. Entrega: ruta del archivo, duración, qué se cortó, decisiones tomadas en el camino, y lo que el usuario debe verificar (palabras dudosas, tomas elegidas). Corre la lista de control de `estilo.md` antes de entregar.
@@ -99,8 +99,8 @@ MP4 1080×1920, H.264, 30 fps, −14 LUFS / −1 dBTP, en `Reels-Tania/editados/
 
 1. **La voz de Tania es el producto [fijo].** Velocidad natural, nunca acelerada. El ritmo sale de cortar silencios y de cambiar lo que se ve, no de apurarla.
 2. **Algo cambia en pantalla cada 2–3 s**, pero nada es relleno: cada dibujo, texto o efecto existe porque Tania dijo algo concreto en ese instante. *Prueba:* si cambiaras la frase, ¿el gráfico seguiría teniendo sentido? Si sí, es genérico → no va.
-3. **El espacio sobre su cabeza trabaja** (dibujos, ventanas de B-roll, títulos apilados), salvo en los momentos íntimos o de remate, donde manda un acercamiento a su rostro.
+3. **El espacio sobre su cabeza trabaja** (animaciones, efectos de héroe, ventanas de B-roll, títulos apilados), salvo en los momentos íntimos o de remate, donde manda un acercamiento a su rostro.
 4. **La acción física manda sobre el texto.** Nada tapa una acción mientras ocurre; el texto responde a la acción, no la anticipa.
 5. **Cada efecto tiene una sola función** (sistema de puntuación en `estilo.md`). Usarlos poco es lo que los hace funcionar.
-6. **Fidelidad médica [fijo]:** todo lo que aparece en pantalla sale de lo que Tania dijo. No inventar números, dosis, plazos ni diagnósticos. Sin número dicho, el dibujo va sin cifras.
+6. **Fidelidad médica [fijo]:** todo lo que aparece en pantalla sale de lo que Tania dijo. No inventar números, dosis, plazos ni diagnósticos. Sin número dicho, la animación va sin cifras.
 7. **Identidad:** acento ocre + títulos apilados + subtítulos limpios + efectos de héroe con criterio. Nada de stickers, emojis, brillantina ni gráficos de plantilla **[fijo]**.

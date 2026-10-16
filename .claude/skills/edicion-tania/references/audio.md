@@ -26,7 +26,7 @@ No una pista plana: la música sigue la estructura del guion. Patrón base (ajú
 - Niveles: con voz, la música ~20–24 dB por debajo (mínimo 7 LU de diferencia); ducking 6–12 dB con transiciones de 300–500 ms; sube levemente en pausas.
 
 ## Efectos de sonido (firma sonora)
-- Roce de lápiz/papel cuando se dibuja algo (firma de la marca).
+- Whoosh/brillo sutil cuando entra un efecto de héroe (glass type, cover story); "tick" suave en cada ítem del checklist.
 - "Pop" grave apagado al entrar un título; whoosh grave suave en destellos y ventanas de B-roll.
 - Sonidos de la acción real (hielo, agua, objeto) — ver `ganchos-visuales.md`.
 - Máx. ~1 SFX cada 3 s. Nada caricaturesco ni chillón.

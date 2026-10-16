@@ -30,16 +30,16 @@ Registro en `work/eventos.json`:
 - ★ acercamiento seco en el cuadro cumbre.
 - El sonido de la acción se escucha: real aislado o SFX reforzado (`ice cubes dropping in water`, `ice splash`), en el hueco de voz más cercano o por debajo de la voz si habla encima.
 - Si **no** habla durante la acción: se puede abrir el video con ella (cold open) y/o cámara lenta al 50 % ~0,4 s en la cumbre.
-- Texto **después** de la cumbre, fuera de la zona de acción; una ✗ o ✓ dibujada a mano puede caer sobre el objeto.
+- Texto **después** de la cumbre, fuera de la zona de acción; una ✗ o ✓ animada (ocre, con rebote corto) puede caer sobre el objeto.
 
 **Revelación** (saca un objeto de debajo de la mesa):
 - Whoosh grave al subir el objeto; ★ acercamiento al objeto en la cumbre.
-- Círculo o flecha **dibujados a mano** señalando el objeto + rótulo a mano con su nombre.
+- Anillo de enfoque o etiqueta tipo "callout" (línea fina + rótulo en Instrument Serif) señalando el objeto, o un cover story con su nombre.
 - El nombre del objeto en ocre en el subtítulo.
 
 **Demostración** (muestra cómo se hace algo):
 - Sin acercamientos bruscos; nada tapa las manos.
-- Dibujos guía (flechas, pasos numerados) en la zona libre.
+- Guías animadas (pasos numerados, checklist glass) en la zona libre.
 
 ## 4. Lo fijo
 - La zona de la acción no se cubre mientras ocurre.
