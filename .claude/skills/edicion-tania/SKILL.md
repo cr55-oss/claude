@@ -78,6 +78,9 @@ Presenta al usuario un resumen corto (tabla de escenas + decisiones a revisar) y
 ### Fase 5 — Aprobación
 **Espera un "aprobado" explícito** (o los cambios). Si pide cambios, actualiza el plan y vuelve a pedir aprobación. Sin aprobación no se pasa a la Fase 6.
 
+### Fase 5.5 — Prueba de estilo de 10 s [fijo]
+Antes de editar el video completo, renderiza **10 segundos reales** (el gancho + una animación representativa) sobre el video de Tania y muéstraselos al usuario. Solo con su visto bueno se edita el resto. Así un cambio de dirección cuesta minutos, no una edición completa.
+
 ### Fase 6 — Editar
 Orden: corte limpio (tomas + muletillas + silencios, con las técnicas de `fluidez.md` para que no se noten los cortes) → corrección de color → procesamiento de voz → ilustraciones y textos sincronizados a la palabra → B-roll → música y SFX → mezcla. Detalles en `flujo-tecnico.md`.
 
