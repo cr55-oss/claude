@@ -7,6 +7,7 @@ Claude busca y preselecciona los recursos **él mismo**; el usuario aprueba la s
 |---|---|---|
 | **Epidemic Sound — música y efectos (conector)** | Conector `Epidemic_Sound` (ver sección abajo) | Música con arco emocional, stems, ajuste a la duración exacta, efectos de sonido |
 | **Artlist — B-roll principal (suscripción ya pagada)** | Claude en Chrome con la sesión del usuario | B-roll (y música/efectos si Epidemic no tiene algo). Las descargas de stock entran en la suscripción (sin costo por clip); las funciones de IA de Artlist sí pueden gastar créditos aparte: no usarlas sin aprobación |
+| **invideo — iStock (conector)** | `search_library` (`stock_video`, `stock_image`) dentro del proyecto de invideo del video; mirar con `media_filmstrip` / `media_grab` (gratis, vista con marca de agua); `add_media` con `stock` coloca la toma y **gasta una licencia de iStock o créditos** | B-roll de mejor calidad que el gratuito: mamás, bebés, casa, médico |
 | **Magnific (antes Freepik) — respaldo** | **Conector `magnific`**: `stock_search` (video/foto/vector/ícono; filtros `ai_generated: excluded`, `orientation`, `video_type: footage`), `stock_get` (detalles), previsualización con marca de agua para elegir, `stock_download` para el archivo final (**gasta créditos**: ~150 los gratuitos, ~600 los premium) | B-roll de mamás/bebés/fiebre/baño, fotos |
 | **Pexels** (gratis, API) | `scripts/buscar-broll.mjs` con `PEXELS_API_KEY` | B-roll de mamás, bebés, casa, baño, médico |
 | **Pixabay** (gratis, API, opcional) | el mismo script con `PIXABAY_API_KEY` | complemento de Pexels |
@@ -15,7 +16,7 @@ Si Claude en Chrome no está disponible, Claude prepara la lista de búsquedas e
 
 **Audio:** Epidemic primero → Artlist si falta algo.
 
-**Orden de búsqueda (B-roll):** Artlist primero (ya pagado) → Pexels/Pixabay (gratis) → Magnific (créditos) → Higgsfield para generar solo objetos/detalles que no existan en stock (créditos). Todo costo va en el plan.
+**Orden de búsqueda (B-roll):** Artlist primero (ya pagado) → invideo/iStock (licencias del workspace) → Pexels/Pixabay (gratis) → Magnific (créditos) → Higgsfield para generar solo objetos/detalles que no existan en stock (créditos) → **OpenArt** como respaldo de generación cuando Higgsfield o Magnific no tengan créditos. Todo costo va en el plan. Buscar y mirar es gratis en todas; **nada se coloca ni se descarga con costo antes de la aprobación del plan.**
 
 ### Magnific: reglas de uso
 - Revisa el saldo con `account_balance` antes de descargar; **nunca descargues (gasta créditos) antes de la aprobación del plan.**
@@ -54,6 +55,13 @@ Generación con IA (imagen/video), mejora de material y predicción de desempeñ
 - Bebés, niños o personas realistas generados con IA (se nota y resta credibilidad médica).
 - Procedimientos médicos, síntomas o diagnósticos "mostrados" con IA.
 - Clonar la voz o la cara de Tania, ni avatares/"AI influencer" de ella.
+
+## OpenArt — respaldo de generación con IA
+Se usa **solo cuando Higgsfield o Magnific se quedaron sin créditos** (o cuando un modelo que solo está en OpenArt da claramente mejor resultado para ese plano). Antes de usarlo:
+- Revisa el saldo de Higgsfield y Magnific; anota en el plan por qué se pasa a OpenArt y cuánto cuesta.
+- **Aplican exactamente las mismas reglas que Higgsfield** (sección de arriba): solo objetos, detalles y visuales abstractos; nunca bebés, niños ni personas realistas generados; nunca clonar a Tania.
+- Mismo look: luz cálida, paleta crema/ocre, vertical o que quepa en la ventana de la zona de contenido.
+- Si OpenArt no aparece como conector en la sesión, Claude prepara los prompts exactos y el usuario los genera en la web.
 
 ## Música y efectos con Epidemic Sound (conector — fuente principal de audio)
 Herramientas del conector `Epidemic_Sound`:

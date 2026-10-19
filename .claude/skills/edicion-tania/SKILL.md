@@ -29,7 +29,8 @@ Referencias de esta skill (léelas antes de planear):
 - `references/ganchos-visuales.md` — cómo detectar y tratar acciones físicas (hielo, objetos, demostraciones).
 - `references/efectos.md` — catálogo de efectos de héroe (cover story, glass type, checklist glass, chart grow, headline wall, digital zoom, phone mockup) y cómo recortar a Tania para poner cosas detrás de ella.
 - `references/fluidez.md` — quitar muletillas y cortar sin que se note (fluidez).
-- `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Magnific por conector, Pexels/Pixabay por API, Artlist con Claude en Chrome), música y efectos. Script: `scripts/buscar-broll.mjs`.
+- `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Artlist con Claude en Chrome, iStock por invideo, Pexels/Pixabay por API, Magnific por conector), generación con IA (Higgsfield; OpenArt de respaldo si se acaban los créditos), música y efectos. Script: `scripts/buscar-broll.mjs`.
+- `references/flujo-tecnico.md` → "Acabado en invideo": las capas de Remotion se arman en invideo para revisar y ajustar sin re-render.
 - `references/flujo-tecnico.md` — herramientas y comandos (Whisper, ffmpeg, Remotion).
 - `references/plantilla-plan.md` — formato del plan que se entrega para aprobación.
 - Ejemplo de plan aprobado: `edicion/plan-fiebre-agua-fria.md` (en la raíz del repo).
@@ -87,11 +88,11 @@ Antes de editar el video completo, renderiza **10 segundos reales** (el gancho +
 ### Fase 6 — Editar
 Orden: corte limpio (tomas + muletillas + silencios, con las técnicas de `fluidez.md` para que no se noten los cortes) → corrección de color → procesamiento de voz → ilustraciones y textos sincronizados a la palabra → B-roll → música y SFX → mezcla. Detalles en `flujo-tecnico.md`.
 
-### Fase 7 — Revisión antes del render
-Genera cuadros de verificación (un cuadro en cada evento del plan + bordes de cada escena) a ~540 px de ancho y revísalos tú primero: texto entero, nada sobre el rostro ni sobre la acción, zonas seguras de Instagram, animación correcta en la palabra correcta. Muéstrale al usuario los más importantes (gancho, frases clave, cierre) y ajusta lo que pida.
+### Fase 7 — Revisión y acabado (invideo)
+Sube las capas a invideo y arma la línea de tiempo (ver `flujo-tecnico.md` → Acabado en invideo). Genera cuadros de verificación (un cuadro en cada evento del plan + bordes de cada escena) a ~540 px de ancho y revísalos tú primero: texto entero, nada sobre el rostro ni sobre la acción, zonas seguras de Instagram, animación correcta en la palabra correcta. Comparte el link de revisión de invideo y los cuadros más importantes (gancho, frases clave, cierre); los ajustes chicos se hacen en invideo, sin re-render.
 
-### Fase 8 — Render y entrega
-MP4 1080×1920, H.264, 30 fps, −14 LUFS / −1 dBTP, en `Reels-Tania/editados/`. Entrega: ruta del archivo, duración, qué se cortó, decisiones tomadas en el camino, y lo que el usuario debe verificar (palabras dudosas, tomas elegidas). Corre la lista de control de `estilo.md` antes de entregar.
+### Fase 8 — Exportación y entrega
+Exporta desde invideo (o render final de Remotion si invideo no está disponible). MP4 1080×1920, H.264, 30 fps, −14 LUFS / −1 dBTP, en `Reels-Tania/editados/`. Entrega: ruta del archivo, duración, qué se cortó, decisiones tomadas en el camino, y lo que el usuario debe verificar (palabras dudosas, tomas elegidas). Corre la lista de control de `estilo.md` antes de entregar.
 
 ---
 
