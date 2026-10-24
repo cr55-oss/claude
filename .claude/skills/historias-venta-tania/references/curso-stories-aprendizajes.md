@@ -8,7 +8,7 @@ está marcado como **no se traslada**.
 Estado: archivo en construcción. Se va llenando módulo por módulo y al final se integra en
 `SKILL.md` y `secuencias-tipo.md`.
 
-Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos.
+Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos.
 
 ---
 
@@ -132,3 +132,105 @@ por DM → video corto y link → página de venta o clase. En su mejor cadena u
 | "Que la gente suplique por tu producto" | Su guía: venta nunca agresiva ni presionando |
 | Resultados en cifras de dinero | En salud infantil no hay "resultados garantizados"; se usan experiencias reales sin prometer |
 | Humor de doble sentido o groserías | Su marca: humor inteligente, nunca vulgar |
+
+---
+
+## 6. Formatos (módulo de formatos)
+
+**Regla madre:** si todas las stories se ven igual (mismo plano, mismo lugar, mismo formato), la
+gente se aburre. Hay que **cambiar de formato cada 1-2 stories**. Tania no necesita los ~20:
+elige **3-5 con los que se sienta cómoda** y los rota. Nada de boomerang.
+
+### Video
+| Formato | Cómo se graba | Traducción a Tania |
+|---|---|---|
+| **Selfie** | Cámara frontal; lente 1x o 0.5 si quiere más espacio | Hablarle a la mamá como en consulta. El formato base. |
+| **Vlog** | Alguien la sigue o trípode; se ve el cuerpo completo; camina o se mueve explicando | Caminando por el pasillo del consultorio o en su cocina mientras explica |
+| **B-roll / paparazzi** | Alguien la graba haciendo algo como si no se diera cuenta | Revisando un expediente, escribiendo en el escritorio, preparando la comida de su hijo |
+| **POV** (el favorito del curso) | Lente 0.5 desde su punto de vista, con su mano interactuando | **Muy útil para AC:** cortar un plátano o un aguacate en la forma segura según la edad, armar un plato, mostrar la silla. Valor y formato a la vez. |
+| **Espejo hablando** | Se graba hablando frente al espejo | Una reflexión corta. Sirve para cambiar el estímulo después de 2 stories de selfie o vlog. |
+
+### Foto
+| Formato | Traducción a Tania |
+|---|---|
+| **Selfie mirando hacia algo** (texto o imagen al lado, ella mirándolo) | Mirando una pregunta de una mamá pegada en la story: *"Me llegó esto 👀"* |
+| **POV con varias imágenes** + incógnita | Tres fotos (un plato, una silla, un babero) + *"¿Qué tienen en común estas 3 cosas?"* |
+| **Paparazzi** | Una foto natural en consulta o en casa |
+| **Foto en el espejo** con espacio arriba para link, testimonio o resultado | Para la historia del link del curso o para un mensaje de una alumna |
+| **Ambiente o elemento** (un objeto, más bonito de lo que es) | Un plato de AC bien presentado, el estetoscopio, su taza de café en el escritorio |
+| **Layout** (varias fotos en una story) + "adivina…" | *"Adivina cuál de estos dos platos es el adecuado para 7 meses"* |
+| **Reminiscencia (antes y después con fechas visibles)** | Tania residente o estudiante → Tania hoy; Tania primeriza → hoy. **La clave es escribir el año en cada foto.** El curso dice que es obligatorio en lanzamientos. |
+| **Capturas de pantalla con resultados** (la que más autoridad da) | Mensajes de mamás o alumnas (con permiso, sin nombre ni foto del bebé), reseñas, la consulta llena. Nunca datos clínicos de pacientes. |
+| **Fondo liso** (truco: en el lápiz, mantener presionado sobre la pantalla con un color) | Para una pregunta, un dato o un "mito/verdad" en texto |
+| **Fotos profesionales** | Usarlas poco: dan profesionalismo pero deshumanizan |
+
+### Con mínima edición
+- **Video + música de Instagram** (elegida desde la app, no de otra app): para lifestyle y
+  b-roll. Evita el "silencio raro".
+- **Subtítulos:** el curso ya no los usa en stories (se ven infantiles y para eso están los
+  reels). Excepción para Tania: si la mamá ve stories sin audio (amamantando, bebé dormido), un
+  texto corto de apoyo ayuda. **No subtitular todo.**
+- **Degradado PNG** detrás del texto para que se lea sobre fotos claras (se copia el PNG y se
+  pega dentro de la herramienta de texto).
+- **Overlay de fotos o capturas sobre video.**
+- **Video o GIF encima de otro video** (requiere CapCut): una "bala que se quema". Solo en
+  lanzamiento, por ejemplo para mostrar audios o videos de alumnas.
+
+### Reglas nuevas para Tania (no vienen del curso, vienen de ser médica)
+- **Nunca pacientes identificables** (caras, nombres, expedientes, pantallas) en b-roll,
+  paparazzi o capturas.
+- **Su propio hijo** solo si ella quiere y como ella decida (manos, espalda, sin cara: su
+  elección).
+
+## 7. Ganchos de stories (story 1 = el tráiler)
+
+Si la primera story es buena, se crea un **efecto en cadena** y se ve la secuencia completa. Pero
+**no es un gancho de reel**: nada sobreeditado, natural, conecta con la persona y no con el
+personaje.
+
+### 7.1 Gancho de objeto
+**Mecánica:** la atención empieza en un objeto (jugando con algo, haga ruido o no) → la cámara
+pasa a la persona, que **está haciendo o diciendo algo interesante** → se deja una **tensión**
+(¿lo va a lograr?) que se resuelve en la story siguiente.
+
+**Tania:** jugando con una cucharita de bebé o una sonaja → *"Esta semana tengo que decidir algo
+importante sobre el curso"* (solo si es real) → siguiente story. O: el termómetro en la mano →
+*"Lo que me preguntaron hoy 4 veces en consulta…"*.
+
+### 7.2 Gancho lifestyle (paparazzi)
+**Mecánica:** captar un momento como si no se diera cuenta + encuadre que muestra lo mejor del
+entorno (y esconde lo feo) + música de Instagram.
+
+**Tania:** llegando al hospital o al consultorio con su café, con música tranquila. **Sin lujo**:
+el entorno que se muestra es el de la autoridad (hospital, consultorio) o el de la calidez (su
+cocina, su hijo).
+
+### 7.3 Gancho de resultado
+**Mecánica:** 1) tener un resultado real, 2) **mostrarlo visualmente** (captura) en la story 1,
+3) decir brevemente cómo se logró → luego se explica a fondo → y se termina en **redirección con
+palabra clave** ("escribe X y te mando…"), con un adelanto de lo que van a recibir.
+
+**Tania:** captura de un mensaje real de una mamá (*"Hoy comió en familia y yo disfruté por
+primera vez"*) → *"¿Qué cambió? Te cuento"* → 2-3 stories de valor (por ejemplo, la diferencia
+entre arcada y atragantamiento) → *"Escríbeme COMIDA y te mando [PENDIENTE: recurso/link]"*.
+Resultados solo reales, sin prometer que a todas les pasará igual.
+
+### 7.4 Gancho negativo ("tengo un problema")
+**Mecánica:** una imagen bonita o de lifestyle + texto negativo (*"Tengo un problema. Llevo todo
+el día preocupada por esto"*) → contexto del problema → **prueba de que el problema es real** →
+resolución. Funciona porque la audiencia ya siente cercanía y quiere saber qué le pasa. En el
+curso el problema es un "problema bueno" (tanta demanda que no hay lugares).
+
+**Tania:** encaja muy bien con su lado Cuidador si el problema es real y se cuenta desde el
+cuidado, no desde la presunción:
+*"Tengo un problema."* → *"Me llegan más de [PENDIENTE: número real] mensajes a la semana
+preguntando cuándo empezar a dar comida, y no alcanzo a responderlos todos."* → captura de los DMs
+(sin nombres) → *"Por eso hice esto…"* (curso, clase o guía).
+- ⚠️ Si suena a presumir ("tengo la agenda llena"), es la sombra del Sabio. Siempre desde
+  "quiero que les llegue la información".
+- ⚠️ No confundir con el gancho Negativo del banco (#4) que pone el problema en la mamá; este
+  pone el problema en Tania.
+
+### 7.5 Patrón común a todos los ganchos
+La story 1 **abre algo** (una incógnita, una tensión, un problema o un resultado) que solo se
+cierra si la mamá sigue viendo. Si la story 1 se entiende completa sola, no es un gancho.
