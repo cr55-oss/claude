@@ -8,6 +8,12 @@ está marcado como **no se traslada**.
 Estado: **completo e integrado** en `SKILL.md`, `secuencias-tipo.md` y `humor-identificacion.md`.
 Este archivo queda como fuente de detalle y ejemplos.
 
+**Nota sobre niveles de conciencia:** el curso **no menciona** a Schwartz ni los niveles de
+conciencia; ese marco viene de la estrategia de contenido de Tania. Lo que sí muestra el curso es
+que **una sola cadena del mismo día** puede llevar a la persona desde el entretenimiento hasta la
+acción (palabra clave → DM → recurso, clase o página de venta). Por eso el modo 1 del agente va de
+N1 a N5 el mismo día, con el pago en el DM.
+
 Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos · guion de stories · interacciones · 10 errores · qué subir según el nicho · clase práctica de edición · secuencia de venta.
 
 ---

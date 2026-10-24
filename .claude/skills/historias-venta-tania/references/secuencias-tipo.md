@@ -15,11 +15,21 @@ conexión 5-7.
 
 ---
 
-## Modo 1 · Venta con recurso gratuito · 11-12 historias · N2 → N4
+## Modo 1 · Venta con recurso gratuito · 11-12 historias · N1 → N5 en el mismo día
 
-**El modo principal de venta.** La serie no vende el curso directamente: lleva a la mamá a
-**descargar el recurso gratuito** (bajo compromiso). La venta del curso se cierra después, con el
-seguimiento por DM y los modos 2-4. Es la estructura de la plantilla mensual.
+**El modo principal de venta.** En **una sola serie** lleva a la mamá por todos los niveles,
+como las cadenas del curso de stories (entretenimiento → contexto → valor → prueba → palabra
+clave) y como una carta de venta larga de Schwartz. Lo que **no** pasa dentro de la historia es el
+pago: la historia termina en la palabra clave (un compromiso bajo) y **el mismo día, en el DM**,
+llega el recurso y la oferta del curso (N5). Es la estructura de la plantilla mensual.
+
+Niveles por tramo: **H1-H3 N1** (identificación: "así son los bebés… ¿o no?") · **H4-H5 N2**
+(nombrar el miedo o la duda) · **H6-H9 N3** (lo que sí dice la evidencia; Tania es la fuente
+confiable) · **H10-H11 N4** (el valor 3 muestra la captura del curso y el CTA presenta el
+recurso como una muestra del curso) · **DM N5** (el curso con link, el mismo día).
+
+No todas las mamás llegan a N5 ese día: la cadena **filtra**. Las que se quedan en N3-N4 siguen
+con el seguimiento de +1 y +3 días y con los modos 3 (objeción) y 2 (venta directa).
 
 | H | Bloque (columna de la plantilla) | Tipo | Nota |
 |---|---|---|---|
@@ -41,7 +51,7 @@ seguimiento por DM y los modos 2-4. Es la estructura de la plantilla mensual.
 | Cuándo | Quién | Mensaje (adaptar a la voz de Tania) |
 |---|---|---|
 | Al escribir la palabra clave | Automático | *"¡Aquí está [RECURSO] 💛 [link]. Cuéntame: ¿cuántos meses tiene tu bebé?"* (la pregunta abre conversación y califica) |
-| Cuando responde la edad | Tania o equipo | Según la edad: *"A los [X] meses lo más importante es [idea corta]. Todo el paso a paso (señales, texturas, alérgenos, menú del primer mes) está en el curso: [link]."* |
+| Cuando responde la edad (el mismo día: aquí se cierra N5) | Tania o equipo | Según la edad: *"A los [X] meses lo más importante es [idea corta]. Todo el paso a paso (señales, texturas, alérgenos, menú del primer mes) está en el curso: [link]."* |
 | Día +1 sin respuesta | Automático o equipo | *"¿Te dio tiempo de verlo? Si te quedó alguna duda, respóndeme aquí."* |
 | Día +3 | Tania o equipo | La objeción más común + respuesta corta + link `[PENDIENTE: objeción real]` |
 | Si pregunta algo médico particular | Tania | Orientación general + *"esto conviene verlo en consulta"* |
