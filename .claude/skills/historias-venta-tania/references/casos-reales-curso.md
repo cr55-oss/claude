@@ -196,7 +196,20 @@ stickers y GIFs, frases cortadas, vender "solo hoy" sin dar valor, terminar sin 
 
 ---
 
-## El elenco de Tania (lo que más falta)
+## Si Tania graba sola (el caso por defecto)
+
+Tania no siempre puede grabar con otras personas. Los casos del curso también funcionan sin
+elenco, porque la mitad de su "interacción" viene de objetos y de la audiencia:
+
+| En el curso | Con Tania sola |
+|---|---|
+| La gallina, la cabra, el maletín, las llaves | **Objetos como personajes**: el bote de consomé "villano", el brócoli, la cucharita, la galleta "para bebé" |
+| El alumno, el agente, el capitán | **La audiencia**: capturas de DMs reales sin nombre como "la otra voz"; encuestas que deciden qué pasa |
+| Los alumnos reaccionando, saltando del barco | **Tania reaccionando**: probando la comida, su cara real; ella es el jurado |
+| "Tiene que ser hoy", "¿otra oportunidad?" | **Lo que está en juego lo pone la audiencia o el objeto**: "¿se puede hacer que sepa rico sin sal?" |
+| Callbacks entre historias | **Bucle con objeto**: lo que aparece en H1 (el consomé escondido) se cierra en la última |
+
+## El elenco de Tania (solo los días que ella pueda)
 
 Los casos funcionan porque hay **personajes**. Tania necesita 2-4 personajes recurrentes que
 aparezcan con ella (solo los que ella y ellos acepten):

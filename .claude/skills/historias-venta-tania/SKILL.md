@@ -100,8 +100,13 @@ Sigue `references/drive-fotos.md`. En resumen:
 
 **Antes de escribir, busca en `references/casos-reales-curso.md` el caso real que más se
 parezca al modo del día** y úsalo como molde (son cadenas publicadas, desarmadas historia por
-historia). **Incluye al menos una interacción con otra persona o personaje** (su asistente, su
-hijo, la abuela, el perro): en los casos reales el humor sale de la interacción, no de chistes.
+historia). **Incluye al menos una interacción por serie**: en los casos reales el humor sale de la
+interacción, no de chistes. **Por defecto Tania graba sola** (solo ella y fotos de cosas), así que
+la interacción viene de: **la audiencia** (capturas de DMs reales sin nombre, respuestas a
+encuestas, "ustedes decidieron"), **objetos como personajes** (el bote de consomé "villano", el
+brócoli), **Tania reaccionando** (probando, con caras reales; ella es el jurado) y **bucles con
+objetos** (algo que aparece en H1 y se cierra en la última). Solo propón a otras personas (su
+asistente, su hijo, la abuela) si Tania dice que ese día puede.
 
 **Gancho (H1 + H2): lee primero `references/ganchos-historias.md`.** H1 se entiende **sin leer**
 (una cara, una acción, una escena rara, máximo ~6 palabras); H2 es la **identificación** (el
@@ -150,7 +155,8 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
   su amiga con un "jajaja somos nosotros"? Si no: cambia el gancho antes que nada.
 - [ ] ¿No hay más de 2 historias de valor seguidas sin cambio de estímulo?
 - [ ] ¿Cambia el formato cada 1-2 historias y el lugar o ángulo cada 3? ¿Hay al menos 2 videos?
-- [ ] ¿Hay al menos una interacción con otra persona o personaje?
+- [ ] ¿Hay al menos una interacción (audiencia, objeto-personaje, reacción de Tania o bucle con
+  objeto)? ¿Todo se puede grabar con Tania sola, salvo que ella diga lo contrario?
 - [ ] ¿Cada historia lleva solo texto + 1 elemento?
 - [ ] ¿Lo abstracto tiene prueba visual?
 - [ ] ¿Termina en la acción del modo? Si es palabra clave, ¿se pide como respuesta escrita?
