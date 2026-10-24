@@ -17,6 +17,15 @@ mecánica, adaptada a la voz de Tania.
 
 Si falla una, no va.
 
+## Regla principal: el humor se muestra, no se explica
+
+En historias, lo que hace reír es **lo que se ve**: la reacción real (la cara de Tania, la mueca
+del bebé), el contraste (la doctora con aguacate en la bata), lo absurdo y real (el perro bajo la
+silla, la galería llena de fotos de pañales). Un chiste escrito en fondo liso que hay que leer
+para entender es débil. Si la mecánica de abajo se usa, que sea **sobre una imagen o un video
+que ya da risa por sí solo**; el texto solo la remata. Banco de pares H1 + H2 en
+`ganchos-historias.md`.
+
 ## Mecánicas permitidas
 
 1. **Expectativa vs. realidad.** *"Expectativa: bebé probando brócoli con cara de chef.

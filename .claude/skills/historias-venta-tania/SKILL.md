@@ -97,9 +97,13 @@ Sigue `references/drive-fotos.md`. En resumen:
    visual va en esa misma historia (captura del temario, mensaje de una mamá).
 7. **Siempre termina en una acción** (la del modo).
 
-**Gancho** (historia 1), uno de 5: intriga/fuera de contexto · objeto · lifestyle paparazzi
-(sin lujo: autoridad o calidez) · resultado (captura real) · "tengo un problema" (real y desde el
-cuidado). Mecánicas de texto: `references/banco-ganchos-validados.md`.
+**Gancho (H1 + H2): lee primero `references/ganchos-historias.md`.** H1 se entiende **sin leer**
+(una cara, una acción, una escena rara, máximo ~6 palabras); H2 es la **identificación** (el
+momento exacto que la mamá creyó que solo le pasaba a ella). El humor **se muestra, no se
+explica**. Tipos de gancho: intriga/fuera de contexto · objeto · lifestyle paparazzi (sin lujo) ·
+resultado (captura real) · "tengo un problema" (real y desde el cuidado). Nunca abras con texto
+que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H2 en adelante:
+`references/banco-ganchos-validados.md`.
 
 **Detalles:**
 - Formatos: rota entre selfie, POV 0.5, vlog, b-roll, espejo, foto con texto, layout, captura,
@@ -133,7 +137,8 @@ cuidado). Mecánicas de texto: `references/banco-ganchos-validados.md`.
 ## Paso 5 — revisar (checklist)
 
 - [ ] ¿El modo es el que pidió (o el que propuse y ella aceptó)?
-- [ ] ¿Historia 1 gancho y 2 subgancho?
+- [ ] ¿H1 funciona **sin leer** el texto? ¿En H2 una mamá diría "¡es mi casa!"? ¿Se la mandaría a
+  su amiga con un "jajaja somos nosotros"? Si no: cambia el gancho antes que nada.
 - [ ] ¿No hay más de 2 historias de valor seguidas sin cambio de estímulo?
 - [ ] ¿Cambia el formato cada 1-2 historias y el lugar o ángulo cada 3? ¿Hay al menos 2 videos?
 - [ ] ¿Cada historia lleva solo texto + 1 elemento?
@@ -193,4 +198,5 @@ documento de registro (ver `references/drive-fotos.md`), propón anotarlo ahí.
   comerciales y recurso gratuito (con pendientes).
 - `references/curso-stories-aprendizajes.md`: el método completo del curso traducido a Tania.
 - `references/tono-marca-dra-tania.md`: voz de marca.
-- `references/banco-ganchos-validados.md`: mecánicas de gancho.
+- `references/ganchos-historias.md`: reglas de H1 + H2, banco de 10 pares y un ejemplo completo.
+- `references/banco-ganchos-validados.md`: mecánicas de gancho (texto).
