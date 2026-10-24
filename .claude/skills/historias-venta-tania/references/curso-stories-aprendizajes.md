@@ -5,10 +5,10 @@ cuenta de emprendimiento). Aquí solo se conservan las **mecánicas**, traducida
 marca de Tania. Todo lo que no encaja con `../../guion-viral-pediatria/references/tono-marca-dra-tania.md`
 está marcado como **no se traslada**.
 
-Estado: archivo en construcción. Se va llenando módulo por módulo y al final se integra en
-`SKILL.md` y `secuencias-tipo.md`.
+Estado: **completo e integrado** en `SKILL.md`, `secuencias-tipo.md` y `humor-identificacion.md`.
+Este archivo queda como fuente de detalle y ejemplos.
 
-Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos · guion de stories · interacciones · 10 errores · qué subir según el nicho.
+Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos · guion de stories · interacciones · 10 errores · qué subir según el nicho · clase práctica de edición · secuencia de venta.
 
 ---
 
@@ -389,3 +389,68 @@ Lo de los demás no se traslada (incluido usar "vacíos" de las normas de Meta).
   antecedentes de alergia. Siempre con "en tu caso particular, consúltalo".
 - **El trasfondo de Tania:** *"Ser mamá cambió cómo explico las cosas en consulta"*: el puente
   entre su lado Sabio y su lado Cuidador.
+
+---
+
+## 12. Clase práctica: grabar y recortar
+
+- **Empezar el clip en la acción, nunca en la pausa.** Si la story empieza con medio segundo de
+  silencio, la gente la pasa; si empieza "en el acto", se queda.
+- **Terminar justo al cerrar la frase o el gesto.** Nada de brazos bajando ni miradas muertas.
+- **La story de gancho dura ~8-12 segundos.** Más corta que las demás.
+- **Señal de corte:** al grabar, la persona hace un gesto claro al empezar y al terminar (un golpe
+  con la mano, un "3, 2, 1"). Así quien edita sabe dónde cortar sin ver todo. Si Tania tiene
+  ayudante o equipo, esto les ahorra tiempo.
+- **Revisar cada clip antes de subirlo** (repeticiones, frases reiniciadas).
+- **En un mismo lugar, cambiar la posición y el ángulo**: arriba, abajo, de lado, desde lejos.
+  El curso sube el teléfono a un árbol o lo lanza a la piscina. Para Tania: el mismo consultorio
+  desde 3 ángulos distintos ya cambia el estímulo.
+- **Texto:** una línea abajo que resume lo que se dice (*"Así sabes si tu bebé ya está listo,
+  en 3 señales"*).
+
+### La "trifecta irrefutable" (la idea más útil de la clase)
+**Todo lo abstracto que se dice, se muestra.** Si se menciona un método, un módulo o un
+resultado, en esa misma story aparece **la prueba visual** (captura del temario, del PDF, del
+resultado). Da congruencia, autoridad y validación a la vez, y además funciona como **teaser** del
+producto dentro del valor.
+
+**Tania:** cuando dice *"la diferencia entre arcada y atragantamiento es…"*, en la misma story
+aparece una **captura de la lección del Módulo 3 del curso**. Cuando dice *"hay 8 alimentos
+alergénicos que conviene introducir"*, una captura del **calendario del Módulo 5**. Se enseña y, al
+mismo tiempo, se ve que el curso existe y está completo, sin venderlo de forma explícita.
+
+### CTA que califica
+*"Responde VIRAL para saber si sirve para tu caso en concreto."* No es "cómprame", es "veamos si
+es para ti".
+
+**Tania:** *"Escríbeme COMIDA y te digo si el curso es para la etapa de tu bebé."* Es honesto (no
+es para todas: depende de la edad o de si ya empezó) y encaja con su lado Cuidador.
+
+## 13. Secuencia de venta directa (7 stories)
+
+| # | Bloque | Qué hace en el curso |
+|---|---|---|
+| 1 | **Humor fuera de contexto** | Algo gracioso o raro que engancha |
+| 2 | **Gancho con contexto** + mensajes de la audiencia | *"¿Has visto esto?"* + capturas de DMs |
+| 3 | **Más contexto + mensajes** | Pertenencia y **"demanda reprimida"**: la gente ya lo estaba pidiendo |
+| 4 | **"Tengo dos noticias: una buena y una mala"** | Lo baja a algo concreto |
+| 5 | **Escasez real** | Quedan 5 de 20 lugares |
+| 6 | **Resultado (captura) + CTA con palabra clave** | *"Escribe X y vemos si puedes trabajar con nosotros"* |
+| 7 | **Humor para cerrar** | Baja la tensión para no "quemar" la cuenta con una venta seca, y filtra (*"solo si de verdad quieres…"*) |
+
+- **Esta secuencia no tiene valor**: el valor se sustituye por escasez. Funciona **solo porque**
+  antes hubo días de valor e interacción (los mensajes que piden el producto son reales).
+- La lógica: no "yo te vendo", sino "tú me lo pides".
+
+**Traducción a Tania (con dos ajustes importantes):**
+1. **Escasez solo si existe.** Un curso grabado no tiene "cupo". Opciones reales posibles:
+   precio de lanzamiento con fecha de fin, un bono limitado (por ejemplo una sesión en vivo de
+   dudas para las primeras inscritas), un grupo en vivo con cupo. Si no existe ninguna, la story 5
+   se reemplaza por **demanda real** (*"Esta semana me escribieron 40 mamás preguntando
+   cuándo"*) + **claridad** (qué incluye, para quién es). `[PENDIENTE: definir con el usuario]`
+2. **"Dos noticias"** encaja muy bien si es honesto: *"Buena: ya abrí el curso. Mala: ya no me
+   da la vida para responder cada DM uno por uno, por eso lo junté todo ahí."*
+3. **"Tú me lo pides"** → *"Escríbeme COMIDA y te digo si es para la edad de tu bebé"*
+   (calificar, no presionar).
+4. **El humor del cierre** se adopta: una story ligera **después** del CTA (nunca sobre el precio
+   ni sobre la mamá), para que no quede una venta fría.

@@ -1,103 +1,164 @@
 # Secuencias tipo
 
-Los largos son orientativos. Una secuencia de 5-7 historias retiene mejor que una de 12; si hay
-más que decir, se parte en dos días.
+Basadas en el método del curso de stories (ver `curso-stories-aprendizajes.md` §8 y §13) y en la
+**Plantilla Mensual de Guion de Stories** del usuario (Gancho → Gancho contexto → Humor 1-3 →
+Valor 1-2 → Humor 4-5 → Valor 3 → CTA).
 
-## A. Calentamiento (N1 → N3) · 5-6 historias · cualquier mes
+Símbolos: 😄 humor o identificación · 🩺 valor o autoridad · 💬 interacción · 🧾 prueba visual ·
+🛒 venta.
 
-No se menciona el curso, o como mucho un "estoy preparando algo" al final.
+Regla en todas: **nunca más de 2 🩺 seguidas sin un cambio de estímulo** y **cambio de formato
+cada 1-2 historias**.
 
-| H | Nivel | Tipo | Qué hace |
+---
+
+## A. Día de compartir · 5-7 historias · el más frecuente
+
+No se menciona el curso. Se elige **una variante** por día y se rotan durante la semana:
+
+| Variante | Qué es | Ejemplo de gancho |
+|---|---|---|
+| **Día a día** | Detrás de cámaras: consulta (sin pacientes identificables), trayecto, café, su hijo comiendo | B-roll llegando al consultorio + *"Primera pregunta del día: '¿ya le puedo dar huevo?'"* |
+| **Tip** | Una sola idea útil, contada con el patrón gancho → humor → valor | POV cortando un plátano: *"La forma de cortarlo cambia según la edad"* |
+| **Humor de mamá** | Identificación pura | *"Expectativa: bebé comiendo brócoli. Realidad: brócoli en el pelo."* |
+| **Comunidad** | Preguntar, mostrar respuestas, compartir lo que mandan | *"¿Cuál fue el primer alimento de tu bebé?"* |
+
+Estructura:
+| H | Bloque | Tipo |
+|---|---|---|
+| 1 | Gancho | 😄 |
+| 2 | Subgancho | 😄/💬 |
+| 3 | Humor o momento de vida | 😄 |
+| 4 | Valor (una idea) | 🩺 |
+| 5 | Humor o cambio de lugar | 😄 |
+| 6 (opc.) | Valor corto o resultado de la encuesta | 🩺/💬 |
+| 7 | Pregunta o sticker | 💬 |
+
+Termina con una pregunta, nunca con un link. Las respuestas se anotan: son las objeciones y dudas
+de los días de venta.
+
+---
+
+## B. Valor + CTA · 11-12 historias · la estructura base (la plantilla mensual)
+
+Sirve para **calentamiento** (CTA = pregunta, caja de preguntas o recurso gratuito) y para
+**venta indirecta** (CTA = palabra clave del curso). Niveles N2 → N4/N5.
+
+| H | Bloque (columna de la plantilla) | Tipo | Nota |
 |---|---|---|---|
-| 1 | N1 | 😄 | Escena de identificación con humor + encuesta "¿te pasa?" |
-| 2 | N1→N2 | 💬 | Resultado de la encuesta ("el 80% dijo que sí, no estás sola") |
-| 3 | N2 | 🩺 | Nombrar el miedo/duda real detrás del chiste |
-| 4 | N3 | 🩺 | Mito vs. evidencia o una idea útil concreta (quiz) |
-| 5 | N3 | 💬 | Caja de preguntas sobre el tema |
-| 6 (opc.) | N3 | 💬 | "Estoy preparando algo para esto 👀" |
+| 1 | **Gancho** | 😄 | Uno de los 5 ganchos. Video de 8-12 s. |
+| 2 | **Gancho contexto** | 😄 | Explica el gancho: ahora la H1 tiene sentido |
+| 3 | **Humor 1** | 😄 | Identificación con la mamá |
+| 4 | **Humor 2** | 😄/💬 | Sticker en el momento de tensión ("¿tú qué le dirías?") |
+| 5 | **Humor 3 / contexto** | 😄 | Puente: *"Voy a explicarte…"* (fondo liso o layout). Evita el "puñetazo en frío". |
+| 6 | **Valor 1** | 🩺🧾 | Con prueba visual (captura del módulo del curso) |
+| 7 | **Valor 2** | 🩺🧾 | Ídem |
+| 8 | **Humor 4** | 😄 | Respiro (cambio de lugar o formato). En temas de seguridad, cambio de estímulo sin chiste. |
+| 9 | **Humor 5** | 😄 | Humor espontáneo (si se rió o se equivocó grabando, se deja) |
+| 10 | **Valor 3** | 🩺🧾 | El punto más útil, guardado para el final |
+| 11 | **Venta / CTA** | 🛒 | Calentamiento: pregunta o recurso. Venta: *"Escríbeme COMIDA y te digo si el curso es para la etapa de tu bebé."* |
+| 12 (opc.) | **Cierre ligero** | 😄 | Baja la tensión después del CTA (nunca sobre el precio) |
 
-## B. Apertura de venta (N3 → N5) · 6-8 historias
+En días con poco tiempo se recorta a 9: quitar Humor 3 y Humor 5.
 
-| H | Nivel | Tipo | Qué hace |
+---
+
+## C. Venta directa · 7 historias · solo después de días de valor e interacción
+
+Del curso: no lleva valor; el valor se sustituye por **demanda real** y **escasez real**.
+Funciona solo si antes hubo días de compartir y de valor que generaron mensajes. N4 → N5.
+
+| H | Bloque | Tipo | Tania |
 |---|---|---|---|
-| 1 | N2 | 😄 | Identificación con humor (abre igual que el calentamiento) |
-| 2 | N3 | 🩺 | El problema real: mucha información contradictoria |
-| 3 | N3 | 🩺 | Por qué Tania (neonatóloga, mamá, criterio clínico, sin presumir títulos) |
-| 4 | N4 | 🛒 | El curso: qué resuelve, en una frase |
-| 5 | N4 | 🛒 | Qué incluye (los 6 módulos, en lenguaje de mamá, no de temario) |
-| 6 | N4 | 🛒 | Para quién es y para quién no |
-| 7 | N5 | 🛒 | Precio + cómo comprar `[PENDIENTE]` |
-| 8 | N4 | 💬 | Encuesta "¿qué te frena?" (alimenta la secuencia C) |
+| 1 | Humor fuera de contexto | 😄 | Algo gracioso de su día (POV del desastre de la comida de su hijo) |
+| 2 | Gancho con contexto + mensajes | 💬🧾 | *"¿Ya vieron esto?"* + capturas de DMs reales (*"¿Cuándo abre el curso?"*), sin nombres |
+| 3 | Más mensajes: la demanda | 💬🧾 | *"Esta semana me escribieron [PENDIENTE: número real] mamás preguntando lo mismo"* |
+| 4 | "Tengo dos noticias" | 😄 | *"Una buena y una mala. ¿Por cuál empiezo?"* (encuesta) |
+| 5 | La noticia + escasez real | 🛒 | Buena: el curso está abierto. Mala/escasez **solo si es real** (precio de lanzamiento hasta [PENDIENTE: fecha], bono para las primeras [PENDIENTE]). Si no hay escasez real: *"Mala: ya no me da la vida para responder cada DM, por eso lo junté todo ahí."* |
+| 6 | Resultado + CTA | 🧾🛒 | Captura de una alumna (testimonio real con permiso) + *"Escríbeme COMIDA y te digo si es para la edad de tu bebé"* |
+| 7 | Cierre con humor | 😄 | Algo ligero que baje la tensión y filtre: *"Solo si de verdad quieres dejar de googlear a las 3 am 😅"* |
 
-## C. Objeción del día (N4) · 3-5 historias
+---
 
-Una objeción por día, sacada de las respuestas reales a "¿qué te frena?".
+## D. Objeción del día · 6-9 historias · N4
 
-| H | Nivel | Tipo | Qué hace |
-|---|---|---|---|
-| 1 | N4 | 💬 | "Ayer muchas me dijeron: '<objeción>'. Hablemos de eso." |
-| 2 | N4 | 🩺 | Validar ("tiene todo el sentido que…") |
-| 3 | N4 | 🩺 | Responder con hechos del curso (módulo/lección concreta) |
-| 4 | N4 | 🛒 | Prueba: testimonio real `[PENDIENTE]` |
-| 5 | N5 | 🛒 | Link / palabra clave |
+Una objeción por día, sacada de las respuestas reales.
 
-## D. Cierre (N5) · 3-4 historias · solo con fecha real
+| H | Bloque | Tipo |
+|---|---|---|
+| 1 | Gancho con la objeción real (captura del mensaje, sin nombre) | 💬🧾 |
+| 2 | Subgancho: *"Me lo dicen mucho. Hablemos de eso."* | 😄 |
+| 3 | Validar: *"Tiene todo el sentido que…"* | 🩺 |
+| 4 | Humor o cambio de lugar | 😄 |
+| 5 | Responder con hechos del curso + captura de la lección | 🩺🧾 |
+| 6 | Prueba: testimonio real `[PENDIENTE]` | 🧾 |
+| 7 | CTA con palabra clave | 🛒 |
+| 8 (opc.) | Cierre ligero | 😄 |
 
-| H | Nivel | Tipo | Qué hace |
-|---|---|---|---|
-| 1 | N5 | 🛒 | Cuenta regresiva real + qué se pierde si espera (sin miedo médico) |
-| 2 | N4 | 🛒 | Resumen en 3 líneas de qué incluye |
-| 3 | N4 | 🛒 | Última objeción frecuente, respondida |
-| 4 | N5 | 🛒 | Link / palabra clave, claro y directo |
+---
 
-Prohibido en el cierre: urgencia falsa, "últimos lugares" si no hay cupo, y miedo médico
-("si no lo haces bien, tu bebé…").
+## E. Cierre · 5-7 historias · solo con fecha real
 
-## E. Respuesta a caja de preguntas (N3) · 3-5 historias
+| H | Bloque | Tipo |
+|---|---|---|
+| 1 | Gancho: cuenta regresiva real (sticker) | 🛒 |
+| 2 | Subgancho / humor | 😄 |
+| 3 | Resumen en 3 líneas de qué incluye + captura del temario | 🧾 |
+| 4 | Última objeción frecuente, respondida | 🩺 |
+| 5 | Testimonio real | 🧾 |
+| 6 | CTA claro | 🛒 |
+| 7 (opc.) | Cierre ligero | 😄 |
 
-Cada historia responde una pregunta real (captura de la pregunta + respuesta corta de Tania en
-video o texto). La última: *"Esto y mucho más lo explico a fondo en el curso"* (N4 suave), solo si
-el mes ya es de venta.
+Prohibido: urgencia falsa, "últimos lugares" sin cupo, miedo médico ("si no lo haces bien, tu
+bebé…").
 
-## F. Día de compartir (sin venta) · 3-5 historias · el más frecuente
+---
 
-No se menciona el curso. Se elige **una** de estas variantes por día y se rotan durante la
-semana:
+## F. Mandar tráfico a un reel · 5 historias · el día que se publica
 
-| Variante | Qué es | Ejemplo | Sticker |
-|---|---|---|---|
-| **Día a día** | Detrás de cámaras de Tania: consulta (sin pacientes identificables), café, su hijo comiendo, el caos real | *"Consultorio 8 am. Primera pregunta del día: '¿ya le puedo dar huevo?' (sí, ya te cuento)."* | Encuesta o emoji |
-| **Tip rápido** | Una sola idea útil en 1-2 historias | *"Si tu bebé hace arcadas al comer, respira: es un reflejo que lo protege."* (sin humor) | Quiz mito/verdad |
-| **Humor de mamá** | Identificación pura, un POV o un "expectativa vs. realidad" | *"Expectativa: bebé comiendo brócoli. Realidad: brócoli en el pelo."* | "¿Te pasa?" |
-| **Comunidad** | Preguntarles, mostrar respuestas, compartir lo que mandan | *"¿Cuál fue el primer alimento de tu bebé?"* | Caja de preguntas o encuesta |
+| H | Bloque | Tania |
+|---|---|---|
+| 1 | Gancho visual con curiosidad | Foto de un plato con 3 alimentos: *"Uno de estos NO se da antes del año"* |
+| 2 | Segundo gancho con contexto | *"Me lo preguntan en cada consulta de los 6 meses"* |
+| 3 | Reto de interacción (sin premios en dinero) | Quiz: *"¿Cuál crees que es?"* |
+| 4 | Humor + contexto | Su reacción a las respuestas |
+| 5 | CTA con link al reel | *"La respuesta (y por qué) está en mi reel nuevo 👇"* |
 
-Estructura: H1 (gancho o escena) → H2-H3 (desarrollo o tip) → última con sticker. Termina con una
-pregunta, nunca con un link.
+---
 
-**Por qué importa aunque no venda:** las respuestas de los días de compartir son la materia prima
-de los días de venta (objeciones reales, dudas frecuentes, temas que más reaccionan). Anota lo
-que salga.
+## G. Respuestas de la caja de preguntas · 5-8 historias · N3
+
+| H | Bloque |
+|---|---|
+| 1 | Gancho: muchas respuestas juntas (layout o "pared de preguntas") |
+| 2 | Subgancho: *"Respondo las que más se repitieron"* |
+| 3-6 | Pregunta (captura sin nombre) + respuesta corta en video; un humor o cambio de lugar a la mitad |
+| 7 | *"Esto y mucho más lo explico a fondo en el curso"* (N4 suave, solo si el mes es de venta) o una nueva caja de preguntas |
+
+---
 
 ## Ritmo semanal por defecto (curso siempre abierto)
 
 | L | M | Mi | J | V | S | D |
 |---|---|---|---|---|---|---|
-| F · tip | F · día a día | **B · venta** | F · humor | F · comunidad | **C · objeción** | F · día a día (o descanso) |
+| A · tip | A · día a día | **B · venta indirecta** | A · humor | A · comunidad / F si hay reel | **D · objeción** | A · día a día (o descanso) |
 
-Regla: nunca dos días de venta seguidos, y el día anterior a uno de venta conviene un tip o
-humor sobre el mismo tema (calienta sin vender).
+Una vez al mes, si hay escasez real o mucha demanda acumulada: **C · venta directa** en lugar de
+la B del miércoles.
 
-## Calendario sugerido de lanzamiento (≈10 días)
+## Calendario de lanzamiento (≈10 días)
 
 | Día | Secuencia |
 |---|---|
-| -7 a -4 | A. Calentamiento (un tema distinto del temario cada día) |
-| -3 | A + "estoy preparando algo" |
-| -2 | E. Caja de preguntas |
-| 0 | B. Apertura de venta |
-| +1 a +4 | C. Una objeción por día (de las respuestas reales) |
-| +5 | E. Caja de preguntas sobre el curso |
-| Último día | D. Cierre (solo si hay fecha real) |
+| -7 a -4 | A (un tema distinto del temario cada día) + una B con CTA de caja de preguntas |
+| -3 | B con *"estoy preparando algo 👀"* al final |
+| -2 | G (respuestas de la caja de preguntas) |
+| 0 | **Apertura:** C (venta directa). Aquí va la **"bala de un solo uso"**: los mensajes de mamás impresos y pegados en la pared del consultorio, con Tania caminando entre ellos (*"Todo esto me preguntaron. Por eso hice el curso."*) |
+| +1 a +4 | D (una objeción por día) intercalada con una A |
+| +5 | G sobre el curso |
+| Último día | E (solo si hay fecha real) |
 
-Si el curso está siempre abierto (sin fecha de cierre), se cambia D por una secuencia B recortada
-cada 1-2 semanas, intercalada con calentamientos.
+**Pendiente de decidir con el usuario:** el curso de stories pone un **recurso gratuito** (clase,
+guía o grupo) antes de la venta. Si Tania lo crea, los CTA de los días -7 a -2 apuntan a ese
+recurso (palabra clave → recurso → lista de interesadas) y el día 0 se le avisa primero a esa
+lista.

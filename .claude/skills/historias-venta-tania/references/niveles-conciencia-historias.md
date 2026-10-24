@@ -59,7 +59,8 @@ el link de compra.
 - **Qué piensa:** ya quiere. Necesita el dato y el empujón final.
 - **Qué tiene que lograr:** oferta clara y fácil de tomar: precio, qué incluye, cómo comprar, y
   hasta cuándo **solo si la fecha es real**.
-- **Humor:** no.
+- **Humor:** no en la historia de la oferta. Sí puede ir una historia ligera **después** del CTA
+  para bajar la tensión.
 - **Sticker:** link o palabra clave por DM (*"Escríbeme COMIDA y te mando el acceso"*), más cuenta
   regresiva si hay fecha real de cierre.
 - **Ejemplo:** *"Curso de Alimentación Complementaria. 6 módulos, desde las señales de que está

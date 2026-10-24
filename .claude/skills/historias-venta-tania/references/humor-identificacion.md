@@ -56,10 +56,23 @@ Si falla una, no va.
 - Memes de terceros con marca de agua, o audios de tendencia que contradigan el mensaje.
 - Humor en cualquier historia N5 (precio, link, cierre).
 
-## Dónde va en la secuencia
+## Humor espontáneo (del curso de stories)
 
-- **H1** casi siempre lleva humor o identificación fuerte: es la que decide si se siguen viendo
-  las demás.
+Si Tania se ríe, se equivoca o su hijo interrumpe mientras graba, **se deja**: humaniza más que
+un chiste planeado. Solo se repite la toma si el error cambia el sentido médico de lo que dijo.
+
+## Dónde va en la secuencia (humor como ritmo)
+
+El curso de stories usa el humor para **cambiar el estímulo** entre bloques de valor, no como
+adorno. Por eso en la estructura base (secuencia B) hay hasta 5 bloques de humor en 12
+historias. Para no sonar a influencer:
+
+- Al menos la mitad de esos bloques son **identificación** ("jaja, soy yo") y no chiste puro.
+- **H1-H3**: humor o identificación fuerte. Deciden si se siguen viendo las demás.
+- **Después de cada 2 historias de valor**: un respiro (humor, cambio de lugar o de formato).
 - Después del humor viene **giro a dirección**: "Ahora sí, lo que sí sabemos es…". Es el patrón
   de la guía de tono (validar y orientar) en versión ligera.
-- De N4 en adelante el humor se apaga.
+- **La historia del CTA y la del precio son serias.** Una historia **después** del CTA puede ser
+  ligera, para bajar la tensión y que no quede una venta fría.
+- **En temas de seguridad** el respiro se hace sin chiste: cambio de lugar, de formato o un
+  sticker.

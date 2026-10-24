@@ -17,7 +17,20 @@ inventa.
 | Formato (grabado, en vivo, acceso por cuánto tiempo) | `[PENDIENTE]` |
 | Testimonios reales con permiso | `[PENDIENTE]` |
 
+| Escasez real (precio de lanzamiento con fecha, bono para las primeras, grupo en vivo con cupo) | `[PENDIENTE]`: si no hay ninguna, no se usa escasez |
+| Recurso gratuito previo (clase, guía o grupo) | `[PENDIENTE: decidir si se crea]` |
+| Palabra clave del CTA | `[PENDIENTE]` (sugerida: COMIDA) |
+
 Cuando Tania confirme un dato, se actualiza esta tabla para que no tenga que repetirlo.
+
+## Pruebas visuales disponibles (para la "trifecta irrefutable")
+
+Cuando una historia menciona algo del curso, se muestra en la misma historia:
+- Captura del **temario completo** (6 módulos), para la historia de "qué incluye".
+- Captura de la **lección concreta** del módulo que se está explicando (por ejemplo M3 "Arcadas
+  vs. atragantamiento", M5 "Calendario de alérgenos", M6 "Menú ejemplo del primer mes").
+- Capturas de **mensajes reales de mamás o alumnas** (sin nombre, con permiso si es testimonio).
+- `[PENDIENTE: que Tania tome estas capturas una vez y las guarde en un álbum para reusarlas]`
 
 ## Temario real
 
