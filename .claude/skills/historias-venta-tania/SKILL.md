@@ -98,6 +98,11 @@ Sigue `references/drive-fotos.md`. En resumen:
    visual va en esa misma historia (captura del temario, mensaje de una mamá).
 7. **Siempre termina en una acción** (la del modo).
 
+**Antes de escribir, busca en `references/casos-reales-curso.md` el caso real que más se
+parezca al modo del día** y úsalo como molde (son cadenas publicadas, desarmadas historia por
+historia). **Incluye al menos una interacción con otra persona o personaje** (su asistente, su
+hijo, la abuela, el perro): en los casos reales el humor sale de la interacción, no de chistes.
+
 **Gancho (H1 + H2): lee primero `references/ganchos-historias.md`.** H1 se entiende **sin leer**
 (una cara, una acción, una escena rara, máximo ~6 palabras); H2 es la **identificación** (el
 momento exacto que la mamá creyó que solo le pasaba a ella). El humor **se muestra, no se
@@ -145,6 +150,7 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
   su amiga con un "jajaja somos nosotros"? Si no: cambia el gancho antes que nada.
 - [ ] ¿No hay más de 2 historias de valor seguidas sin cambio de estímulo?
 - [ ] ¿Cambia el formato cada 1-2 historias y el lugar o ángulo cada 3? ¿Hay al menos 2 videos?
+- [ ] ¿Hay al menos una interacción con otra persona o personaje?
 - [ ] ¿Cada historia lleva solo texto + 1 elemento?
 - [ ] ¿Lo abstracto tiene prueba visual?
 - [ ] ¿Termina en la acción del modo? Si es palabra clave, ¿se pide como respuesta escrita?
@@ -204,5 +210,7 @@ documento de registro (ver `references/drive-fotos.md`), propón anotarlo ahí.
 - `references/investigacion-historias.md`: datos de retención, cómo ordena Instagram las
   historias, embudo por DM, cuentas de referencia del nicho, formatos de series y métricas.
 - `references/tono-marca-dra-tania.md`: voz de marca.
+- `references/casos-reales-curso.md`: las 10 secuencias reales del curso desarmadas historia
+  por historia, los 8 patrones que comparten y el "elenco" de Tania. **El mejor molde.**
 - `references/ganchos-historias.md`: reglas de H1 + H2, banco de 10 pares y un ejemplo completo.
 - `references/banco-ganchos-validados.md`: mecánicas de gancho (texto).
