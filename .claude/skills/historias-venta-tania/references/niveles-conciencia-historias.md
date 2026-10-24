@@ -1,7 +1,7 @@
 # Niveles de conciencia aplicados a historias
 
 Marco: Eugene Schwartz, *Breakthrough Advertising* (el mismo que usa
-`../../estrategia-contenido-tania/SKILL.md`). En historias tiene una ventaja que el feed no
+el skill `estrategia-contenido-tania`, si está instalado). En historias tiene una ventaja que el feed no
 tiene: **los stickers te dicen en qué nivel está cada mamá**, y el DM te deja hablarle a cada una
 en su nivel en vez de venderle igual a todas.
 

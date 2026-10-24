@@ -18,7 +18,8 @@ inventa.
 | Testimonios reales con permiso | `[PENDIENTE]` |
 
 | Escasez real (precio de lanzamiento con fecha, bono para las primeras, grupo en vivo con cupo) | `[PENDIENTE]`: si no hay ninguna, no se usa escasez |
-| Recurso gratuito previo (clase, guía o grupo) | `[PENDIENTE: decidir si se crea]` |
+| **Recurso gratuito** (el destino del modo 1): nombre, formato (PDF, clase en video, mini guía), link de descarga y si pide correo o WhatsApp | `[PENDIENTE]`. Ideas que salen del temario: *"¿Ya está listo? Las señales para empezar"* (M2), *"Arcadas vs. atragantamiento en 1 página"* (M3), *"Menú de la primera semana"* (M6) |
+| ¿Quién responde los DMs y hay automatización (ManyChat u otra)? | `[PENDIENTE]` |
 | Palabra clave del CTA | `[PENDIENTE]` (sugerida: COMIDA) |
 
 Cuando Tania confirme un dato, se actualiza esta tabla para que no tenga que repetirlo.

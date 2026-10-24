@@ -64,7 +64,7 @@ un chiste planeado. Solo se repite la toma si el error cambia el sentido médico
 ## Dónde va en la secuencia (humor como ritmo)
 
 El curso de stories usa el humor para **cambiar el estímulo** entre bloques de valor, no como
-adorno. Por eso en la estructura base (secuencia B) hay hasta 5 bloques de humor en 12
+adorno. Por eso en la estructura base (modo 1, recurso gratuito) hay hasta 5 bloques de humor en 12
 historias. Para no sonar a influencer:
 
 - Al menos la mitad de esos bloques son **identificación** ("jaja, soy yo") y no chiste puro.

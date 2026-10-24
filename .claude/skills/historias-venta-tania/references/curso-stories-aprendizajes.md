@@ -2,7 +2,7 @@
 
 Fuente: curso de stories de Instagram que tomó el usuario (marca personal, ejemplos de una
 cuenta de emprendimiento). Aquí solo se conservan las **mecánicas**, traducidas a la voz y la
-marca de Tania. Todo lo que no encaja con `../../guion-viral-pediatria/references/tono-marca-dra-tania.md`
+marca de Tania. Todo lo que no encaja con `tono-marca-dra-tania.md`
 está marcado como **no se traslada**.
 
 Estado: **completo e integrado** en `SKILL.md`, `secuencias-tipo.md` y `humor-identificacion.md`.
