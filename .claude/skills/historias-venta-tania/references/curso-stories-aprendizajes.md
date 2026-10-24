@@ -8,7 +8,7 @@ está marcado como **no se traslada**.
 Estado: archivo en construcción. Se va llenando módulo por módulo y al final se integra en
 `SKILL.md` y `secuencias-tipo.md`.
 
-Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos · guion de stories · interacciones.
+Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos · guion de stories · interacciones · 10 errores · qué subir según el nicho.
 
 ---
 
@@ -324,3 +324,68 @@ para el día de apertura de ventas. Usarlo **una sola vez** por lanzamiento.
 - Las preguntas médicas que lleguen por las interacciones se responden en general en stories; si
   es un caso particular → "esto hay que verlo en consulta".
 - Agradecer las respuestas: la guía de Tania es "validar y orientar".
+
+---
+
+## 10. Los 10 errores (→ checklist final del agente)
+
+### Prácticos
+1. **No cortar los "tiempos muertos"**: el inicio donde se prepara o el final donde espera. Se
+   recorta antes de subir.
+2. **Terminar sin CTA.** Si la mamá vio toda la cadena y al final no hay a dónde ir, se perdió.
+   Siempre cerrar con palabra clave, link o pregunta. **En días de compartir el CTA es una
+   pregunta o un sticker**, no un link.
+3. **Vender sin valor y presionando** (*"solo hoy, si no entras pierdes dinero"*). La persona se
+   siente atacada u obligada. El propio curso lo marca como error, y coincide con la guía de
+   Tania: nunca urgencia falsa ni presión.
+4. **Mala luz.** Grabar cerca de una ventana o con buena luz. Cuidar también lo que se ve detrás.
+5. **Empezar aburrido**: *"Hola, chicas, ¿cómo están?"*, *"Hoy les quiero contar…"*. La story 1
+   siempre es gancho + subgancho.
+
+### Técnicos
+6. **Sobreedición**: demasiados elementos, emojis, GIFs, stickers decorativos (de día, de hora),
+   textos que tapan la cara o el link. Lo único decorativo permitido: **una flecha** que señala
+   algo. Texto + imagen limpia.
+7. **Mala calidad** de imagen o elementos encimados que no se leen.
+8. **Aburridas y siempre en el mismo lugar.** Cambiar de espacio cada 2-3 stories (consultorio →
+   pasillo → cocina → coche). "Una película en una sola escena aburre."
+9. **Siempre el mismo formato** (selfie tras selfie) y **cortar la frase antes de terminar**.
+10. **No tener un plan ni saber a quién le hablas.** El error más grande: sin guion y sin
+    pensar en la mamá concreta que lo ve, todo lo demás falla.
+
+### Checklist de 10 puntos para el paso 5 del agente
+- [ ] ¿La story 1 es gancho (y no "hola, chicas")?
+- [ ] ¿Hay CTA al final (pregunta en días de compartir, palabra clave o link en días de venta)?
+- [ ] ¿La venta llega después de dar valor, sin presión ni urgencia falsa?
+- [ ] ¿Cambia el formato al menos cada 2 stories?
+- [ ] ¿Cambia el lugar al menos una vez cada 3 stories?
+- [ ] ¿Cada story tiene como máximo texto + 1 elemento (flecha, sticker de interacción o link)?
+- [ ] ¿Se indicó grabar con buena luz y recortar los tiempos muertos?
+- [ ] ¿Está escrita para una mamá concreta (edad del bebé, momento, miedo)?
+
+## 11. Qué subir según el nicho → nicho salud
+
+El curso cubre 4 nichos (dinero, sexo, salud, desarrollo personal). **Solo aplica el de salud.**
+Lo de los demás no se traslada (incluido usar "vacíos" de las normas de Meta).
+
+**La idea del curso para salud: todo gira en torno a la transformación.**
+- Transformaciones propias y de clientes (punto A → punto B).
+- Hábitos que dañan y hábitos que mejoran.
+- **Desmentir mitos comunes** (genera reacciones).
+- Rutinas o "cómo hacerlo" según el caso.
+- El trasfondo de todo: "esto me o te cambió la vida".
+
+**Traducción a pediatría y a Tania (el ajuste es importante):**
+- **La transformación no es del bebé, es de la mamá:** de **miedo a calma**, de confusión a
+  criterio. *"Antes: cada comida era angustia. Ahora: comemos en familia."* Prometer
+  transformaciones del bebé ("ya come de todo", "ya duerme toda la noche") viola su guía (cero
+  promesas absolutas) y además depende de cada niño.
+- **Mitos sí, polarizar no.** El curso dice que los mitos "generan controversia y polarizan".
+  Para Tania, el mito vs. evidencia es su formato más fuerte, pero siempre se corrige **la
+  idea, nunca a la persona** (ni a la abuela, ni a otra creadora, ni a la mamá que lo creía).
+- **Hábitos:** *"3 cosas que hago en casa para que la comida no sea una pelea"* (su lado
+  mamá) / *"El hábito que más veo en consulta y que complica la AC"* (su lado pediatra).
+- **"Cómo hacerlo" por caso:** según la edad (6, 8, 10 meses), bebés prematuros, bebés con
+  antecedentes de alergia. Siempre con "en tu caso particular, consúltalo".
+- **El trasfondo de Tania:** *"Ser mamá cambió cómo explico las cosas en consulta"*: el puente
+  entre su lado Sabio y su lado Cuidador.
