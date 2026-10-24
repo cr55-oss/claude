@@ -59,6 +59,34 @@ Cada historia responde una pregunta real (captura de la pregunta + respuesta cor
 video o texto). La última: *"Esto y mucho más lo explico a fondo en el curso"* (N4 suave), solo si
 el mes ya es de venta.
 
+## F. Día de compartir (sin venta) · 3-5 historias · el más frecuente
+
+No se menciona el curso. Se elige **una** de estas variantes por día y se rotan durante la
+semana:
+
+| Variante | Qué es | Ejemplo | Sticker |
+|---|---|---|---|
+| **Día a día** | Detrás de cámaras de Tania: consulta (sin pacientes identificables), café, su hijo comiendo, el caos real | *"Consultorio 8 am. Primera pregunta del día: '¿ya le puedo dar huevo?' (sí, ya te cuento)."* | Encuesta o emoji |
+| **Tip rápido** | Una sola idea útil en 1-2 historias | *"Si tu bebé hace arcadas al comer, respira: es un reflejo que lo protege."* (sin humor) | Quiz mito/verdad |
+| **Humor de mamá** | Identificación pura, un POV o un "expectativa vs. realidad" | *"Expectativa: bebé comiendo brócoli. Realidad: brócoli en el pelo."* | "¿Te pasa?" |
+| **Comunidad** | Preguntarles, mostrar respuestas, compartir lo que mandan | *"¿Cuál fue el primer alimento de tu bebé?"* | Caja de preguntas o encuesta |
+
+Estructura: H1 (gancho o escena) → H2-H3 (desarrollo o tip) → última con sticker. Termina con una
+pregunta, nunca con un link.
+
+**Por qué importa aunque no venda:** las respuestas de los días de compartir son la materia prima
+de los días de venta (objeciones reales, dudas frecuentes, temas que más reaccionan). Anota lo
+que salga.
+
+## Ritmo semanal por defecto (curso siempre abierto)
+
+| L | M | Mi | J | V | S | D |
+|---|---|---|---|---|---|---|
+| F · tip | F · día a día | **B · venta** | F · humor | F · comunidad | **C · objeción** | F · día a día (o descanso) |
+
+Regla: nunca dos días de venta seguidos, y el día anterior a uno de venta conviene un tip o
+humor sobre el mismo tema (calienta sin vender).
+
 ## Calendario sugerido de lanzamiento (≈10 días)
 
 | Día | Secuencia |

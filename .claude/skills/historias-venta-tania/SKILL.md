@@ -1,6 +1,6 @@
 ---
 name: historias-venta-tania
-description: Genera secuencias de historias de Instagram listas para subir para la Dra. Tania Sifuentes, diseñadas para vender sus cursos (empezando por el curso de Alimentación Complementaria de Mommy and Me) avanzando a la mamá por los niveles de conciencia de Eugene Schwartz (N1 inconsciente → N5 lista para comprar), con humor de identificación rápida (la mamá se ve reflejada en segundos) sin perder la voz de pediatra. Entrega cada historia con formato, texto en pantalla, qué decir, sticker y los mensajes de seguimiento por DM según lo que responda cada mamá. Úsalo cuando Tania o el usuario pidan "hazme las historias de hoy", "historias para vender el curso", "secuencia de lanzamiento", "historias con humor", "historias de cierre", "una historia para responder esta objeción", mencionen niveles de conciencia en historias, o invoquen /historias-venta-tania. No lo uses para reels (eso es `guion-viral-pediatria`), portadas de carrusel (`ganchos-carrusel-tania`) ni para decidir el plan del mes (`estrategia-contenido-tania`).
+description: Genera las historias de Instagram del día para la Dra. Tania Sifuentes, listas para subir — tanto días de "solo compartir" (día a día, tip rápido, humor de mamá, comunidad; sin venta) como días de venta — y alterna ambos con un ritmo semanal para no cansar a la audiencia. Las de venta están diseñadas para vender sus cursos (empezando por el curso de Alimentación Complementaria de Mommy and Me) avanzando a la mamá por los niveles de conciencia de Eugene Schwartz (N1 inconsciente → N5 lista para comprar), con humor de identificación rápida (la mamá se ve reflejada en segundos) sin perder la voz de pediatra. Entrega cada historia con formato, texto en pantalla, qué decir, sticker y los mensajes de seguimiento por DM según lo que responda cada mamá. Úsalo cuando Tania o el usuario pidan "hazme las historias de hoy", "historias para vender el curso", "secuencia de lanzamiento", "historias con humor", "historias de cierre", "una historia para responder esta objeción", mencionen niveles de conciencia en historias, o invoquen /historias-venta-tania. No lo uses para reels (eso es `guion-viral-pediatria`), portadas de carrusel (`ganchos-carrusel-tania`) ni para decidir el plan del mes (`estrategia-contenido-tania`).
 ---
 
 # Historias de venta — Dra. Tania
@@ -15,6 +15,22 @@ La usuaria final es **Tania**: pide las historias, las graba o arma, y las sube.
   dilo en una línea.
 - Todo lo que entregas tiene que poder **subirse hoy** sin reescribir: textos cortos, sticker
   definido y qué grabar.
+
+## Dos tipos de día
+
+Las historias de Tania no son todas de venta. Hay **días de compartir** y **días de venta**, y
+los primeros son los que hacen que los segundos funcionen: una cuenta que vende todos los días
+enseña a la audiencia a saltarse sus historias.
+
+- **Día de compartir (sin venta):** día a día, tip rápido, humor de mamá, comunidad. No se
+  menciona el curso. Igual tiene propósito: conexión, identificación (N1-N3) y stickers que dan
+  información para los días de venta. Ver `references/secuencias-tipo.md`, sección F.
+- **Día de venta:** secuencias B, C o D (apertura, objeción, cierre).
+
+**Ritmo por defecto** (curso siempre abierto, fuera de lanzamiento): 5 días de compartir y 2 de
+venta por semana, nunca dos días de venta seguidos. En lanzamiento se invierte (ver calendario
+en `references/secuencias-tipo.md`). Si Tania no dice qué tipo de día es, pregúntale qué
+compartió ayer y propón el que toque según el ritmo.
 
 ## Frontera con los otros skills
 
@@ -56,8 +72,8 @@ sin mencionar el curso) sí se pueden hacer cualquier mes.
 
 Pregunta solo lo que falte de esto:
 
-1. **¿Qué toca hoy?** Calentar (todavía no se habla del curso), abrir venta, responder una
-   objeción, o cerrar.
+1. **¿Qué toca hoy?** Día de compartir (sin venta) o día de venta. Si es de venta: abrir,
+   responder una objeción o cerrar.
 2. **¿Hay algo que quieras usar?** Una pregunta que te hicieron en consulta o por DM, una foto o
    video de tu día, una respuesta de la caja de preguntas. El material real siempre gana.
 3. **Si toca vender:** confirma que los datos `[PENDIENTE]` del producto estén al día (precio,
@@ -69,7 +85,7 @@ Si Tania solo dice "hazme las historias de hoy", sugiere qué toca según el dí
 ### Paso 2 — elegir la secuencia tipo
 
 En `references/secuencias-tipo.md`: Calentamiento (N1→N3), Apertura (N3→N5), Objeción (N4),
-Cierre (N5), Respuesta a caja de preguntas. Cada una trae su orden de niveles, su largo y dónde
+Cierre (N5), Respuesta a caja de preguntas, Día de compartir (F). Cada una trae su orden de niveles, su largo y dónde
 va el humor.
 
 ### Paso 3 — elegir el ángulo desde el temario real
