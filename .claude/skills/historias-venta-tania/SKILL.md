@@ -44,6 +44,7 @@ conciencia y método del curso se usan por dentro; a ella solo le muestras etiqu
 | "mi día", "lo que hago hoy", "un tip" | **9. Día a día / Tip** | Cercanía + una idea útil | N1 → N3 | Pregunta o sticker |
 | "subí un reel", "manda tráfico" | **10. Tráfico a reel** | Vistas tempranas del reel | N2 → N3 | Link al reel |
 | "respondo preguntas", "caja de preguntas" | **11. Caja de preguntas** | Autoridad + dudas reales | N3 | Nueva caja o recurso |
+| "una serie", "reto", "¿se lo doy o no?", "el crítico" | **12. Serie o reto** | Hábito de volver cada día (bucle abierto entre días) que desemboca en el recurso o en el lanzamiento | N1 → N4 a lo largo de varios días | Cliffhanger + palabra clave |
 
 - Si Tania **no dice qué quiere**, propón el modo según el **ritmo semanal**
   (`references/secuencias-tipo.md`): nunca dos días de venta seguidos y, en una semana normal,
@@ -131,7 +132,10 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
 8. **Nunca exhibir a una mamá** que respondió algo "equivocado".
 9. **Tono base:** `references/tono-marca-dra-tania.md` (Sabio + Cuidador). El humor de este
    agente es una excepción acotada a su regla de "humor ocasional", válida solo en stories.
-10. Las **dudas médicas por DM** las responde Tania o su equipo, nunca un bot. Lo único que se
+10. **La palabra clave se pide como respuesta escrita** ("Respóndeme RECETAS"), nunca como voto
+    de encuesta: los votos no disparan el mensaje automático. Los automáticos van dentro de las 24 h
+    después de que la mamá escribió.
+11. Las **dudas médicas por DM** las responde Tania o su equipo, nunca un bot. Lo único que se
     puede automatizar es el **envío del recurso o del link** por palabra clave.
 
 ## Paso 5 — revisar (checklist)
@@ -143,7 +147,7 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
 - [ ] ¿Cambia el formato cada 1-2 historias y el lugar o ángulo cada 3? ¿Hay al menos 2 videos?
 - [ ] ¿Cada historia lleva solo texto + 1 elemento?
 - [ ] ¿Lo abstracto tiene prueba visual?
-- [ ] ¿Termina en la acción del modo?
+- [ ] ¿Termina en la acción del modo? Si es palabra clave, ¿se pide como respuesta escrita?
 - [ ] Venta: ¿llega después de dar valor o de mostrar demanda, sin presión ni urgencia falsa?
 - [ ] Humor: ¿se ríe de la situación? ¿lo diría en consulta? ¿nada en temas de seguridad?
 - [ ] Fotos: ¿sin pacientes identificables? ¿no repetí la misma foto en esta serie?
@@ -197,6 +201,8 @@ documento de registro (ver `references/drive-fotos.md`), propón anotarlo ahí.
 - `references/producto-curso-ac.md`: temario real, ángulos, objeciones, pruebas visuales, datos
   comerciales y recurso gratuito (con pendientes).
 - `references/curso-stories-aprendizajes.md`: el método completo del curso traducido a Tania.
+- `references/investigacion-historias.md`: datos de retención, cómo ordena Instagram las
+  historias, embudo por DM, cuentas de referencia del nicho, formatos de series y métricas.
 - `references/tono-marca-dra-tania.md`: voz de marca.
 - `references/ganchos-historias.md`: reglas de H1 + H2, banco de 10 pares y un ejemplo completo.
 - `references/banco-ganchos-validados.md`: mecánicas de gancho (texto).

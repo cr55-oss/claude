@@ -216,6 +216,32 @@ Entretener para que vuelvan mañana. Todo humor de identificación; un dato úti
 
 ---
 
+## Modo 12 · Serie o reto · varios días · N1 → N4
+
+Formatos con **bucle abierto entre días**: la mamá vuelve mañana para ver cómo termina. Detalle
+y fuentes en `investigacion-historias.md` §4 y §6.
+
+**"¿Se lo doy o no?"** (episodio de 5-6 historias, 1-2 veces por semana)
+| H | Bloque | Tipo |
+|---|---|---|
+| 1 | El alimento en la mano de Tania, de cerca | 🎥 |
+| 2 | Encuesta: *"¿Se puede antes del año?"* Sí / No / Depende | 💬 |
+| 3 | Veredicto en video (10-15 min después) | 🩺🎥 |
+| 4 | La forma segura de darlo según la edad (POV cortándolo) | 🩺🎥 |
+| 5 | Reacción real de un bebé probándolo | 😄🎥 |
+| 6 | *"El cómo cortarlo y 20 recetas más están en el recetario: respóndeme RECETAS."* + adelanto del próximo episodio | 🛒 |
+
+**"El crítico"** (solo si Tania decide mostrar a su hijo, aunque sea de espaldas o las manos):
+cada semana prueba algo nuevo, y la última historia deja la pregunta *"¿mañana se lo come?"*.
+
+**"Reto 7 días, 7 alimentos"** (calentar el lanzamiento): día 0, las mamás se apuntan con la
+palabra clave (recetario + WhatsApp o correo); días 1-6, un alimento por día con su
+cliffhanger; día 7, respuestas y fotos de las mamás que lo siguieron + **apertura del curso**
+(modo 2).
+
+Reglas: arcos de 3 a 7 partes; el bucle abierto tiene que ser **específico**; cada episodio
+funciona aunque no hayan visto el anterior (un resumen de una línea en H1).
+
 ## Ritmo semanal por defecto (curso siempre abierto)
 
 | L | M | Mi | J | V | S | D |
