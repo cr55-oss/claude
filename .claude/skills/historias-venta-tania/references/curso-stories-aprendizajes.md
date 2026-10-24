@@ -8,7 +8,7 @@ está marcado como **no se traslada**.
 Estado: archivo en construcción. Se va llenando módulo por módulo y al final se integra en
 `SKILL.md` y `secuencias-tipo.md`.
 
-Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos.
+Módulos procesados: introducción · qué son las stories · tipos de stories y objetivos · formatos · ganchos · guion de stories · interacciones.
 
 ---
 
@@ -234,3 +234,93 @@ preguntando cuándo empezar a dar comida, y no alcanzo a responderlos todos."* �
 ### 7.5 Patrón común a todos los ganchos
 La story 1 **abre algo** (una incógnita, una tensión, un problema o un resultado) que solo se
 cierra si la mamá sigue viendo. Si la story 1 se entiende completa sola, no es un gancho.
+
+---
+
+## 8. Guion de stories (el núcleo)
+
+**Sin guion, las stories van a la deriva.** Cada día se planea antes de grabar: qué gancho, qué se
+cuenta, a dónde se redirige.
+
+### 8.1 Largo: 7-12 stories
+El curso dice **no subir solo 1-3 por miedo a perder retención**. Una cadena más larga **filtra**:
+al final solo queda la audiencia fiel, que es la que compra. Media recomendada: **7-12**.
+
+> ⚠️ Esto contradice lo que puse en `secuencias-tipo.md` ("5-7 retienen mejor"). Al integrar:
+> **venta 9-12** (filtrar a la fiel es justo lo que se busca) y **compartir 5-7** (el objetivo es
+> conexión, no filtrar). Validar con las vistas reales de Tania (ver 8.4).
+
+### 8.2 La estructura base (≈11 stories), que coincide con la plantilla mensual del usuario
+| # | Bloque | Qué hace |
+|---|---|---|
+| 1 | **Gancho (intriga)** | Un momento fuera de contexto que genera "¿qué pasó aquí?" |
+| 2 | **Subgancho (contexto del gancho)** | Explica el porqué del gancho; ahora la story 1 tiene sentido |
+| 3-4 (5) | **Entretenimiento / humor** | Juego, situación graciosa, momento humano. "Instagram es una red social: si no entretienes al inicio, nadie se queda." |
+| 5-6 | **Contexto (transición)** | Prepara el valor: *"Voy a explicarte…"* (fondo liso o layout). Evita el **"puñetazo en frío"**: saltar de humor a valor sin puente rompe la curva. |
+| 7-8 | **Valor** | La enseñanza |
+| 9-10 | **Entretenimiento / humor** | Respiro antes del final |
+| 11 | **Valor / formación** | El último punto de valor |
+| 12 | **CTA / redirección** | Palabra clave, link o grupo |
+
+- Duplicar el patrón (gancho, humor, gancho, humor…) solo en lanzamientos y con experiencia:
+  si no se domina, la gente se va. **Para Tania, empezar con la estructura simple.**
+- La **redirección intermedia** (en medio de la cadena, "si quieres más, entra aquí") sirve para
+  captar datos en la fase de calentamiento: grupo de WhatsApp o lista. Refuerza la idea del
+  **recurso gratuito** previo al curso. `[decidir con el usuario]`
+
+### 8.3 Segundo guion: redirigir a un contenido (video, post o reel)
+1. **Gancho visual alarmante** con texto que genera curiosidad.
+2. **Segundo gancho con contexto** (dónde estamos).
+3. **Reto o apuesta de interacción** (*"premio al primero que adivine…"*).
+4. **Humor + contexto** (el porqué de todo).
+5. **CTA con algo que genere curiosidad** + link al contenido.
+
+**Tania:** sirve para mandar tráfico a su reel nuevo el día que se publica (más interacción
+temprana = más alcance). Ejemplo: foto de un plato con 3 alimentos → *"Uno de estos NO se le da a
+un bebé antes del año"* → *"Adivina cuál (respóndeme)"* → humor/contexto → *"La respuesta (y por
+qué) está en mi último reel 👇"* + link. Sin premios en dinero: no encaja con su marca.
+
+### 8.4 Experimentar y medir
+La estructura cambia según el nicho y el objetivo (lanzamiento, idea, transformación). Hay que
+probar y **ver cómo reacciona la audiencia**. Aquí entra la columna **"Views de la cadena"** de la
+plantilla del usuario: anotar las vistas de la story 1 y de la última. Así se ve dónde se va la
+gente y qué tipo de gancho o de humor retiene más.
+
+## 9. Interacciones (cuándo y cómo)
+
+La gente necesita **atención**: si se siente escuchada, devuelve interacción. Las interacciones
+tienen que ser **genuinas**, nunca forzadas ni compradas.
+
+### 9.1 Pregunta en el momento de tensión ("polarizar")
+**Mecánica:** en el punto más interesante de la historia, preguntar la opinión de la audiencia
+(*"¿cuánto le habrías cobrado tú?"*). Después **leer y reaccionar** a las respuestas en stories.
+
+**Tania:** en medio de un caso o duda: *"Una mamá me preguntó si ya puede darle huevo a su bebé de
+6 meses. ¿Tú qué le dirías?"* (quiz o caja de preguntas) → al día siguiente o 10 minutos después,
+mostrar algunas respuestas → dar la respuesta con evidencia. Sin exhibir a nadie que se
+equivocó: las respuestas se muestran sin nombre y con cariño.
+
+### 9.2 Mostrar los mensajes que llegan solos
+**Mecánica:** capturas de DMs que la gente manda **sin que se lo pidan** (gente pidiendo el
+servicio, preguntando cómo). Generan pertenencia ("hay una persona detrás, no un robot") y
+**escasez/exclusividad**.
+
+**Tania:** capturas de DMs reales (*"¿Cuándo abre el curso?"*, *"¿Atiendes en línea?"*,
+*"Gracias, ya no me dio miedo darle comida"*), **sin nombres ni fotos**, con permiso cuando sea un
+testimonio. Escasez **solo si es real** (cupo de un grupo en vivo, fecha de cierre).
+
+### 9.3 Pregunta + respuestas masivas (la favorita del curso)
+**Mecánica:** lanzar una pregunta con incógnita → esperar ~10 minutos → mostrar muchísimas
+respuestas. Versión creativa: **imprimirlas y pegarlas por toda la casa** para mostrar cientos en
+una misma story. Es una **"bala de un solo uso"**: guardarla para el lanzamiento.
+
+**Tania:** su versión natural y muy potente: **los mensajes de mamás impresos y pegados en la
+pared del consultorio** (sin nombres), con ella caminando entre ellos (formato vlog o POV) →
+*"Todo esto me preguntaron sobre alimentación complementaria. Por eso hice el curso."* Ideal
+para el día de apertura de ventas. Usarlo **una sola vez** por lanzamiento.
+
+### 9.4 Reglas de Tania para interacciones
+- Nunca mostrar una respuesta "equivocada" con nombre o de forma que la mamá se sienta juzgada.
+- Las preguntas médicas que lleguen por las interacciones se responden en general en stories; si
+  es un caso particular → "esto hay que verlo en consulta".
+- Agradecer las respuestas: la guía de Tania es "validar y orientar".
