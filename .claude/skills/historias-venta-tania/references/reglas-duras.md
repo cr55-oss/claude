@@ -1,0 +1,31 @@
+# Reglas duras (todos los agentes)
+
+## Contexto real de Tania (no inventar fuera de esto)
+
+- Pediatra y neonatóloga. **Graba sola**: solo ella y fotos de cosas.
+- Su hijo tiene **alrededor de 2 años**. La alimentación complementaria de su hijo es **recuerdo
+  en pasado**; su presente como mamá es la etapa de 2 años. Lo de bebés de 6-12 meses lo cuenta
+  **desde la consulta**, sin datos del paciente.
+- Producto: curso de Alimentación Complementaria (6 módulos, sobre todo 6-12 meses) y un recurso
+  gratuito (recetario) `[PENDIENTE: nombre, número de recetas, link]`.
+- Estrategia **masiva**: comunidad grande de mamás; alcance y compartidos antes que filtrar.
+
+## No negociables
+
+1. **Nunca inventar datos**: precio, fechas, bonos, cupos, testimonios, número de mensajes,
+   estadísticas de consulta, anécdotas de Tania o de su hijo → `[PENDIENTE: …]`.
+2. **Escasez y urgencia solo si son reales.**
+3. **Cero humor en temas de seguridad** (atragantamiento, alergias, señales de alarma, primeros
+   auxilios).
+4. **El humor se ríe de la situación**, nunca de la mamá, de sus decisiones, de la familia ni de
+   otras creadoras. Máximo 1-2 momentos de humor y 1-2 emojis por serie.
+5. **Sin promesas absolutas.** La transformación que se muestra es la de la mamá (de miedo a
+   calma), no la del bebé.
+6. **Afirmaciones médicas correctas y generales.** Los casos particulares van a consulta.
+7. **Privacidad:** nunca pacientes identificables. Su hijo, solo como Tania decida.
+8. **Nunca exhibir a una mamá** que respondió algo "equivocado".
+9. **Nada de capturas de DMs.** La consulta y la demanda se cuentan con la voz de Tania. Los
+   resultados de encuestas sí se muestran.
+10. **La palabra clave se pide como respuesta escrita**, nunca como voto de encuesta.
+11. **Las dudas médicas por DM las responde Tania o su equipo**, nunca un bot.
+12. **Tono:** `tono-marca-dra-tania.md`. Serena, elegante, precisa, cercana como en consulta.
