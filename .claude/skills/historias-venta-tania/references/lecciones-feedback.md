@@ -34,6 +34,13 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
   de qué habla; "eso es otro tema" suena a desentenderse.
 - Dos estudios mezclados en una frase como si fueran uno; "se portaron igual" en vez de "no se
   vio diferencia". Un estudio por frase y sin absolutos.
+- Vacunas: decir a quién le tocó qué ("ella, tres el mismo día"), matiz "a cada quien le tocan
+  según su edad y su salud", explicar una vacuna fuera del esquema básico (o quitarla), y la
+  campaña pública prioriza grupos de riesgo (decir dónde va un adulto sano). Después de vacunar:
+  lo esperable (dolor, enrojecimiento o bolita, fiebre baja, más inquieto o dormilón) + los 2
+  bloques completos (urgencias: labios morados, muy somnoliento, ronchas en todo el cuerpo,
+  hinchazón de cara, labios o lengua). La alergia grave casi siempre sale en los primeros minutos.
+- Encuestas: siempre una opción para la mamá que todavía no hace nada ("todavía no vamos"), sin culpa.
 - Atragantamiento: una sola edad, alimentos precisos ("cacahuates enteros", "paletas de
   caramelo"), la acción completa (911 + maniobra; si tose fuerte, dejarlo toser) y "hablar" a
   partir de los 2 años.
