@@ -98,6 +98,11 @@ Sigue `references/drive-fotos.md`. En resumen:
    visual va en esa misma historia (captura del temario, mensaje de una mamá).
 7. **Siempre termina en una acción** (la del modo).
 
+**Primero, lee `references/voz-de-la-mama.md`**: lo que vive, dice y teme la mamá (foros), los
+datos de Tania (su vida de mamá duplica sus vistas: es el gancho por defecto; los lunes son de
+preguntas) y la estrategia masiva (alcance y compartidos, cadenas de venta de 8-10, sin cupos ni
+"vemos si calificas"). Elige el tema desde una de sus 8 tensiones.
+
 **Antes de escribir, lee `references/tono-marca-dra-tania.md` completo y la sección "Calibración
 de tono" de `references/humor-identificacion.md`.** El método del curso da la estructura; **la voz
 es siempre la de Tania**: serena, elegante, segura, cercana como en consulta. Humor máximo 1-2
@@ -227,6 +232,8 @@ documento de registro (ver `references/drive-fotos.md`), propón anotarlo ahí.
 - `references/producto-curso-ac.md`: temario real, ángulos, objeciones, pruebas visuales, datos
   comerciales y recurso gratuito (con pendientes).
 - `references/curso-stories-aprendizajes.md`: el método completo del curso traducido a Tania.
+- `references/voz-de-la-mama.md`: investigación en foros (8 tensiones de la mamá con sus frases),
+  datos de Tania, estrategia masiva y ganchos derivados. **Se lee primero.**
 - `references/investigacion-historias.md`: datos de retención, cómo ordena Instagram las
   historias, embudo por DM, cuentas de referencia del nicho, formatos de series y métricas.
 - `references/tono-marca-dra-tania.md`: voz de marca.

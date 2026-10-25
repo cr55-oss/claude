@@ -10,8 +10,8 @@ Símbolos: 😄 humor o identificación · 🩺 valor o autoridad · 💬 intera
 Reglas en todos los modos: historia 1 = gancho y 2 = subgancho; **nunca más de 2 🩺 seguidas sin
 un cambio de estímulo**; cambio de formato cada 1-2 historias; **al menos 2-3 🎥**.
 
-Largos: modos de venta 9-12 (una cadena larga filtra y deja a la mamá más interesada); modos de
-conexión 5-7.
+Largos: modos de venta **8-10** (Tania va a las masas: importa el alcance y que la compartan,
+no filtrar como en un producto caro); modos de conexión 5-7. Más de 10 solo en lanzamiento.
 
 ---
 
@@ -244,9 +244,13 @@ funciona aunque no hayan visto el anterior (un resumen de una línea en H1).
 
 ## Ritmo semanal por defecto (curso siempre abierto)
 
+Datos de Tania: sus historias normales las ve ~5% de sus seguidores; **cuando muestra su vida de
+mamá sube a 10-12%**, y **los lunes de preguntas gustan**. Por eso el lunes es fijo y, en
+cualquier modo, el gancho por defecto es un momento real de su vida de mamá.
+
 | L | M | Mi | J | V | S | D |
 |---|---|---|---|---|---|---|
-| 9 · tip | 6 · comunidad | **1 · recurso gratuito** | 8 · diversión | 7 · reflexión (o 10 si hay reel) | **3 · objeción** | 9 · día a día (o descanso) |
+| **11 · preguntas (fijo: a la audiencia le gusta)** | 6 · comunidad | **1 · recurso gratuito** | 8 · diversión o 9 · día a día | 7 · reflexión (o 10 si hay reel) | **3 · objeción** | 9 · día a día (o descanso) |
 
 Nunca dos días de venta seguidos. Una vez al mes, si hay demanda acumulada o escasez real, el
 modo 2 reemplaza al 1 del miércoles.
