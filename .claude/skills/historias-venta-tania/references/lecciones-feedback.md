@@ -53,6 +53,8 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 
 ## Funcionó o lo pidió el usuario
 
+- El cierre no siempre lleva caja de preguntas: puede ser una frase cálida o un sticker ligero (slider de emoji, encuesta de un toque).
+
 - A sus mamás les encanta leer: el texto puede ser más largo si se lee como historia (líneas cortas).
 
 - Humor real de su familia (su esposo se vacuna mirando hacia el otro lado): sí, con cariño, sobre
