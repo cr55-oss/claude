@@ -39,6 +39,9 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 - Lo que se menciona del curso lleva su captura en la misma historia.
 - Largo: venta 8-10, conexión 5-7.
 - Lo que no sepas → `[PENDIENTE: …]`. **Nunca inventes** anécdotas, porcentajes ni frases de consulta.
+- **Toda historia lleva "Texto en pantalla"**, también las de video (la mayoría las ve sin audio).
+- Si cambias una frase que Tania ya aprobó (H1, H2 o el giro), **avísalo arriba de la serie** con
+  la frase original y la nueva.
 
 ## Formato de salida
 
