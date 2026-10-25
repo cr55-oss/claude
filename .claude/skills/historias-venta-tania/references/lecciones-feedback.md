@@ -20,6 +20,7 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Todo era de alimentación complementaria | Tania es pediatra, neonatóloga y mamá: habla de crianza, lactancia, sueño, salud, desarrollo y más | Días de conexión rotan territorios (`temas-tania.md`); el curso solo en días de venta |
 | Yapping armado como clase (puntos, "frase médica exacta", listas) | No se siente como historia; tiene que ser natural | Yapping = contar algo que pasó, en orden, como a una amiga; el dato va dentro de la plática; sin momento real no hay yapping |
 | Cerrar historias con "compártelo con…" | Eso va en reels y carruseles; las historias son para conectar | Cierre = algo que la mamá responda: encuesta, caja o pregunta personal |
+| Armar la serie como encuesta → resultados (y una plantilla por resultado) | Se siente mecánico; lo que se busca es conectar con un buen gancho y storytelling | Una historia contada (gancho → la mamá se ve → explosión de Tania → dato → alivio); una sola interacción al final, incluyente |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
 ## Lo que el verificador encontró en las pruebas (ya son reglas)

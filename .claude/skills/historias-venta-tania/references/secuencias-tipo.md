@@ -135,17 +135,18 @@ Objetivo: que se sientan parte y **le respondan** (encuesta, caja, pregunta). En
 
 | H | Bloque | Tipo | Ejemplo |
 |---|---|---|---|
-| 1 | Gancho de pregunta universal | 💬🎥 | *"Hoy quiero conocerlas"* + encuesta o pregunta |
-| 2 | Subgancho | 😄 | Por qué pregunta (algo que vio en consulta) |
-| 3 | Respuestas de ayer (si las hay), sin nombres | 💬🧾 | Layout de respuestas: *"Esto me contaron"* |
-| 4 | Tania comparte lo suyo | 😄🖼️ | Su respuesta a la misma pregunta, como mamá |
-| 5 | Una idea útil corta | 🩺 | — |
-| 6 | Invitación a contarle | 💬 | Caja o pregunta personal: *"¿A ti también te pasó? Cuéntame."* |
-| 7 (opc.) | Nueva pregunta para mañana | 💬 | Caja de preguntas |
+| 1 | Gancho visual de un momento real | 🖼️🎥 | Un objeto de ese día + una frase con tensión (*"Ella no lloró. Yo casi."*) |
+| 2 | La mamá se ve ahí (síntoma, sin culpa) | 😄 | *"Si el tuyo llora desde que ve a la enfermera, te entiendo."* |
+| 3 | La explosión: lo que sintió Tania como mamá | 🎥🖼️ | Lo que pasó y lo que le movió (real, nunca inventado) |
+| 4 | Lo que hizo, con su porqué de pediatra | 🩺 | Una frase útil que la mamá pueda repetir |
+| 5 | El dato contraintuitivo | 🩺 | *"Lo que casi nadie te dice…"* |
+| 6 | Nueva normalidad: alivio o ternura | 💛 | La frase que se queda (quita culpa) |
+| 7 (si aplica) | Seguridad para guardar | 🩺 | Señales en 2 bloques, sin humor |
+| 7-8 | Una pregunta incluyente | 💬 | Caja que retome el gancho y que todas puedan contestar |
 
-Ideas de pregunta: primer alimento de su bebé, la frase más rara que les han dicho, su "hack"
-de mamá, de dónde nos ven.
-
+**Regla:** la serie es **una historia contada**, no módulos de interacción. Nada de encuesta en
+H2 → resultados en H3 (los resultados todavía no existen el mismo día y cortan la historia).
+Máximo **una** interacción, al final, que cualquier mamá pueda contestar.
 ---
 
 ## Modo 7 · Reflexión · 5-6 historias · N1 → N2
