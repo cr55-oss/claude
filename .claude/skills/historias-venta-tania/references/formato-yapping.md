@@ -45,8 +45,8 @@ A o B. Un yapping sin historia real suena forzado.
    lo **lea una vez y lo cuente con sus palabras**, no para memorizar. Lo médico que deba quedar
    exacto se marca en negritas dentro del texto.
 7. **Cierra con una pregunta** (encuesta o caja), nunca con "compártelo".
-8. **Lo que no cambia:** sin anécdotas inventadas (todo lo que no confirmó Tania va como
-   `[PENDIENTE: confirmar que pasó]`), sin datos de pacientes, sin humor de influencer, sin su
+8. **Lo que no cambia:** sin anécdotas inventadas (si Tania no contó un momento real en el Paso 1, no se
+   hace yapping), sin datos de pacientes, sin humor de influencer, sin su
    hija si ella no quiere.
 
 ## Cómo lo entrega el agente

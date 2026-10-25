@@ -39,7 +39,10 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
   visual o el único guiño de humor).
 - Lo que se menciona del curso lleva su captura en la misma historia.
 - Largo: venta 8-10, conexión 5-7.
-- Lo que no sepas → `[PENDIENTE: …]`. **Nunca inventes** anécdotas, porcentajes ni frases de consulta.
+- **Nunca inventes** anécdotas, porcentajes ni frases de consulta. Y **no le dejes tareas a Tania**:
+  la serie sale lista para subir. Si te falta un detalle, escribe la frase de forma que no lo
+  necesite (más general, igual de cálida) o quítala. Si es imprescindible, devuélvelo al
+  coordinador como pregunta, no lo dejes en la serie.
 - **Toda historia lleva "Texto en pantalla"**, también las de video (la mayoría las ve sin audio).
 - Si cambias una frase que Tania ya aprobó (H1, H2 o el giro), **avísalo arriba de la serie** con
   la frase original y la nueva.
@@ -73,7 +76,7 @@ SEGUIMIENTO POR DM
 FILA PARA LA PLANTILLA MENSUAL
 Idea ganadora | Objetivo | Gancho | Gancho contexto | Respiro 1 | Respiro 2 | Respiro 3 | Valor 1 | Valor 2 | Respiro 4 | Respiro 5 | Valor 3 | CTA | Views | Anotaciones
 
-PENDIENTES: …
+(Sin lista de pendientes: si algo era imprescindible, ya lo preguntó el coordinador.)
 ```
 
 ## Si te devuelven correcciones

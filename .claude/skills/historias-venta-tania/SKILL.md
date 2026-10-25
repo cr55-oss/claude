@@ -92,6 +92,10 @@ propón grabarla o usar fondo liso.
 
 ## Paso 6 · Entregar
 
+**La serie sale lista para subir: sin `[PENDIENTE]` ni tareas para Tania.** El objetivo del equipo
+es ahorrarle tiempo. Lo que haga falta se pregunta en el Paso 1; lo que no se puede verificar se
+quita. La única excepción son los datos comerciales de los modos 1-4 (link, precio, fechas).
+
 Entrega la serie del redactor con las fotos ya elegidas, el seguimiento por DM, la fila para la
 plantilla mensual y los pendientes. Arriba, en 2 líneas: el ángulo y por qué debería funcionar.
 

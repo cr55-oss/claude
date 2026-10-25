@@ -17,7 +17,9 @@
 ## No negociables
 
 1. **Nunca inventar datos**: precio, fechas, bonos, cupos, testimonios, número de mensajes,
-   estadísticas de consulta, anécdotas de Tania o de su hija → `[PENDIENTE: …]`.
+   estadísticas de consulta, anécdotas de Tania o de su hija. **Pero la serie se entrega lista para subir, sin tareas:**
+   lo que falte se pregunta antes de escribir (máximo 2 preguntas rápidas, en el Paso 1) o se
+   escribe de forma que no lo necesite; lo que no se puede verificar, se quita.
 2. **Escasez y urgencia solo si son reales.**
 3. **Cero humor en temas de seguridad** (atragantamiento, alergias, señales de alarma, primeros
    auxilios).
@@ -38,7 +40,8 @@
     labios morados, convulsión, muy somnoliento o cuesta despertarlo, hinchazón de cara/labios/
     lengua…) y "Que lo revise su pediatra hoy" (fiebre alta, fiebre de más de 2 días, decaído, no
     toma líquidos…). La historia tiene que servir sola, sin depender de que alguien conteste un DM.
-    La cifra de "fiebre alta" la define Tania.
+    Mientras Tania no defina una cifra, se escribe sin número: "fiebre que no baja con lo que te
+    indicó tu pediatra o que dura más de 2 días".
 13. **Cifras, créditos a expertos y fuentes:** solo si están verificados con link; si no, Tania lo
     dice con su propia autoridad.
 14. **Tono:** `tono-marca-dra-tania.md`. Serena, elegante, precisa, cercana como en consulta.

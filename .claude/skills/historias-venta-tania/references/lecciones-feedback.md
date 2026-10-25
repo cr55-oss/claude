@@ -23,6 +23,7 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Armar la serie como encuesta → resultados (y una plantilla por resultado) | Se siente mecánico; lo que se busca es conectar con un buen gancho y storytelling | Una historia contada (gancho → la mamá se ve → explosión de Tania → dato → alivio); una sola interacción al final, incluyente |
 | Gancho que empieza por el resultado de Tania ("Ella no lloró. Yo casi.") | No detiene: la mamá no se ve ahí todavía | H1 abre con humor o con una escena que la mamá reconoce al instante (p. ej. "Día de vacunas en mi casa: ella…, su papá…, yo…"); el resultado de Tania va como remate |
 | Serie que se pone seria 3-4 historias seguidas (H4-H7 de vacunas) | "Se siente lloradera" | Respiro de humor cada 2 historias: autoironía de Tania ("si ser pediatra funcionara, a mí no me sudarían las manos") o un regreso al personaje gracioso; la emoción fuerte, una sola vez |
+| Entregar la serie con pendientes y tareas para Tania | El objetivo es quitarle tiempo, no dárselo | Lista para subir: se pregunta antes (máx. 2) o se escribe sin ese dato; lo no verificable se quita |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
 ## Lo que el verificador encontró en las pruebas (ya son reglas)
