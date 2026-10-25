@@ -125,6 +125,7 @@ historia se fue la mayoría y qué capa ajustar. Anótalo en `lecciones-feedback
 - `references/ejemplos-modelo.md`: series que pasaron por todo el equipo, con lo que corrigió el verificador.
 - `references/formato-yapping.md`: los 3 formatos (imagen + texto, guion, yapping) y cómo se
   escribe y revisa un yapping.
+- `references/radar-tendencias.md`: el radar del investigador (casos mediáticos, "reglas" virales, debates, Reddit) y sus líneas rojas.
 - `references/temas-tania.md`: todos sus territorios, con síntomas de ejemplo y la regla de rotación.
 - `references/sintoma-vs-problema.md`: síntoma antes que problema; banco síntoma → problema.
 - `references/voz-historias.md`: cómo suena Tania en historias (amiga, no doctora) y las frases de IA prohibidas. **Se lee primero.**

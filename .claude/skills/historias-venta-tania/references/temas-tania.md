@@ -105,8 +105,10 @@ venir de un cruce (por ejemplo: diciembre, comida familiar → alimentación).
 |---|---|
 | Lo que trajo Tania (consulta o casa) | +3 |
 | Cruce de calendario de esta semana o la próxima | +2 |
-| Noticia o tendencia real verificable (con link) | +2 |
-| Toca su vida de mamá de hoy (niño de 2 años) | +2 (duplica las vistas) |
+| **Tema que se está comentando ya** (caso mediático, debate o hilo con cientos de comentarios, ≤7 días, con link) | +4 |
+| Noticia o tendencia real verificable (con link), sin conversación fuerte | +2 |
+| La mamá lo reconoce en 2 segundos ("no toques a mi bebé") | +2 |
+| Toca su vida de mamá de hoy (hija de 2 años) | +2 (duplica las vistas) |
 | Es de su especialidad (recién nacido, prematuros) | +1 |
 | Territorio que no se ha tocado en la semana | +1 |
 | Mismo territorio que ayer | −3 |
