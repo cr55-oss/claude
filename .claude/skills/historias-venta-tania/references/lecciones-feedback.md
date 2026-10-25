@@ -20,6 +20,15 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Todo era de alimentación complementaria | Tania es pediatra, neonatóloga y mamá: habla de crianza, lactancia, sueño, salud, desarrollo y más | Días de conexión rotan territorios (`temas-tania.md`); el curso solo en días de venta |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
+## Lo que el verificador encontró en las pruebas (ya son reglas)
+
+- Frases clave que contradicen lo que la serie enseña ("lo queremos mucho" sin decir "murió").
+- Riesgos médicos que nadie más vio: pilas de botón en velas eléctricas; "febrícula" que se queda
+  corta; reacción alérgica mal titulada como "no es la vacuna"; falta de convulsión en urgencias.
+- Señales de alarma sin separar urgencias de pediatra.
+- Créditos a expertos no verificados.
+- Expresiones que no suenan a México ("esa vacuna lo enferma" → "le iba a dar gripa").
+
 ## Funcionó o lo pidió el usuario
 
 - **Su mejor gancho:** *"El posparto no dura 40 días, dura hasta 2 años. Y eso nadie te lo

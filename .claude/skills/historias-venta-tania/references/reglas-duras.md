@@ -34,6 +34,11 @@
 11. **Las dudas médicas por DM las responde Tania o su equipo**, nunca un bot.
 12. **Productos con pilas de botón** (velas eléctricas, juguetes, controles): si se recomiendan o
     aparecen, siempre con "tapa atornillada y repuestos fuera de su alcance" (tragarlas es urgencia).
+12b. **Señales de alarma, siempre en dos bloques:** "Urgencias ahora" (le cuesta respirar,
+    labios morados, convulsión, muy somnoliento o cuesta despertarlo, hinchazón de cara/labios/
+    lengua…) y "Que lo revise su pediatra hoy" (fiebre alta, fiebre de más de 2 días, decaído, no
+    toma líquidos…). La historia tiene que servir sola, sin depender de que alguien conteste un DM.
+    La cifra de "fiebre alta" la define Tania.
 13. **Cifras, créditos a expertos y fuentes:** solo si están verificados con link; si no, Tania lo
     dice con su propia autoridad.
 14. **Tono:** `tono-marca-dra-tania.md`. Serena, elegante, precisa, cercana como en consulta.
