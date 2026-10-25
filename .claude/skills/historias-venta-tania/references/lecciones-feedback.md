@@ -49,6 +49,9 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 
 ## Funcionó o lo pidió el usuario
 
+- Humor real de su familia (su esposo se vacuna mirando hacia el otro lado): sí, con cariño, sobre
+  la situación, con permiso de él y sin su cara. Es humor de la vida de Tania, no chiste de familia.
+
 - **Su mejor gancho:** *"El posparto no dura 40 días, dura hasta 2 años. Y eso nadie te lo
   dice."* Funciona porque la mamá ya vive el síntoma y el dato llega como alivio.
 - **Tipos de gancho que pide:** contraintuitivo, humor ligero, opinión sobre una tendencia real.
