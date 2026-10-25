@@ -154,7 +154,7 @@ Emoción con propósito: identificación, nunca hacer llorar. Siempre termina en
 
 | H | Bloque | Tipo | Ejemplo |
 |---|---|---|---|
-| 1 | Gancho: una escena o frase que detiene | 🖼️🎥 | Paparazzi de Tania viendo a su hijo comer: *"Hoy me pasó algo en consulta que no dejo de pensar"* |
+| 1 | Gancho: una escena o frase que detiene | 🖼️🎥 | Paparazzi de Tania viendo a su hija comer: *"Hoy me pasó algo en consulta que no dejo de pensar"* |
 | 2 | Subgancho: qué pasó (sin datos del paciente) | 🎥 | Selfie en el coche o en el espejo |
 | 3 | La reflexión | 🎥/🖼️ | *"Las mamás no necesitan más culpa, necesitan claridad"* |
 | 4 | Antes/ahora o su lado de mamá | 🖼️ | `07-antes-ahora` o `03-casa-mama` |
@@ -231,7 +231,7 @@ y fuentes en `investigacion-historias.md` §4 y §6.
 | 5 | Reacción real de un bebé probándolo | 😄🎥 |
 | 6 | *"El cómo cortarlo y 20 recetas más están en el recetario: respóndeme RECETAS."* + adelanto del próximo episodio | 🛒 |
 
-**"El crítico"** (solo si Tania decide mostrar a su hijo, aunque sea de espaldas o las manos):
+**"La crítica"** (solo si Tania decide mostrar a su hija, aunque sea de espaldas o las manos):
 cada semana prueba algo nuevo, y la última historia deja la pregunta *"¿mañana se lo come?"*.
 
 **"Reto 7 días, 7 alimentos"** (calentar el lanzamiento): día 0, las mamás se apuntan con la

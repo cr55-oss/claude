@@ -23,7 +23,7 @@ Módulos procesados: introducción · qué son las stories · tipos de stories y
 | Objetivo del curso | Traducción a Tania |
 |---|---|
 | Saber qué quiere la audiencia e interactuar ("polarizar" en el curso) | Stickers para descubrir dudas, miedos y objeciones reales. **Ojo:** la guía de Tania dice "nunca polarizar" en el sentido de dividir o pelear. Aquí la palabra solo significa *conectar e interactuar*. |
-| Contar dónde estás y hacia dónde vas (el "viaje del héroe") | Su vida real de pediatra y mamá: consulta, guardia, su hijo, lo que está preparando. Que la mamá sienta que acompaña el proceso. |
+| Contar dónde estás y hacia dónde vas (el "viaje del héroe") | Su vida real de pediatra y mamá: consulta, guardia, su hija, lo que está preparando. Que la mamá sienta que acompaña el proceso. |
 | Vender, pero de forma indirecta | Se vende después de conectar y educar. Coincide con su guía: educar → resolver → confianza → invitar. |
 
 Idea central: **el objetivo de las stories es generar confianza**. La venta es la consecuencia.
@@ -49,7 +49,7 @@ Idea central: **el objetivo de las stories es generar confianza**. La venta es l
 aspiración.
 
 **Traducción a Tania:**
-- ✅ **Lifestyle relajado = su día a día real:** el café antes de consulta, el trayecto, su hijo
+- ✅ **Lifestyle relajado = su día a día real:** el café antes de consulta, el trayecto, su hija
   comiendo (y tirando la comida), la cocina de casa.
 - ❌ **El flex de lujo no se traslada.** Choca con "elegante, nunca desde el ego". Además, lo que
   aspira una mamá no es un yate. Aspira a **tranquilidad**: saber qué hacer.
@@ -152,7 +152,7 @@ elige **3-5 con los que se sienta cómoda** y los rota. Nada de boomerang.
 |---|---|---|
 | **Selfie** | Cámara frontal; lente 1x o 0.5 si quiere más espacio | Hablarle a la mamá como en consulta. El formato base. |
 | **Vlog** | Alguien la sigue o trípode; se ve el cuerpo completo; camina o se mueve explicando | Caminando por el pasillo del consultorio o en su cocina mientras explica |
-| **B-roll / paparazzi** | Alguien la graba haciendo algo como si no se diera cuenta | Revisando un expediente, escribiendo en el escritorio, preparando la comida de su hijo |
+| **B-roll / paparazzi** | Alguien la graba haciendo algo como si no se diera cuenta | Revisando un expediente, escribiendo en el escritorio, preparando la comida de su hija |
 | **POV** (el favorito del curso) | Lente 0.5 desde su punto de vista, con su mano interactuando | **Muy útil para AC:** cortar un plátano o un aguacate en la forma segura según la edad, armar un plato, mostrar la silla. Valor y formato a la vez. |
 | **Espejo hablando** | Se graba hablando frente al espejo | Una reflexión corta. Sirve para cambiar el estímulo después de 2 stories de selfie o vlog. |
 
@@ -185,7 +185,7 @@ elige **3-5 con los que se sienta cómoda** y los rota. Nada de boomerang.
 ### Reglas nuevas para Tania (no vienen del curso, vienen de ser médica)
 - **Nunca pacientes identificables** (caras, nombres, expedientes, pantallas) en b-roll,
   paparazzi o capturas.
-- **Su propio hijo** solo si ella quiere y como ella decida (manos, espalda, sin cara: su
+- **Su propia hija** solo si ella quiere y como ella decida (manos, espalda, sin cara: su
   elección).
 
 ## 7. Ganchos de stories (story 1 = el tráiler)
@@ -209,7 +209,7 @@ entorno (y esconde lo feo) + música de Instagram.
 
 **Tania:** llegando al hospital o al consultorio con su café, con música tranquila. **Sin lujo**:
 el entorno que se muestra es el de la autoridad (hospital, consultorio) o el de la calidez (su
-cocina, su hijo).
+cocina, su hija).
 
 ### 7.3 Gancho de resultado
 **Mecánica:** 1) tener un resultado real, 2) **mostrarlo visualmente** (captura) en la story 1,

@@ -35,7 +35,7 @@ Para **cada historia**, responde con honestidad (sí / no / dudoso) y una razón
 
 - **Voz:** ¿así hablaría Tania en consulta? Humor ≤2, emojis ≤2, nada de títulos de broma, chistes
   de familia ni exageraciones.
-- **Realidad:** ¿todo lo puede grabar Tania sola? ¿Alguna escena con su hijo en una etapa que ya
+- **Realidad:** ¿todo lo puede grabar Tania sola? ¿Alguna escena con su hija en una etapa que ya
   pasó? ¿Alguna anécdota, porcentaje o frase de consulta que parece inventada?
 - **Medicina:** ¿algún dato incorrecto o demasiado absoluto? ¿Humor en un tema de seguridad?
 - **Reglas:** capturas de DMs, palabra clave como voto, escasez falsa, promesas sobre el bebé.

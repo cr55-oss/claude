@@ -51,7 +51,7 @@ inventada y los resultados en dinero (ver `curso-stories-aprendizajes.md` §5).
 
 **Tania:** 1 · su rasgo recurrente (su café de siempre, su frase, su canción) → 2 · camino al
 consultorio → 3 · llegando al hospital con bata (autoridad, no lujo) → 4 · detalle: el estetoscopio
-en el bolsillo, el gafete → 5 · **con bata y comiendo a escondidas el plátano de su hijo** → 6 ·
+en el bolsillo, el gafete → 5 · **con bata y comiendo a escondidas el plátano de su hija** → 6 ·
 foto natural con su familia → 7 · **algo absurdo y real** (su perro esperando bajo la silla, el
 bebé con el plato en la cabeza) → 8 · b-roll en la cocina → 9 · **[año] en blanco y negro: ella
 de residente en guardia, o recién parida y llorando porque el bebé no comía** → 10 · hoy:
@@ -75,7 +75,7 @@ consulta llena, mamás tranquilas. *"Yo estuve donde tú."* `[solo con fotos y h
 en consulta: 'a ver si logras que el mío coma verduras'. Trato."* → 3 · *"Haciendo que un bebé coma
 verduras"* → 4 · Paso 1 (con un 1 en la mano): *"Ofrécela muchas veces, no una"* → 5 · Paso 2:
 *"Que la toque y la explore"* + texto gracioso: *"sí, aunque termine en el pelo"* → 6 · **Paso 3:
-"hacerle caso al crítico"** (su hijo decide qué textura prefiere: rompe el patrón) → 7 · *"Y
+"hacerle caso a la crítica"** (su hija decide qué textura prefiere: rompe el patrón) → 7 · *"Y
 repetir mañana. Ya está."* → 8 · lo que ve en consulta con las mamás que lo aplican, contado por ella → 9 · palabra clave al recurso.
 
 ## Caso 3 · La mejor cadena del curso: "¿Dónde están los 183,000 €?" (lanzamiento)
@@ -101,7 +101,7 @@ capturas de mensajes de alumnas (*"ya comemos en familia"*, *"ya no lloro en cad
 una antes (*"mamá primeriza de gemelos"*, *"mamá de un bebé prematuro"*), sin nombres →
 6 · humor espontáneo de una alumna (un audio o video que ella mande) → 7-11 · antes → ahora de
 2-3 mamás (**la transformación es de la mamá**, nunca "el bebé come de todo") → 12 · algo
-absurdo y real (su hijo aventando comida) → 13 · otra mamá → 14 · *"Respóndeme RECETAS y te
+absurdo y real (su hija aventando comida) → 13 · otra mamá → 14 · *"Respóndeme RECETAS y te
 mando el recetario con el que empiezan."*
 
 ## Caso 4 · Cinco ganchos que funcionaron
@@ -112,7 +112,7 @@ mando el recetario con el que empiezan."*
 | **Lifestyle paparazzi** | Llegando a casa en un auto de lujo, grabado como si no se diera cuenta, con música | Llegando al hospital en la mañana, café en mano, con música (sin lujo) |
 | **Resultado** | Captura de la cuenta: "36,000 seguidores, +1,000 por día" + diálogo "¿Ya viste?" "Va viral" → explica cómo → "Escribe BALÓN" (el teléfono hace de balón) | Captura de un mensaje real de una mamá → diálogo con su asistente: *"¿Viste lo que nos mandó?"* → cómo lo logró → palabra clave |
 | **"Tengo un problema"** | Foto bonita + "Tengo un problema. Llevo todo el día agobiado" → "no tenemos un hueco en todo el mes" → "quedan 3" → "la cuenta está más quemada que un pan" (humor) | Foto en consulta + *"Tengo un problema"* → *"Me llegan más preguntas de las que puedo responder"* → captura de los DMs → humor → *"Por eso hice esto"* `[número real]` |
-| **Intriga absurda** | Alguien le dispara (de juego) a Víctor en el pie + su reacción → "¿por qué pasó esto?" | Su hijo le avienta brócoli a la bata + su reacción → *"¿Por qué pasó esto?"* → *"Porque fue el tercer día seguido de brócoli"* |
+| **Intriga absurda** | Alguien le dispara (de juego) a Víctor en el pie + su reacción → "¿por qué pasó esto?" | Su hija le avienta brócoli a la bata + su reacción → *"¿Por qué pasó esto?"* → *"Porque fue el tercer día seguido de brócoli"* |
 
 ## Caso 5 · Un día de lanzamiento (el reto del alumno) — 14,160 cuentas en la historia 1
 
@@ -184,10 +184,10 @@ una buena y una mala… si no me caigo, les cuento"* (estaciona la moto) → 5 �
 15 de 20 lugares llenos"* → 6 · resultados + *"Escribe VIRAL y vemos si puedes trabajar con
 nosotros"* → 7 · humor final con la cabra del equipo.
 
-**Tania:** 1 · ella en el carrito o el triciclo de su hijo (si le acomoda) o su hijo "manejando"
+**Tania:** 1 · ella en el carrito o el triciclo de su hija (si le acomoda) o su hija "manejando"
 → 2-3 · en su voz: *"lo que más me preguntan en consulta es cuándo abro el curso"* → 4 · *"Dos noticias…"* → 5 · la buena: el
 curso está abierto; la mala o la escasez, **solo si es real** → 6 · testimonio + palabra clave →
-7 · algo ligero con su "elenco" (el perro, su hijo).
+7 · algo ligero con su "elenco" (el perro, su hija).
 
 ## Caso 10 · Lo que NO hacer (los errores, grabados a propósito)
 
@@ -217,11 +217,11 @@ aparezcan con ella (solo los que ella y ellos acepten):
 | Personaje | Rol en las historias | Equivalente en el curso |
 |---|---|---|
 | **Su asistente o enfermera** | La que pregunta lo que preguntaría una mamá; la cómplice del humor | El alumno / el camarógrafo |
-| **"El crítico"** (su hijo; manos, espalda o como ella decida) | El que prueba, rechaza, avienta: el humor real | Los alumnos saltando del barco |
+| **"La crítica"** (su hija; manos, espalda o como ella decida) | El que prueba, rechaza, avienta: el humor real | Los alumnos saltando del barco |
 | **La abuela** (su mamá o suegra, si le entra al juego) | "¿Ya le das caldito de frijol?": el contraste cariñoso entre tradición y evidencia | El agente inmobiliario / el capitán |
 | **El perro o gato** | El absurdo que no falla | La gallina / la cabra |
 | **Las mamás del curso** (con permiso) | Antes → ahora; la prueba | Los alumnos con sus resultados |
 
 Si Tania aparece **siempre sola hablando a cámara**, el agente debe proponerle **al menos una
-interacción por serie** (una pregunta de su asistente, la reacción de su hijo, una llamada de la
+interacción por serie** (una pregunta de su asistente, la reacción de su hija, una llamada de la
 abuela).

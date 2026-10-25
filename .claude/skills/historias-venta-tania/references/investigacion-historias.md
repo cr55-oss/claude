@@ -85,7 +85,7 @@ en 24 h); lo que sí hay es cómo está armado su negocio.
 | **Solid Starts** (Jenny Best) | Su base de datos gratuita "First Foods" (cómo cortar y preparar cada alimento por edad, con videos de bebés comiendo) **es el embudo**; encima vende una suscripción. Empezó como cuenta de Instagram en 2019. | Es el caso más parecido al curso de AC. Valida el **recurso gratuito por alimento** ("cómo dar X según la edad") y que **ver a bebés comiendo** engancha. |
 | **Taking Cara Babies** (Cara Dumaplin) | Consejos gratis en videos, memes y reels → clases pagadas de sueño (aprox. $99-319 USD). Su autoridad: enfermera neonatal, consultora de sueño certificada, mamá de 4. | El modelo de Tania (sueño + AC, credenciales + mamá). **Memes y humor** conviven con la autoridad sin restarle. |
 | **PedsDocTalk** (Dra. Mona Amin) | Pediatra-mamá; usa **encuestas como investigación** de su audiencia (de ahí salió su podcast). | Los stickers no son solo interacción: son **investigación de mercado** para el próximo producto. |
-| **Lucía mi pediatra** (Dra. Lucía Galán) | La pediatra hispana más seguida; responde a críticas con humor. Una foto de la merienda de su hija **generó polémica**. | **Riesgo real para Tania:** en AC, mostrar lo que come su propio hijo invita a juicios ("¡le das eso!"). Antes de mostrar un plato de su hijo, que sea coherente con lo que ella enseña. |
+| **Lucía mi pediatra** (Dra. Lucía Galán) | La pediatra hispana más seguida; responde a críticas con humor. Una foto de la merienda de su hija **generó polémica**. | **Riesgo real para Tania:** en AC, mostrar lo que come su propia hija invita a juicios ("¡le das eso!"). Antes de mostrar un plato de su hija, que sea coherente con lo que ella enseña. |
 
 No fue posible verificar el contenido de las historias de estas cuentas (son efímeras). Para ver
 ejemplos reales hay que estudiarlas directamente (sección 7).
@@ -97,7 +97,7 @@ ejemplos reales hay que estudiarlas directamente (sección 7).
    veredicto en video, la forma segura de darlo según la edad y la reacción real de un bebé
    (el suyo, si ella quiere). Cierra con: *"El cómo cortarlo y 20 recetas más están en el
    recetario: respóndeme RECETAS."* Es lo que hace Solid Starts, pero en formato de juego.
-2. **"El crítico"** (personaje recurrente, solo si Tania quiere mostrar a su hijo, aunque sea de
+2. **"La crítica"** (personaje recurrente, solo si Tania quiere mostrar a su hija, aunque sea de
    espaldas o solo las manos). Cada semana prueba algo nuevo; el bucle abierto es *"¿mañana se lo
    come?"*. Es la telenovela del embudo.
 3. **"Reto 7 días, 7 alimentos"** (para calentar el lanzamiento). Tania documenta 7 días

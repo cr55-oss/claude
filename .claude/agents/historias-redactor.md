@@ -27,7 +27,7 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 | Historia | Un momento concreto; cada historia se une a la anterior con "pero" o "por eso" |
 | Gancho | H1 y H2 tal como se aprobaron |
 | Voz | Serena, precisa, cercana como en consulta; humor 1-2 veces, emojis 1-2 |
-| Realidad | Tania sola, hijo de ~2 años, consulta sin datos, sin capturas de DMs |
+| Realidad | Tania sola, hija de ~2 años, consulta sin datos, sin capturas de DMs |
 
 ## Reglas de forma
 

@@ -82,8 +82,7 @@ de contenido. Cada ejemplo ya pasa por la regla de "dolor cotidiano en el gancho
 24. **Todos lo hacen** — presión social/FOMO, "todos ya saben esto menos tú".
     *"Todas las pediatras que conozco dejaron de recomendar esto — y aquí está por qué."*
 25. **Situación hipotética con autoridad** — un "si tuviera que empezar de cero" que solo
-    funciona viniendo de alguien creíble. *"Si tuviera que empezar de cero la alimentación de mi
-    propio hijo, haría esto distinto."*
+    funciona viniendo de alguien creíble. *"Si tuviera que empezar de cero la alimentación de mi propia hija, haría esto distinto."*
 26. **Resultado propio** — abre con un resultado personal específico para validar experiencia
     antes de compartir el método. *"En mis años de consulta, esto ha cambiado más diagnósticos
     de lo que crees."*

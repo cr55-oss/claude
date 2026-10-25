@@ -11,7 +11,7 @@ Historias Tania/
 ├── 01-consultorio/        bata, escritorio, revisando (SIN pacientes identificables)
 ├── 02-hospital/           pasillos, UCIN por fuera, guardia (autoridad discreta)
 ├── 03-casa-mama/          cocina, sala, momentos de mamá
-├── 04-hijo/               solo las que Tania aprobó publicar (manos, espalda, como ella decida)
+├── 04-hija/               solo las que Tania aprobó publicar (manos, espalda, como ella decida)
 ├── 05-comida-ac/          platos, cortes por edad, silla, babero, desastres de comida
 ├── 06-lifestyle/          café, trayecto, congreso, lectura (natural, sin lujo)
 ├── 07-antes-ahora/        fotos con el AÑO en el nombre (residente, embarazo, primeriza…)
@@ -24,7 +24,7 @@ Historias Tania/
 
 Formato: `lugar_accion_emocion_año.jpg`. Ejemplos:
 - `consultorio_escribiendo_concentrada_2026.jpg`
-- `cocina_hijo-tira-brocoli_risa_2026.jpg`
+- `cocina_hija-tira-brocoli_risa_2026.jpg`
 - `residencia_guardia_cansada_2016.jpg`
 - `curso_m3_arcadas-vs-atragantamiento.png`
 

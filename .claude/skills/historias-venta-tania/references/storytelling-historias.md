@@ -113,8 +113,8 @@ día**. Sin eso, siempre se cae en tips genéricos. Para Tania:
 
 ## 6. Ejemplo de estructura A · "La primera arcada" (solo como recuerdo en pasado)
 
-**Ojo:** el hijo de Tania tiene ~2 años. Esta serie solo es válida contada como **recuerdo**
-(*"Cuando mi hijo empezó a comer, hace año y medio…"*), y solo si le pasó. El usuario la
+**Ojo:** la hija de Tania tiene ~2 años. Esta serie solo es válida contada como **recuerdo**
+(*"Cuando mi hija empezó a comer, hace año y medio…"*), y solo si le pasó. El usuario la
 consideró forzada en presente; para su presente, usa el ejemplo contraintuitivo de
 `ganchos-historias.md`.
 
@@ -125,7 +125,7 @@ adapta a un momento real suyo]`
 2. (selfie, voz baja) *"Le di su primer trozo de plátano. A los pocos segundos hizo una
    arcada."*
 3. (selfie) *"Soy pediatra. Lo he explicado cientos de veces en consulta. Pero en ese momento,
-   con mi hijo, se me congeló todo."*
+   con mi hija, se me congeló todo."*
 4. (selfie, tono más firme) *"Por eso me obligué a observarlo: tosía, hacía ruido, tenía color.
    Era una arcada. Su cuerpo estaba haciendo justo lo que tenía que hacer."*
 5. (fondo liso) **Arcada: hace ruido, tose, puede ponerse rojo. Es un reflejo que lo protege.**

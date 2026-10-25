@@ -18,15 +18,15 @@ quita presión. Es el gancho por defecto del agente.
 
 **Los otros dos tipos que el usuario pidió:**
 - **Humor para abrir**, ligero e inteligente, de su vida real *de hoy* (ver contexto de Tania
-  abajo). Ej.: foto del plato de su hijo de 2 años con todo separado: **"Mi hijo de 2 años tiene
+  abajo). Ej.: foto del plato de su hija de 2 años con todo separado: **"Mi hija de 2 años tiene
   una regla: nada puede tocarse en el plato."**
 - **Opinión sobre una tendencia**: *"¿Vieron el video de…? Les doy mi opinión como pediatra."*
   Solo con una tendencia **real y actual**: el agente pregunta a Tania qué ha visto esta semana
   o la busca en internet. Nunca la inventa. La opinión se da sin atacar a quien la publicó (su
   guía prohíbe polarizar y nombrar a otras creadoras).
 
-**Contexto real de Tania (no inventar escenas fuera de esto):** su hijo tiene **alrededor de 2
-años**. Lo que vivió de alimentación complementaria es **recuerdo en pasado** ("cuando mi hijo
+**Contexto real de Tania (no inventar escenas fuera de esto):** su hija tiene **alrededor de 2
+años**. Lo que vivió de alimentación complementaria es **recuerdo en pasado** ("cuando mi hija
 empezó a comer…"), nunca escena en presente. Su presente como mamá es la etapa de 2 años (la
 mesa familiar, el niño que elige, que separa, que imita). Lo que pasa hoy con bebés de 6-12 meses
 lo cuenta **desde la consulta**.
@@ -91,17 +91,17 @@ si el texto suena a influencer, se ajusta a su voz antes de usarlo.
 | 10 | Layout "Día 1" (plato perfecto) vs. "Día 30" (caos) | *"¿En qué día vas tú?"* | Comunidad, calentar |
 
 Reglas que siguen vigentes: **en temas de seguridad** (atragantamiento, alergias, señales de
-alarma) H1 puede ser visual e intrigante, pero **sin humor**. Las fotos o videos del hijo de
+alarma) H1 puede ser visual e intrigante, pero **sin humor**. Las fotos o videos de la hija de
 Tania, **solo como ella decida**.
 
 ## Ejemplo completo: gancho contraintuitivo (modo 1), en presente real
 
-Solo Tania y fotos de cosas. Su hijo tiene 2 años: la serie habla **de su presente**.
+Solo Tania y fotos de cosas. Su hija tiene 2 años: la serie habla **de su presente**.
 
-1. (foto: el plato de su hijo de hoy, a medio comer) **La alimentación complementaria no
+1. (foto: el plato de su hija de hoy, a medio comer) **La alimentación complementaria no
    termina al año.**
 2. (selfie) *"Dura hasta los 2 años. Y casi nadie te lo dice."*
-3. (selfie) *"Mi hijo tiene 2 años y seguimos en esto. Por eso te lo digo con calma: si sientes
+3. (selfie) *"Mi hija tiene 2 años y seguimos en esto. Por eso te lo digo con calma: si sientes
    que ya debería comer de todo, no vas tarde."*
 4. Encuesta: **¿Sabías que dura hasta los 2 años?** Sí · No · Pensé que acababa al año
 5. (fondo liso, con el resultado real) **[%] pensaba que acababa al año. Es muy común.**

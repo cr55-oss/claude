@@ -46,7 +46,7 @@ A o B. Un yapping sin historia real suena forzado.
 7. **Cierra con pregunta o "compártelo"**.
 8. **Lo que no cambia:** sin anécdotas inventadas (todo lo que no confirmó Tania va como
    `[PENDIENTE: confirmar que pasó]`), sin datos de pacientes, sin humor de influencer, sin su
-   hijo si ella no quiere.
+   hija si ella no quiere.
 
 ## Cómo lo entrega el agente
 

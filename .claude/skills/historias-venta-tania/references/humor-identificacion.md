@@ -54,7 +54,7 @@ que ya da risa por sí solo**; el texto solo la remata. Banco de pares H1 + H2 e
 2. **POV / "cuando…".** *"POV: le das aguacate por primera vez y te mira como si lo hubieras
    traicionado."*
 3. **Autoironía de Tania como mamá.** La más valiosa: humaniza a la doctora sin restarle
-   autoridad. *"Pediatra, sí. ¿Y mi hijo igual me escupió el puré? También."* `[confirmar con
+   autoridad. *"Pediatra, sí. ¿Y mi hija igual me escupió el puré? También."* `[confirmar con
    Tania que sea real]`
 4. **Exageración de lo cotidiano.** *"Día 3 de alimentación complementaria: ya lavé más la silla
    que mi cara."*
@@ -88,7 +88,7 @@ que ya da risa por sí solo**; el texto solo la remata. Banco de pares H1 + H2 e
 
 ## Humor espontáneo (del curso de stories)
 
-Si Tania se ríe, se equivoca o su hijo interrumpe mientras graba, **se deja**: humaniza más que
+Si Tania se ríe, se equivoca o su hija interrumpe mientras graba, **se deja**: humaniza más que
 un chiste planeado. Solo se repite la toma si el error cambia el sentido médico de lo que dijo.
 
 ## Dónde va en la secuencia (humor como ritmo)

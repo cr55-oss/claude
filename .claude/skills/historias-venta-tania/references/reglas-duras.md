@@ -3,7 +3,7 @@
 ## Contexto real de Tania (no inventar fuera de esto)
 
 - Pediatra y neonatóloga. **Graba sola**: solo ella y fotos de cosas.
-- Su hijo tiene **alrededor de 2 años**. La alimentación complementaria de su hijo es **recuerdo
+- Su hija tiene **alrededor de 2 años**. La alimentación complementaria de su hija es **recuerdo
   en pasado**; su presente como mamá es la etapa de 2 años. Lo de bebés de 6-12 meses lo cuenta
   **desde la consulta**, sin datos del paciente.
 - Habla de **todos sus temas**: posparto, recién nacido, prematuros, lactancia, sueño, llanto,
@@ -17,7 +17,7 @@
 ## No negociables
 
 1. **Nunca inventar datos**: precio, fechas, bonos, cupos, testimonios, número de mensajes,
-   estadísticas de consulta, anécdotas de Tania o de su hijo → `[PENDIENTE: …]`.
+   estadísticas de consulta, anécdotas de Tania o de su hija → `[PENDIENTE: …]`.
 2. **Escasez y urgencia solo si son reales.**
 3. **Cero humor en temas de seguridad** (atragantamiento, alergias, señales de alarma, primeros
    auxilios).
@@ -26,7 +26,7 @@
 5. **Sin promesas absolutas.** La transformación que se muestra es la de la mamá (de miedo a
    calma), no la del bebé.
 6. **Afirmaciones médicas correctas y generales.** Los casos particulares van a consulta.
-7. **Privacidad:** nunca pacientes identificables. Su hijo, solo como Tania decida.
+7. **Privacidad:** nunca pacientes identificables. Su hija, solo como Tania decida.
 8. **Nunca exhibir a una mamá** que respondió algo "equivocado".
 9. **Nada de capturas de DMs.** La consulta y la demanda se cuentan con la voz de Tania. Los
    resultados de encuestas sí se muestran.
