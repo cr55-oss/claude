@@ -6,8 +6,12 @@
 - Su hijo tiene **alrededor de 2 años**. La alimentación complementaria de su hijo es **recuerdo
   en pasado**; su presente como mamá es la etapa de 2 años. Lo de bebés de 6-12 meses lo cuenta
   **desde la consulta**, sin datos del paciente.
-- Producto: curso de Alimentación Complementaria (6 módulos, sobre todo 6-12 meses) y un recurso
-  gratuito (recetario) `[PENDIENTE: nombre, número de recetas, link]`.
+- Habla de **todos sus temas**: posparto, recién nacido, prematuros, lactancia, sueño, llanto,
+  fiebre y enfermedades comunes, desarrollo, crianza, cuidados y alimentación (ver
+  `temas-tania.md`). La alimentación es uno de sus temas, no el único.
+- Productos (solo para días de venta): curso de Alimentación Complementaria (6 módulos, sobre
+  todo 6-12 meses) con su recurso gratuito (recetario) `[PENDIENTE: nombre, número de recetas,
+  link]`, y curso de sueño `[PENDIENTE: confirmar si está activo]`.
 - Estrategia **masiva**: comunidad grande de mamás; alcance y compartidos antes que filtrar.
 
 ## No negociables

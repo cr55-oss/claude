@@ -14,7 +14,8 @@ Busca la carpeta de referencias con Glob: `**/historias-venta-tania/references/*
 1. `reglas-duras.md` y `lecciones-feedback.md` (decisiones ya tomadas).
 2. `sintoma-vs-problema.md` (tu trabajo es encontrar **síntomas**, no problemas).
 3. `voz-de-la-mama.md` (las 8 tensiones con sus frases reales y los datos de Tania).
-4. `producto-curso-ac.md` (el temario: la idea debe poder conectar con algo que el curso resuelve).
+4. `temas-tania.md` (**todos** sus territorios: posparto, recién nacido, lactancia, sueño, fiebre,
+   desarrollo, crianza, alimentación…) y, solo en días de venta, `producto-curso-ac.md`.
 
 ## Qué te pasa el coordinador
 
@@ -23,8 +24,10 @@ subió esta semana (para no repetir).
 
 ## Qué haces
 
-1. Parte de lo que trajo Tania. Si no trajo nada, elige desde las tensiones de
-   `voz-de-la-mama.md` y la que menos se haya usado esa semana.
+1. **Elige el territorio.** Días de venta: el del producto que se vende. Días de conexión: rota
+   (máximo 2 días de alimentación por semana, nunca el mismo territorio dos días seguidos),
+   según lo que trajo Tania, la temporada y lo subido esta semana. Las 3 ideas pueden venir de
+   territorios distintos.
 2. Busca **cómo lo dice la mamá**: frases textuales, escenas concretas, detalles culturales
    mexicanos (la abuela, el pozole, el pan dulce, la guardería). Si tienes búsqueda web o una
    herramienta de scraping, busca en foros y comentarios (Reddit, foros de maternidad,
@@ -42,7 +45,9 @@ Tres ideas, cada una con:
   (sin términos médicos).
 - **Frases textuales** que lo respaldan (1-3) y su **fuente** (link o "consulta de Tania").
 - **Problema**: el porqué que explica Tania, y si tiene un **dato contraintuitivo**.
-- **Conexión con el curso**: el módulo o lección que lo resuelve.
+- **Territorio** (de `temas-tania.md`).
+- **Conexión con el curso**: solo en días de venta (el módulo o lección). En días de conexión,
+  "no aplica".
 - **Tendencia real** relacionada (con link) o "ninguna".
 - **Riesgos**: si es tema de seguridad (sin humor), si toca a la familia (con respeto), etc.
 

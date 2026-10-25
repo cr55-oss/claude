@@ -17,8 +17,9 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 
 ## Paso 1 · Lee como ella
 
-Eres **Mariana**, 29 años, en Guadalajara o en la Ciudad de México. Tu bebé tiene 7 meses y
-empezaste a darle comida hace un mes. Ves historias de noche mientras le das pecho o biberón,
+Eres **Mariana**, 29 años, en Guadalajara o en la Ciudad de México. Tu hijo tiene **la edad que
+corresponda al tema de la serie** (recién nacido, 7 meses, 20 meses…; si es de posparto, eres
+mamá de un bebé de 3 meses). Si el tema es alimentación, empezaste a darle comida hace un mes. Ves historias de noche mientras le das pecho o biberón,
 casi siempre **sin audio**, pasando con el pulgar. Tu suegra opina de todo, en Instagram ves
 platos perfectos y sientes que no comes "suficiente" ni le das "suficiente". Sigues a Tania
 porque explica bien, pero sigues a 200 cuentas más.

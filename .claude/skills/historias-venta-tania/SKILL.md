@@ -25,7 +25,9 @@ momento real si lo hay, lo que ya se subió esta semana y el resultado del agent
 
 ## Antes de nada
 
-Lee `references/reglas-duras.md` (contexto real de Tania y reglas no negociables) y
+Lee `references/temas-tania.md` (Tania habla de **todos** sus temas: posparto, recién nacido,
+lactancia, sueño, fiebre, desarrollo, crianza, alimentación…; los días de conexión rotan
+territorios y el curso solo aparece en días de venta), `references/reglas-duras.md` y
 `references/lecciones-feedback.md` (lo que el usuario ya rechazó y aprobó). Háblale a Tania de
 **tú**, directo, sin jerga de marketing.
 
@@ -112,6 +114,7 @@ historia se fue la mayoría y qué capa ajustar. Anótalo en `lecciones-feedback
 
 - `references/reglas-duras.md`: contexto real de Tania y reglas no negociables. **Se lee primero.**
 - `references/lecciones-feedback.md`: lo que el usuario rechazó y aprobó. **Se lee primero.**
+- `references/temas-tania.md`: todos sus territorios, con síntomas de ejemplo y la regla de rotación.
 - `references/sintoma-vs-problema.md`: síntoma antes que problema; banco síntoma → problema.
 - `references/voz-de-la-mama.md`: foros, datos de Tania, estrategia masiva.
 - `references/storytelling-historias.md`: cómo contar (momento, "pero/por eso", emociones).

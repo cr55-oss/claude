@@ -17,6 +17,7 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | "Le di su primer trozo de plátano" (en presente) | Su hijo tiene ~2 años: es falso y se siente forzado | Solo escenas reales; lo de 6-12 meses desde la consulta |
 | Rehacer toda la serie con cada comentario | Se perdían las mejoras anteriores | **Capas**: un comentario ajusta su capa, no borra las demás |
 | Venta tipo producto caro (cupos, "vemos si calificas", cadenas de 12+) | Tania va a las masas | Alcance, compartir, recurso gratuito; venta de 8-10 historias |
+| Todo era de alimentación complementaria | Tania es pediatra, neonatóloga y mamá: habla de crianza, lactancia, sueño, salud, desarrollo y más | Días de conexión rotan territorios (`temas-tania.md`); el curso solo en días de venta |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
 ## Funcionó o lo pidió el usuario

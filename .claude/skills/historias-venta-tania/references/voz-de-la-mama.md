@@ -3,7 +3,9 @@
 Investigación hecha en octubre de 2026 en foros (Reddit: r/BabyLedWeaning, r/NewParents,
 r/BeyondTheBumpUK), foros de crianza (HealthUnlocked, Dormir sin Llorar, WeLoverSize), blogs de
 mamás, notas de prensa que recogen hilos de Reddit y estudios sobre padres y pediatras en redes.
-**El agente lee este archivo antes de elegir el tema y el gancho de cualquier serie.**
+**Alcance:** esta investigación cubre **solo alimentación**. Para los demás temas de Tania
+(posparto, sueño, lactancia, fiebre, desarrollo, crianza…) ver `temas-tania.md`; el investigador
+los investiga desde cero cuando toque.
 
 **Límites:** casi todo lo que se encontró es de mamás en inglés o en España. Lo de México se
 completa con lo que Tania escucha en consulta (sección 6). Las frases van traducidas; los números
