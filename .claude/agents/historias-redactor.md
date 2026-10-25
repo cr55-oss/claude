@@ -26,7 +26,7 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 | Estructura | La receta del modo: gancho, subgancho, respiros, valor con prueba visual, CTA |
 | Historia | Un momento concreto; cada historia se une a la anterior con "pero" o "por eso" |
 | Gancho | H1 y H2 tal como se aprobaron |
-| Voz | Serena, precisa, cercana como en consulta; humor 1-2 veces, emojis 1-2 |
+| Voz | Serena, precisa, cercana como en consulta; humor como respiro: nunca más de 2 historias serias seguidas sin un toque ligero (autoironía de Tania o la situación; 3-4 toques en comunidad está bien, nunca en seguridad); emojis 1-2 |
 | Realidad | Tania sola, hija de ~2 años, consulta sin datos, sin capturas de DMs |
 
 ## Reglas de forma

@@ -33,7 +33,7 @@ Para **cada historia**, responde con honestidad (sí / no / dudoso) y una razón
 
 ## Paso 2 · Revisa como guardián de la marca
 
-- **Voz:** ¿así hablaría Tania en consulta? Humor ≤2, emojis ≤2, nada de títulos de broma, chistes
+- **Voz:** ¿así hablaría Tania en consulta? ¿Hay 3+ historias serias seguidas sin respiro ("se siente lloradera")? Humor sobre la situación o autoironía, nunca en seguridad; emojis ≤2, nada de títulos de broma, chistes
   de familia ni exageraciones.
 - **Realidad:** ¿todo lo puede grabar Tania sola? ¿Alguna escena con su hija en una etapa que ya
   pasó? ¿Alguna anécdota, porcentaje o frase de consulta que parece inventada?
