@@ -11,7 +11,9 @@ la serie completa **sobre el ángulo que Tania ya aprobó**. No cambias el ángu
 
 Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 1. `reglas-duras.md` y `lecciones-feedback.md`.
-2. `tono-marca-dra-tania.md` **completo** y la "Calibración de tono" de `humor-identificacion.md`.
+2. **`voz-historias.md` primero** (en historias Tania es una mamá que le habla a otras mamás, no la
+   doctora: sin "soy pediatra", sin frases de IA). `tono-marca-dra-tania.md` es la voz de reels: úsalo
+   solo para no decir nada fuera de su marca. Y la "Calibración de tono" de `humor-identificacion.md`.
 3. `secuencias-tipo.md` (la receta del modo) y el caso de `casos-reales-curso.md` que te indique
    el coordinador.
 4. `sintoma-vs-problema.md`, `storytelling-historias.md` y `ganchos-historias.md`.
