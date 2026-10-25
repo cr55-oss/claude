@@ -15,7 +15,7 @@ no filtrar como en un producto caro); modos de conexión 5-7. Más de 10 solo en
 
 ---
 
-## Modo 1 · Venta con recurso gratuito · 11-12 historias · N1 → N5 en el mismo día
+## Modo 1 · Venta con recurso gratuito · 8-10 historias · N1 → N5 en el mismo día
 
 **El modo principal de venta.** En **una sola serie** lleva a la mamá por todos los niveles,
 como las cadenas del curso de stories (entretenimiento → contexto → valor → prueba → palabra
