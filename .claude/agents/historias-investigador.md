@@ -24,10 +24,12 @@ subió esta semana (para no repetir).
 
 ## Qué haces
 
-1. **Elige el territorio.** Días de venta: el del producto que se vende. Días de conexión: rota
-   (máximo 2 días de alimentación por semana, nunca el mismo territorio dos días seguidos),
-   según lo que trajo Tania, la temporada y lo subido esta semana. Las 3 ideas pueden venir de
-   territorios distintos.
+1. **Elige el tema con el mapa de `temas-tania.md`.** Revisa el **calendario** de esa semana y la
+   siguiente, la **salud pública actual** (verifica cifras con fuentes recientes), las
+   **creencias populares** y los **debates de crianza**; luego puntúa los candidatos con la tabla
+   de la sección 3. Días de venta: el tema se ancla al producto, pero el gancho puede venir de un
+   cruce. Las 3 ideas vienen de **al menos 2 territorios distintos**. Si el calendario o una
+   noticia ya cambiaron, actualiza la información (no confíes en cifras viejas del archivo).
 2. Busca **cómo lo dice la mamá**: frases textuales, escenas concretas, detalles culturales
    mexicanos (la abuela, el pozole, el pan dulce, la guardería). Si tienes búsqueda web o una
    herramienta de scraping, busca en foros y comentarios (Reddit, foros de maternidad,
