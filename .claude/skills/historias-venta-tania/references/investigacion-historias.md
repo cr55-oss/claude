@@ -104,7 +104,9 @@ ejemplos reales hay que estudiarlas directamente (sección 7).
    introduciendo alimentos, y las mamás se apuntan con el recetario (palabra clave → recetario +
    WhatsApp o correo). Cada día termina con un cliffhanger. **El día 7 abre el curso**, con las
    respuestas y fotos de las mamás que siguieron el reto.
-4. **"Consulta en 15 segundos"**: captura de un DM (sin nombre) → respuesta en un video de 15 s.
+4. **"Consulta en 15 segundos"**: Tania dice en una línea la pregunta que le hicieron en
+   consulta (sin datos del paciente) → la responde en un video de 15 s. (Sin capturas de DMs: el
+   usuario las descartó porque se ven armadas.)
    Rápido, útil y genera más DMs.
 5. **"Mamá a las 3 am vs. pediatra a las 9 am"**: el contraste de sus dos lados (la búsqueda en
    Google de madrugada vs. la respuesta con evidencia). Humor + autoridad en un mismo formato.

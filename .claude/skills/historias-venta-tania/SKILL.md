@@ -102,8 +102,8 @@ Sigue `references/drive-fotos.md`. En resumen:
 parezca al modo del día** y úsalo como molde (son cadenas publicadas, desarmadas historia por
 historia). **Incluye al menos una interacción por serie**: en los casos reales el humor sale de la
 interacción, no de chistes. **Por defecto Tania graba sola** (solo ella y fotos de cosas), así que
-la interacción viene de: **la audiencia** (capturas de DMs reales sin nombre, respuestas a
-encuestas, "ustedes decidieron"), **objetos como personajes** (el bote de consomé "villano", el
+la interacción viene de: **la audiencia** (resultados de encuestas y quizzes, "ustedes
+decidieron"), **objetos como personajes** (el bote de consomé "villano", el
 brócoli), **Tania reaccionando** (probando, con caras reales; ella es el jurado) y **bucles con
 objetos** (algo que aparece en H1 y se cierra en la última). Solo propón a otras personas (su
 asistente, su hijo, la abuela) si Tania dice que ese día puede.
@@ -142,10 +142,15 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
 8. **Nunca exhibir a una mamá** que respondió algo "equivocado".
 9. **Tono base:** `references/tono-marca-dra-tania.md` (Sabio + Cuidador). El humor de este
    agente es una excepción acotada a su regla de "humor ocasional", válida solo en stories.
-10. **La palabra clave se pide como respuesta escrita** ("Respóndeme RECETAS"), nunca como voto
+10. **Nada de capturas de DMs** ("me llegan mensajes así cada semana" + captura): se perciben
+    como montaje y le restan credibilidad a una marca médica. La demanda y las dudas reales las
+    **cuenta Tania con su voz**, desde la consulta (*"esta semana tres mamás me preguntaron esto
+    en consulta"*), sin datos del paciente. Los resultados de encuestas sí se pueden mostrar
+    (son datos visibles de Instagram). Los testimonios de alumnas, solo si Tania los pide.
+11. **La palabra clave se pide como respuesta escrita** ("Respóndeme RECETAS"), nunca como voto
     de encuesta: los votos no disparan el mensaje automático. Los automáticos van dentro de las 24 h
     después de que la mamá escribió.
-11. Las **dudas médicas por DM** las responde Tania o su equipo, nunca un bot. Lo único que se
+12. Las **dudas médicas por DM** las responde Tania o su equipo, nunca un bot. Lo único que se
     puede automatizar es el **envío del recurso o del link** por palabra clave.
 
 ## Paso 5 — revisar (checklist)

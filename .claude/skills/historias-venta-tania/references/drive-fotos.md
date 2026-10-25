@@ -17,7 +17,6 @@ Historias Tania/
 ├── 07-antes-ahora/        fotos con el AÑO en el nombre (residente, embarazo, primeriza…)
 ├── 08-capturas-curso/     temario completo y lecciones por módulo
 ├── 09-testimonios/        mensajes de mamás o alumnas CON permiso, sin nombre ni foto
-├── 10-mensajes-dms/       preguntas que llegan (sin nombre), para demanda e interacción
 └── registro-historias     (documento opcional: qué se subió cada día y las vistas)
 ```
 
@@ -28,7 +27,6 @@ Formato: `lugar_accion_emocion_año.jpg`. Ejemplos:
 - `cocina_hijo-tira-brocoli_risa_2026.jpg`
 - `residencia_guardia_cansada_2016.jpg`
 - `curso_m3_arcadas-vs-atragantamiento.png`
-- `dm_cuando-abre-el-curso.png`
 
 Si los nombres son genéricos (`IMG_4532.jpg`), el agente solo puede elegir por carpeta: lo
 avisa y le pide a Tania que revise la foto.

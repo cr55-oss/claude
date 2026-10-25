@@ -71,12 +71,12 @@ consulta llena, mamás tranquilas. *"Yo estuve donde tú."* `[solo con fotos y h
 | 8 | Resultados de clientes con millones de vistas | **Validación después de explicar** |
 | 9 | "¿Tienes una consultoría?" | Redirección |
 
-**Tania:** 1 · foto en su cocina con el plato listo, sin texto → 2 · captura de un DM real: *"Te
-reto a hacer que mi bebé coma verduras"* → *"Trato."* → 3 · *"Haciendo que un bebé coma
+**Tania:** 1 · foto en su cocina con el plato listo, sin texto → 2 · en su voz: *"Una mamá me retó
+en consulta: 'a ver si logras que el mío coma verduras'. Trato."* → 3 · *"Haciendo que un bebé coma
 verduras"* → 4 · Paso 1 (con un 1 en la mano): *"Ofrécela muchas veces, no una"* → 5 · Paso 2:
 *"Que la toque y la explore"* + texto gracioso: *"sí, aunque termine en el pelo"* → 6 · **Paso 3:
 "hacerle caso al crítico"** (su hijo decide qué textura prefiere: rompe el patrón) → 7 · *"Y
-repetir mañana. Ya está."* → 8 · mensajes de mamás que lo lograron → 9 · palabra clave al recurso.
+repetir mañana. Ya está."* → 8 · lo que ve en consulta con las mamás que lo aplican, contado por ella → 9 · palabra clave al recurso.
 
 ## Caso 3 · La mejor cadena del curso: "¿Dónde están los 183,000 €?" (lanzamiento)
 
@@ -161,8 +161,8 @@ sorprendió en el pasillo de bebés) está en mi reel nuevo 👇"*
   oportunidad"* → *"Es porque la gente lo está pidiendo."* La audiencia decide el final.
 
 **Tania:** en el reto, el día que el bebé rechaza todo: *"¿Le damos otra oportunidad al brócoli
-mañana?"* → las respuestas → *"Ustedes decidieron: mañana va otra vez."* Y la "bala de un solo
-uso" para el día de apertura: los mensajes de mamás pegados en la pared del consultorio.
+mañana?"* → las respuestas → *"Ustedes decidieron: mañana va otra vez."* Para el día de apertura, opcional: las preguntas de mamás escritas a mano por Tania en post-its
+pegados en la pared del consultorio.
 
 ## Caso 8 · Clase práctica (cómo se grabó y armó)
 
@@ -185,7 +185,7 @@ una buena y una mala… si no me caigo, les cuento"* (estaciona la moto) → 5 �
 nosotros"* → 7 · humor final con la cabra del equipo.
 
 **Tania:** 1 · ella en el carrito o el triciclo de su hijo (si le acomoda) o su hijo "manejando"
-→ 2-3 · mensajes reales (*"¿cuándo abre el curso?"*) → 4 · *"Dos noticias…"* → 5 · la buena: el
+→ 2-3 · en su voz: *"lo que más me preguntan en consulta es cuándo abro el curso"* → 4 · *"Dos noticias…"* → 5 · la buena: el
 curso está abierto; la mala o la escasez, **solo si es real** → 6 · testimonio + palabra clave →
 7 · algo ligero con su "elenco" (el perro, su hijo).
 
@@ -204,7 +204,7 @@ elenco, porque la mitad de su "interacción" viene de objetos y de la audiencia:
 | En el curso | Con Tania sola |
 |---|---|
 | La gallina, la cabra, el maletín, las llaves | **Objetos como personajes**: el bote de consomé "villano", el brócoli, la cucharita, la galleta "para bebé" |
-| El alumno, el agente, el capitán | **La audiencia**: capturas de DMs reales sin nombre como "la otra voz"; encuestas que deciden qué pasa |
+| El alumno, el agente, el capitán | **La consulta, en voz de Tania** (*"esta semana una mamá me preguntó…"*) como "la otra voz", y **encuestas que deciden qué pasa**. Sin capturas de DMs: se ven armadas |
 | Los alumnos reaccionando, saltando del barco | **Tania reaccionando**: probando la comida, su cara real; ella es el jurado |
 | "Tiene que ser hoy", "¿otra oportunidad?" | **Lo que está en juego lo pone la audiencia o el objeto**: "¿se puede hacer que sepa rico sin sal?" |
 | Callbacks entre historias | **Bucle con objeto**: lo que aparece en H1 (el consomé escondido) se cierra en la última |

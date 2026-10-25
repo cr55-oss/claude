@@ -57,7 +57,7 @@ con el seguimiento de +1 y +3 días y con los modos 3 (objeción) y 2 (venta dir
 | Si pregunta algo médico particular | Tania | Orientación general + *"esto conviene verlo en consulta"* |
 
 En las historias de los días siguientes se usan los modos 3 (objeción) y 2 (venta directa) con
-los mensajes reales que lleguen.
+lo que Tania escuche en consulta y las respuestas a las encuestas.
 
 ---
 
@@ -69,8 +69,8 @@ Del curso: no lleva valor; el valor se sustituye por **demanda real** y **escase
 | H | Bloque | Tipo | Tania |
 |---|---|---|---|
 | 1 | Humor fuera de contexto | 😄🎥 | Algo gracioso de su día |
-| 2 | Gancho con contexto + mensajes | 💬🧾 | *"¿Ya vieron esto?"* + capturas de `10-mensajes-dms` |
-| 3 | La demanda | 💬🧾 | *"Esta semana me escribieron [PENDIENTE: número real] mamás preguntando lo mismo"* |
+| 2 | Gancho con contexto | 😄🎥 | Selfie: *"¿Saben qué es lo que más me preguntan en consulta últimamente?"* |
+| 3 | La demanda, en su voz | 🎥 | *"Cuándo abro el curso. Esta semana me lo preguntaron [PENDIENTE: número real] mamás en consulta."* |
 | 4 | "Tengo dos noticias" | 😄 | Encuesta: *"¿Por cuál empiezo, la buena o la mala?"* |
 | 5 | La noticia + escasez **solo si es real** | 🛒 | Si no hay escasez real: *"Mala: ya no me da la vida para responder cada DM, por eso lo junté todo en el curso."* |
 | 6 | Resultado + CTA | 🧾🛒 | Testimonio de `09-testimonios` + *"Escríbeme [PALABRA] y te digo si es para la edad de tu bebé"* |
@@ -82,8 +82,8 @@ Del curso: no lleva valor; el valor se sustituye por **demanda real** y **escase
 
 | H | Bloque | Tipo |
 |---|---|---|
-| 1 | Gancho con la objeción real (captura sin nombre) | 💬🧾 |
-| 2 | *"Me lo dicen mucho. Hablemos de eso."* | 😄🎥 |
+| 1 | Gancho visual ligado a la objeción (el reloj, la cartera, el calendario lleno) | 🎥 |
+| 2 | En su voz: *"Una mamá me dijo en consulta: 'no tengo tiempo para un curso'. Hablemos de eso."* | 😄🎥 |
 | 3 | Validar: *"Tiene todo el sentido que…"* | 🩺 |
 | 4 | Humor o cambio de lugar | 😄 |
 | 5 | Respuesta con hechos del curso + captura de la lección | 🩺🧾 |
@@ -209,9 +209,9 @@ Entretener para que vuelvan mañana. Todo humor de identificación; un dato úti
 
 | H | Bloque |
 |---|---|
-| 1 | Gancho: muchas respuestas juntas (layout o "pared de preguntas") |
+| 1 | Gancho visual (Tania con una taza de café y cara de "ok, vamos") + *"Hoy respondo sus preguntas"* |
 | 2 | *"Respondo las que más se repitieron"* |
-| 3-6 | Pregunta (captura sin nombre) + respuesta corta en video; un humor o cambio de lugar a la mitad |
+| 3-6 | La pregunta escrita por Tania en fondo liso (no la captura) + respuesta corta en video; un humor o cambio de lugar a la mitad |
 | 7 | En semana de venta: *"Esto y mucho más está en [RECURSO/curso]"* + palabra clave. Si no: nueva caja de preguntas. |
 
 ---
@@ -258,7 +258,7 @@ modo 2 reemplaza al 1 del miércoles.
 | -7 a -4 | 5 · calentar (un tema distinto del temario cada día), intercalado con 6 u 8 |
 | -3 | 1 · recurso gratuito (la lista de interesadas lo recibe primero) |
 | -2 | 11 · caja de preguntas |
-| 0 | **2 · venta directa.** Aquí va la **"bala de un solo uso"**: los mensajes de mamás impresos y pegados en la pared del consultorio, con Tania caminando entre ellos (*"Todo esto me preguntaron. Por eso hice el curso."*) |
+| 0 | **2 · venta directa.** Opcional, solo si Tania quiere: la **"bala de un solo uso"** (las preguntas de mamás escritas a mano por ella en post-its, sin nombres, pegadas en la pared del consultorio: *"Todo esto me preguntaron. Por eso hice el curso."*) |
 | +1 a +4 | 3 · objeción (una por día), intercalado con 6 o 7 |
 | +5 | 11 · caja de preguntas sobre el curso |
 | Último día | 4 · cierre (solo si hay fecha real) |
