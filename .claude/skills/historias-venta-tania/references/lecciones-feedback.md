@@ -29,6 +29,14 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 - Señales de alarma sin separar urgencias de pediatra.
 - Créditos a expertos no verificados.
 - Expresiones que no suenan a México ("esa vacuna lo enferma" → "le iba a dar gripa").
+- Aclaraciones que no le aplican a la mamá de la serie ("antes de los 2 años el azúcar se evita"
+  a la mamá de un niño de 2: se lee como permiso). La aclaración debe servir para su edad y decir
+  de qué habla; "eso es otro tema" suena a desentenderse.
+- Dos estudios mezclados en una frase como si fueran uno; "se portaron igual" en vez de "no se
+  vio diferencia". Un estudio por frase y sin absolutos.
+- Atragantamiento: una sola edad, alimentos precisos ("cacahuates enteros", "paletas de
+  caramelo"), la acción completa (911 + maniobra; si tose fuerte, dejarlo toser) y "hablar" a
+  partir de los 2 años.
 
 ## Funcionó o lo pidió el usuario
 
