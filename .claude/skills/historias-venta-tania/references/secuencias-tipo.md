@@ -146,7 +146,9 @@ Objetivo: que se sientan parte y **le respondan** (encuesta, caja, pregunta). En
 
 **Regla:** la serie es **una historia contada**, no módulos de interacción. Nada de encuesta en
 H2 → resultados en H3 (los resultados todavía no existen el mismo día y cortan la historia).
-Máximo **una** interacción, al final, que cualquier mamá pueda contestar.
+Sí van **stickers de un toque** en varias historias (encuesta, quiz, deslizador de emoji): suben
+la interacción sin cortar la historia. Lo que no va: historias de "resultados" ni preguntas que
+obliguen a escribir en cada historia.
 ---
 
 ## Modo 7 · Reflexión · 5-6 historias · N1 → N2

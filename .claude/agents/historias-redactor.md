@@ -36,7 +36,8 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 - Cambia de formato cada 1-2 historias (selfie, POV 0.5, foto con texto, fondo liso, layout,
   captura del curso, antes/ahora con año) y de lugar o ángulo cada 3. Al menos 2-3 videos.
 - Texto en pantalla: ~20 palabras; a las mamás de Tania les encanta leer, así que en formato A/A2
-  puede llegar a ~45 si es narración en líneas cortas. H1 siempre se lee en 2 segundos. Video: el gancho 8-12 s, las demás ≤15 s.
+  ~25 palabras máximo, en 2-3 líneas cortas. H1 siempre se lee en 2 segundos. Stickers de un toque
+  (encuesta, quiz, deslizador) en 3-4 historias. Video: el gancho 8-12 s, las demás ≤15 s.
 - Nunca más de 2 historias de valor seguidas sin un respiro (calidez, momento personal, cambio
   visual o el único guiño de humor).
 - Lo que se menciona del curso lleva su captura en la misma historia.
