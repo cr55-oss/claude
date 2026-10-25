@@ -111,7 +111,12 @@ día**. Sin eso, siempre se cae en tips genéricos. Para Tania:
 - El agente **pregunta primero por un momento real** antes de escribir una serie de storytelling.
   Si no hay, usa una estructura sin anécdota (B o una de tips) y **no inventa**.
 
-## 6. Ejemplo completo · estructura A · "La primera arcada"
+## 6. Ejemplo de estructura A · "La primera arcada" (solo como recuerdo en pasado)
+
+**Ojo:** el hijo de Tania tiene ~2 años. Esta serie solo es válida contada como **recuerdo**
+(*"Cuando mi hijo empezó a comer, hace año y medio…"*), y solo si le pasó. El usuario la
+consideró forzada en presente; para su presente, usa el ejemplo contraintuitivo de
+`ganchos-historias.md`.
 
 Tema de seguridad: **sin humor y sin emojis**. `[Solo si le pasó de verdad a Tania; si no, se
 adapta a un momento real suyo]`

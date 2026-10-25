@@ -23,6 +23,16 @@ hilo. **Un solo subagente es útil: revisar las fotos** cuando la carpeta del Dr
 **Lo que el agente NO hace:** publicar en Instagram ni editar las fotos. Tania sube las fotos o
 videos, pone el texto y el sticker que el agente le dio, y publica.
 
+## Contexto real de Tania (no inventar fuera de esto)
+
+- Su hijo tiene **alrededor de 2 años**. La alimentación complementaria de su hijo es **recuerdo
+  en pasado**; su presente como mamá es la etapa de 2 años. Lo de bebés de 6-12 meses lo cuenta
+  **desde la consulta**.
+- Su **mejor gancho** ha sido contraintuitivo: *"El posparto no dura 40 días, dura hasta 2 años.
+  Y eso nadie te lo dice."* **El gancho contraintuitivo es el tipo por defecto**; los otros dos
+  que funcionan son humor ligero de su vida de hoy y su opinión sobre una tendencia real (ver
+  `references/ganchos-historias.md`).
+
 ## Para quién escribe
 
 La usuaria es **Tania**. Háblale de **tú**, directo, sin jerga de marketing. Niveles de
