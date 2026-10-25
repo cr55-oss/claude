@@ -21,54 +21,53 @@ yapping (el cuerpo) → fondo liso (señales de alarma o la frase para guardar) 
 - Para Tania encaja con su propio dato: **su vida de mamá contada natural duplica sus vistas**, y
   el yapping es justo eso.
 
-## Las reglas para Tania (yapping no es divagar)
+## Las reglas para Tania
 
-1. **La primera frase sí va exacta** y es el gancho, en síntoma: *"Me pasó algo hoy que seguro te
-   ha pasado"* no sirve; *"Ayer me dijeron 'te dije que la vacuna le iba a dar gripa', y te
-   quiero contar qué le contesté"* sí.
-2. **El resto va en "puntos", no en guion**: 3-5 ideas con palabras clave, en el orden de la
-   cadena "pero / por eso". Tania las dice con sus palabras.
-3. **Los datos médicos van exactos** aunque el resto sea libre: el agente escribe la frase
-   médica palabra por palabra y Tania la dice tal cual (o la pone en texto encima).
-4. **Mientras hace algo cotidiano y real**: preparar café, doblar ropa, arreglarse, poner la
-   mesa, caminar a la consulta, en el coche **estacionado** (nunca manejando). La actividad
-   cambia el estímulo sin cortes.
-5. **Subtítulos siempre** (el sticker de subtítulos automáticos de Instagram): la mayoría ve
-   historias sin audio. Revisar que el subtítulo no tape la cara.
-6. **Una sola historia por serie**: si se va por otro lado, se corta y se deja para otro día.
-7. **Clips de hasta 60 segundos**, pero el primero corto (10-20 s) para no perder a la que decide
-   en los primeros segundos.
-8. **Cierra con pregunta o "compártelo"**, igual que las demás series.
-9. **Lo que no cambia**: tono sereno, sin humor de influencer, sin anécdotas inventadas, sin datos
-   de pacientes, señales de alarma en texto (no solo dichas), y nada de su hijo que ella no quiera.
+**El yapping es contar algo que pasó, no dar una clase.** Si no hay algo que le haya pasado a Tania
+(en casa o en consulta, contado sin datos del paciente), **no se hace yapping**: se usa el formato
+A o B. Un yapping sin historia real suena forzado.
+
+1. **Empieza contando, no enseñando:** *"Oigan, les tengo que contar lo que me pasó el
+   domingo…"*. El gancho es la promesa de una historia, no un dato.
+2. **Se cuenta en orden, como pasó:** qué pasó → qué sintió o pensó ella (también la pediatra
+   duda) → qué hizo o qué contestó → qué le quedó. El dato médico **sale dentro de la historia**,
+   dicho como se lo diría a una amiga: correcto, pero sin tono de consulta formal.
+3. **Lenguaje hablado de verdad:** "oigan", "o sea", "chípil", frases cortas, pausas. Nada de
+   "primero, segundo, tercero".
+4. **2-4 clips**, mientras hace algo cotidiano y real (café, ropa, arreglarse, el coche
+   **estacionado**; nunca manejando). Subtítulos automáticos siempre.
+5. **Máximo una historia de texto** en la serie, y solo si hace falta guardar algo (señales de
+   alarma completas o una frase). Si el tema es de seguridad, las señales van ahí completas; si no,
+   basta una línea natural dentro de la plática ("si lo ves con que le cuesta respirar, eso no se
+   espera").
+6. **El agente entrega un "así lo contaría" de referencia**, escrito como se habla, para que Tania
+   lo **lea una vez y lo cuente con sus palabras**, no para memorizar. Lo médico que deba quedar
+   exacto se marca en negritas dentro del texto.
+7. **Cierra con pregunta o "compártelo"**.
+8. **Lo que no cambia:** sin anécdotas inventadas (todo lo que no confirmó Tania va como
+   `[PENDIENTE: confirmar que pasó]`), sin datos de pacientes, sin humor de influencer, sin su
+   hijo si ella no quiere.
 
 ## Cómo lo entrega el agente
 
 ```
-FORMATO: C · Yapping   Actividad: <qué hace mientras habla>   Lugar: <dónde>
-Clips: <n> · duración aprox. <total>   Subtítulos: sí
+FORMATO: C · Yapping   Lo que pasó: <la historia real, en una línea>   Actividad: <qué hace>
+Clips: <2-4>   Subtítulos: sí
 
-CLIP 1 (10-20 s) · Gancho
-Primera frase (exacta): "…"
-Texto encima (opcional, ≤6 palabras): "…"
-
-CLIP 2 · Puntos (con tus palabras)
-- <idea 1, palabras clave>
-- <idea 2>
-Frase médica exacta (si hay): "…"
-
-CLIP 3 …
-
-CIERRE (exacto): "…"   Sticker: <pregunta / encuesta>
+CLIP 1 · "Así lo contaría": "<texto hablado, natural>"   Texto encima (opcional): "<≤6 palabras>"
+CLIP 2 · "Así lo contaría": "…" (lo médico exacto, en negritas)
+…
+CIERRE: "<pregunta o compártelo>"   Sticker: <encuesta / caja>
+(Opcional) Historia de texto para guardar: <señales o frase>
 ```
 
 ## Qué revisa el verificador en un yapping
 
-- ¿La primera frase detiene **sin ver** y **sin oír** (con subtítulos)?
-- ¿Los puntos siguen un "pero / por eso", o son temas sueltos?
-- ¿Las frases médicas están exactas y las señales de alarma también van en texto?
-- ¿La actividad es real y segura (nada de manejar)?
-- ¿Algo de lo que diría "libre" podría sonar a influencer o a regaño?
+- ¿Se siente como **una historia que pasó**, o como una clase con pausas?
+- ¿Lo que pasó es real (confirmado por Tania)?
+- ¿El dato médico está dentro de la plática y es correcto?
+- ¿La primera frase detiene con subtítulos y sin ver el resto?
+- ¿La actividad es real y segura?
 
 ## Fuentes
 
