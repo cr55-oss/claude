@@ -5,7 +5,7 @@
 | Formato | Qué es | Cuándo conviene |
 |---|---|---|
 | **A. Imagen + texto** | Fotos de cosas y fondos lisos con texto; casi sin hablar | Días con poco tiempo o sin ganas de salir a cuadro; temas de seguridad que deben leerse |
-| **A2. Solo fondos (sin fotos)** | Fondos lisos o de textura con texto + 1 elemento visual (emoji grande, GIF o sticker de Instagram); cero fotos | Días en que no se tomaron fotos. Reglas: H1 con un elemento visual grande que se entienda sin leer; ≤15 palabras por historia; cambiar de color cada 1-2; la frase con remate se revela en 2 historias iguales (la 2ª agrega la última línea); 1 color serio solo para seguridad |
+| **A2. Solo fondos (sin fotos)** | Fondos lisos o de textura con texto + 1 elemento visual (emoji grande, GIF o sticker de Instagram); cero fotos | Días en que no se tomaron fotos. Reglas: H1 con un elemento visual grande que se entienda sin leer; a sus mamás les encanta leer: texto narrativo en líneas cortas (hasta ~45 palabras), pero H1 se lee en 2 segundos; cambiar de color cada 1-2; la frase con remate se revela en 2 historias iguales (la 2ª agrega la última línea); 1 color serio solo para seguridad |
 | **B. Tania hablando con guion** | Selfies cortas con frases escritas palabra por palabra | Cuando la frase exacta importa (dato médico, giro aprobado) |
 | **C. Yapping** | Tania hablando a cámara **sin guion**, como en una videollamada con una amiga, en 3-6 clips seguidos, mientras hace algo cotidiano | Storytime, opinión, reflexión, comunidad, algo que le pasó; días en que tiene energía para hablar |
 
