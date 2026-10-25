@@ -17,6 +17,27 @@ mecánica, adaptada a la voz de Tania.
 
 Si falla una, no va.
 
+## Calibración de tono (lo primero que hay que leer)
+
+El curso de stories usa mucho humor; **la marca de Tania no**. Su guía dice: humor
+**inteligente, muy ocasional, nunca infantil, nunca a costa de nadie**, y una voz **serena,
+elegante, segura, cercana como en consulta**. Lo que se copia del curso es **el principio**
+(cambiar el estímulo para que no se vayan), **no la cantidad de humor**.
+
+- **Máximo 1-2 momentos de humor por serie**, y siempre de ironía suave o de su propia
+  experiencia ("Mismo frijol. Otro sabor."). Los demás "respiros" son **calidez, un momento
+  personal, un cambio visual o una sonrisa**, no chistes.
+- **Emojis: máximo 1-2 por serie.** Nunca 😂 🙄 🤫 🙈 ni cadenas de emojis.
+- **Prohibido** (la primera versión del agente cayó en esto y el usuario lo rechazó):
+  - Títulos de broma o dramáticos: "Operación: esconder el consomé", "Sobre mi cadáver".
+  - Chistes de suegra o de abuela, aunque sean "con cariño": la familia se menciona con respeto
+    y se le reconoce lo que sí hace bien.
+  - Exageraciones imprecisas ("casi pura sal"): Tania habla con precisión ("Lo que sabemos…",
+    "Lo recomendable es…").
+  - "Patrimonio nacional", "bienvenida al club" y frases de influencer en general.
+- **Prueba de voz:** lee la historia en voz alta. ¿Así hablaría Tania en su consulta, con una
+  mamá preocupada enfrente? Si suena a comediante o a influencer, se reescribe.
+
 ## Regla principal: el humor se muestra, no se explica
 
 En historias, lo que hace reír es **lo que se ve**: la reacción real (la cara de Tania, la mueca
@@ -73,8 +94,8 @@ un chiste planeado. Solo se repite la toma si el error cambia el sentido médico
 ## Dónde va en la secuencia (humor como ritmo)
 
 El curso de stories usa el humor para **cambiar el estímulo** entre bloques de valor, no como
-adorno. Por eso en la estructura base (modo 1, recurso gratuito) hay hasta 5 bloques de humor en 12
-historias. Para no sonar a influencer:
+adorno. En la plantilla mensual esas columnas se llaman "Humor 1-5"; **en la marca de Tania son
+"respiros"**: la mayoría son calidez o identificación, y solo 1-2 llevan humor. Además:
 
 - Al menos la mitad de esos bloques son **identificación** ("jaja, soy yo") y no chiste puro.
 - **H1-H3**: humor o identificación fuerte. Deciden si se siguen viendo las demás.

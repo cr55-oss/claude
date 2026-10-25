@@ -35,16 +35,16 @@ con el seguimiento de +1 y +3 días y con los modos 3 (objeción) y 2 (venta dir
 |---|---|---|---|
 | 1 | **Gancho** | 😄🎥 | Uno de los 5 ganchos, 8-12 s |
 | 2 | **Gancho contexto** | 😄 | Explica el gancho |
-| 3 | **Humor 1** | 😄🖼️ | Identificación (de `05-comida-ac` o `03-casa-mama`) |
-| 4 | **Humor 2** | 😄💬 | Sticker en el momento de tensión: *"¿Tú qué le dirías?"* |
-| 5 | **Humor 3 / contexto** | 😄 | Puente: *"Te explico lo que sí sabemos…"* (fondo liso o layout) |
+| 3 | **Respiro 1 ("Humor 1" en la plantilla)** | 💬 | Identificación: encuesta sobre lo que ella vive |
+| 4 | **Respiro 2** | 💬 | Resultado de la encuesta, sin culpa: *"Es muy común, y tiene solución."* |
+| 5 | **Respiro 3 / contexto** | 🩺 | Puente: *"Te explico lo que sabemos…"* (fondo liso o layout) |
 | 6 | **Valor 1** | 🩺🧾🎥 | POV o selfie + captura de la lección del curso |
 | 7 | **Valor 2** | 🩺🧾 | Ídem |
-| 8 | **Humor 4** | 😄 | Respiro (cambio de lugar o de formato; sin chiste si es seguridad) |
-| 9 | **Humor 5** | 😄 | Espontáneo (si se rió o la interrumpieron grabando, se deja) |
+| 8 | **Respiro 4** | 😄 | Momento personal o cambio visual (su especiero, su cocina) |
+| 9 | **Respiro 5** | 😄 | El único guiño de humor de la serie, inteligente (*"Mismo frijol. Otro sabor."*) |
 | 10 | **Valor 3** | 🩺🧾 | El punto más útil, guardado para el final |
 | 11 | **CTA al recurso** | 🛒 | *"Escríbeme [PALABRA] y te mando gratis [RECURSO]."* + captura o adelanto del recurso |
-| 12 (opc.) | **Cierre ligero** | 😄 | Baja la tensión después del CTA |
+| 12 (opc.) | **Cierre** | 🩺 | Tranquilizador o *"Compártelo con otra mamá"* (CTA de su guía) |
 
 ### Seguimiento por DM para cerrar la venta (lo que convierte el recurso en compra)
 

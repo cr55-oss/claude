@@ -32,12 +32,15 @@ Si falla una, se cambia el gancho antes de escribir lo demás.
 
 ## Banco de pares para alimentación complementaria
 
+Todos tienen que pasar la **prueba de voz** de `humor-identificacion.md` (calibración de tono):
+si el texto suena a influencer, se ajusta a su voz antes de usarlo.
+
 | # | H1 (lo que se ve) | H2 (identificación) | Encaja con |
 |---|---|---|---|
-| 1 | El perro sentado bajo la silla alta, mirando fijo hacia arriba. *"El verdadero ganador de la AC."* | *"Si tu perro engordó desde que tu bebé empezó a comer… bienvenida."* | Diversión, comunidad |
+| 1 | El perro sentado bajo la silla alta, mirando fijo hacia arriba. *"El verdadero ganador de la AC."* | *"Si en tu casa también hay alguien esperando lo que cae… es normal que caiga tanto."* | Diversión, comunidad |
 | 2 | La cara del bebé probando brócoli por primera vez (mueca), en cámara lenta | *"Y tú pensando: ¿ya nunca le va a gustar? ¿lo traumé?"* | Rechazo (M6), recurso |
 | 3 | Tania con bata y aguacate embarrado. *"Pediatra, 8 am."* | *"Sí, a mí también me escupen la comida."* | Autoridad + humanizar |
-| 4 | Scroll de su galería con decenas de fotos de pañales. *"Mi galería desde que comió sólidos."* | *"Si tú también le mandas fotos de popó a tu mamá, este es tu lugar."* | Popó (M4), comunidad |
+| 4 | Scroll de su galería con decenas de fotos de pañales. *"Mi galería desde que comió sólidos."* | *"Si tú también le has mandado una foto así a tu pediatra, te explico qué es normal."* | Popó (M4), comunidad |
 | 5 | Timelapse desde arriba del piso lleno de comida y ella limpiando | *"Comió 3 cucharadas. Limpié 40 minutos."* | Diversión, organización (M2) |
 | 6 | Su mano tecleando en Google: *"bebé hace arcadas es normal"*, *"cuánto come un bebé de 7 meses"* | *"Mis búsquedas a las 3 am de mamá primeriza. Y eso que soy pediatra."* | Calentar lanzamiento, venta |
 | 7 | Llamada familiar en altavoz: *"¿Y ya le das caldito de frijol?"* | *"Cada domingo. Hoy te digo cómo contestar sin pelear."* | Comentarios (M2), objeción |
@@ -49,28 +52,30 @@ Reglas que siguen vigentes: **en temas de seguridad** (atragantamiento, alergias
 alarma) H1 puede ser visual e intrigante, pero **sin humor**. Las fotos o videos del hijo de
 Tania, **solo como ella decida**.
 
-## Ejemplo completo: serie del recetario (modo 1)
+## Ejemplo completo: serie del recetario (modo 1), ya en la voz de Tania
 
-Gancho #9. El recetario promete algo concreto (*"comida con sabor, sin sal ni azúcar"*), no solo
-"recetas".
+Solo Tania y fotos de cosas. Un solo guiño de humor (H9), un emoji en toda la serie.
 
-1. (video: Tania prueba el puré, pausa, cara de decepción, mira a la cámara) **Probé lo que le
-   doy a mi hijo.**
-2. (selfie con la cuchara) *"Ahora entiendo por qué me lo escupe 😂"* **Si tu bebé también te
-   escupe la comida, quédate.**
-3. (video real del bebé haciendo la mueca) **El crítico:**
-4. Encuesta: **¿A tu bebé le pasa?** Lo escupe todo · Solo algunas cosas · Come de todo (¿cómo
-   le haces?)
-5. (fondo liso) **Lo que nadie te dice: sin sal no significa sin sabor.**
-6. (POV agregando comino, ajo y limón) *"Las hierbas y especias suaves sí se pueden desde que
-   empieza a comer. Lo que no va antes del año: sal, azúcar y miel."*
-7. (selfie, otro lugar) *"Y si lo escupe, no lo taches. A veces necesita probarlo muchas veces,
-   hasta 8 o 10, para aceptarlo."*
-8. (video: prueba la versión con especias, cara de "¡ahora sí!") **Versión 2. Aprobada por la
-   doctora.**
-9. (video del bebé comiendo, se usa lo que pase) **Aprobada por el crítico 🏆** / **El crítico
-   sigue sin convencerse. Vamos por el intento 3 😅**
-10. (portada del recetario) **Junté [número] recetas así: con sabor, sin sal y sin azúcar, para
-    6 a 12 meses.**
-11. (foto en el espejo) **Escríbeme RECETAS y te lo mando gratis 💛**
-12. **Pruébalas tú primero. Si a ti te gustan, ya vamos a la mitad 😅**
+1. (video: Tania prueba el frijol machacado sin sal, una pausa, una sonrisa leve a la cámara)
+   **Lo probé antes de dárselo a mi hijo.**
+2. (selfie en la cocina) *"Y entiendo la duda que más escucho en consulta: 'Doctora, si no le
+   pongo sal, ¿le va a saber a algo?'"* **¿Te lo has preguntado?**
+3. Encuesta: **¿Le pones sal o consomé a la comida de tu bebé?** A veces · Nunca · No sabía que
+   no se recomienda
+4. (fondo liso, con el resultado real) **Gracias por responder. Muchas no lo sabían, y es muy
+   común. Tiene solución.**
+5. (foto: la etiqueta de un consomé en polvo) *"Lo que sabemos: antes del año, sus riñones
+   todavía no manejan bien el exceso de sodio. Por eso lo recomendable es no añadir sal ni
+   consomé. Tampoco azúcar ni miel."*
+6. (POV machacando frijoles) *"Lo que sí vale mucho de la comida de casa: el frijol. Es una
+   gran fuente de hierro, y a partir de los 6 meses el hierro es prioridad."*
+7. (foto de su especiero) **Mi especiero se volvió mi mejor aliado.**
+8. (POV agregando comino, ajo y limón) *"Sin sal no significa sin sabor. Las hierbas y especias
+   suaves se pueden ofrecer desde el inicio."*
+9. (selfie: lo prueba de nuevo) **Mismo frijol. Otro sabor.**
+10. (selfie) *"Y si al principio lo rechaza, es normal. Sabemos que un alimento nuevo puede
+    necesitar varias exposiciones antes de aceptarlo. No te desanimes en el primer intento."*
+11. (foto + portada del recetario) **Reuní [número] recetas con este mismo principio: con
+    hierro, con sabor y sin sal añadida. Si te sirve, respóndeme RECETAS y te lo envío.**
+12. (foto del plato servido) **Comer en familia también se aprende, paso a paso. Si conoces a
+    una mamá con esta misma duda, compártelo con ella 💛**

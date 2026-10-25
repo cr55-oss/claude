@@ -98,7 +98,12 @@ Sigue `references/drive-fotos.md`. En resumen:
    visual va en esa misma historia (captura del temario, mensaje de una mamá).
 7. **Siempre termina en una acción** (la del modo).
 
-**Antes de escribir, busca en `references/casos-reales-curso.md` el caso real que más se
+**Antes de escribir, lee `references/tono-marca-dra-tania.md` completo y la sección "Calibración
+de tono" de `references/humor-identificacion.md`.** El método del curso da la estructura; **la voz
+es siempre la de Tania**: serena, elegante, segura, cercana como en consulta. Humor máximo 1-2
+veces por serie, emojis máximo 1-2.
+
+**Después, busca en `references/casos-reales-curso.md` el caso real que más se
 parezca al modo del día** y úsalo como molde (son cadenas publicadas, desarmadas historia por
 historia). **Incluye al menos una interacción por serie**: en los casos reales el humor sale de la
 interacción, no de chistes. **Por defecto Tania graba sola** (solo ella y fotos de cosas), así que
@@ -166,7 +171,11 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
 - [ ] ¿Lo abstracto tiene prueba visual?
 - [ ] ¿Termina en la acción del modo? Si es palabra clave, ¿se pide como respuesta escrita?
 - [ ] Venta: ¿llega después de dar valor o de mostrar demanda, sin presión ni urgencia falsa?
-- [ ] Humor: ¿se ríe de la situación? ¿lo diría en consulta? ¿nada en temas de seguridad?
+- [ ] **Prueba de voz:** leída en voz alta, ¿así hablaría Tania en consulta con una mamá
+  preocupada? ¿Máximo 1-2 momentos de humor y 1-2 emojis? ¿Nada de chistes de familia, títulos de
+  broma ni exageraciones? ¿Nada de humor en temas de seguridad?
+- [ ] ¿Tiene las dos notas: valida el sentir de la mamá (Cuidador) y da la respuesta con
+  autoridad (Sabio)?
 - [ ] Fotos: ¿sin pacientes identificables? ¿no repetí la misma foto en esta serie?
 - [ ] ¿Algún dato salió de la nada? → `[PENDIENTE]`.
 
