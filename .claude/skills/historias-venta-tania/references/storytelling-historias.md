@@ -83,7 +83,7 @@ la vulnerabilidad es la puerta, la enseñanza es el destino. Sin dramatizar y si
 5. **El dato o la acción** que la mamá se lleva (prueba visual si aplica).
 6. **Giro a "tú":** *"Si a ti también…"* (empatía).
 7. **La nueva normalidad:** cómo está hoy.
-8. **CTA** (recurso, pregunta o compartir).
+8. **CTA** (recurso o pregunta; en historias no se pide compartir).
 
 ### B. "Pensé que… pero…" (creencia rota; 6 historias)
 Lo que ella creía (como mamá o al empezar la carrera) → el quiebre → lo que dice la evidencia →
@@ -133,8 +133,8 @@ adapta a un momento real suyo]`
 6. (selfie) *"Si a ti también se te congeló el corazón la primera vez, no hiciste nada mal. Es
    normal sentir miedo. Lo importante es saber reconocer la diferencia."*
 7. (foto: plátano en bastones en su plato) **Hoy come plátano como si nada.**
-8. (foto en el espejo) **Si conoces a una mamá que está por empezar, compártele esto. A mí me
-   habría ayudado leerlo antes.** `[o CTA a un recurso gratuito, si existe]`
+8. (foto en el espejo) **A mí me habría ayudado leer esto antes. ¿A ti qué te habría
+   ayudado saber?** (caja) `[o CTA a un recurso gratuito, si existe]`
 
 Prueba "pero/por eso": 2 → **pero** se me congeló todo (3) → **por eso** lo observé (4) → **por
 eso** la diferencia (5) → **pero** no estás sola (6) → **por eso** hoy come tranquilo (7). No hay

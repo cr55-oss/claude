@@ -10,7 +10,7 @@ Símbolos: 😄 humor o identificación · 🩺 valor o autoridad · 💬 intera
 Reglas en todos los modos: historia 1 = gancho y 2 = subgancho; **nunca más de 2 🩺 seguidas sin
 un cambio de estímulo**; cambio de formato cada 1-2 historias; **al menos 2-3 🎥**.
 
-Largos: modos de venta **8-10** (Tania va a las masas: importa el alcance y que la compartan,
+Largos: modos de venta **8-10** (Tania va a las masas: importa conectar con muchas y que respondan,
 no filtrar como en un producto caro); modos de conexión 5-7. Más de 10 solo en lanzamiento.
 
 ---
@@ -44,7 +44,7 @@ con el seguimiento de +1 y +3 días y con los modos 3 (objeción) y 2 (venta dir
 | 9 | **Respiro 5** | 😄 | El único guiño de humor de la serie, inteligente (*"Mismo frijol. Otro sabor."*) |
 | 10 | **Valor 3** | 🩺🧾 | El punto más útil, guardado para el final |
 | 11 | **CTA al recurso** | 🛒 | *"Escríbeme [PALABRA] y te mando gratis [RECURSO]."* + captura o adelanto del recurso |
-| 12 (opc.) | **Cierre** | 🩺 | Tranquilizador o *"Compártelo con otra mamá"* (CTA de su guía) |
+| 12 (opc.) | **Cierre** | 🩺 | Tranquilizador o una pregunta para que le cuenten |
 
 ### Seguimiento por DM para cerrar la venta (lo que convierte el recurso en compra)
 
@@ -130,7 +130,8 @@ interesadas. Se usa los días previos a abrir.
 
 ## Modo 6 · Comunidad · 5-7 historias · N1 → N2
 
-Objetivo: que se sientan parte, respondan y **compartan** (así llega a mamás nuevas).
+Objetivo: que se sientan parte y **le respondan** (encuesta, caja, pregunta). En historias no se pide
+"compártelo": eso es de reels y carruseles. Aquí se conecta: cada respuesta acerca a esa mamá.
 
 | H | Bloque | Tipo | Ejemplo |
 |---|---|---|---|
@@ -139,7 +140,7 @@ Objetivo: que se sientan parte, respondan y **compartan** (así llega a mamás n
 | 3 | Respuestas de ayer (si las hay), sin nombres | 💬🧾 | Layout de respuestas: *"Esto me contaron"* |
 | 4 | Tania comparte lo suyo | 😄🖼️ | Su respuesta a la misma pregunta, como mamá |
 | 5 | Una idea útil corta | 🩺 | — |
-| 6 | Invitación a compartir | 💬 | *"Compártelo con una mamá que esté en lo mismo"* |
+| 6 | Invitación a contarle | 💬 | Caja o pregunta personal: *"¿A ti también te pasó? Cuéntame."* |
 | 7 (opc.) | Nueva pregunta para mañana | 💬 | Caja de preguntas |
 
 Ideas de pregunta: primer alimento de su bebé, la frase más rara que les han dicho, su "hack"

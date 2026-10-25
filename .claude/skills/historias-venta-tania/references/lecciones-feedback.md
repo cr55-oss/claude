@@ -16,9 +16,10 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Humor de influencer ("Operación: esconder el consomé", "sobre mi cadáver", chistes de suegra, 😂🤫🙈) | No es el tono de Tania | Humor 1-2 veces por serie, inteligente; emojis 1-2; la familia con respeto |
 | "Le di su primer trozo de plátano" (en presente) | Su hija tiene ~2 años: es falso y se siente forzado | Solo escenas reales; lo de 6-12 meses desde la consulta |
 | Rehacer toda la serie con cada comentario | Se perdían las mejoras anteriores | **Capas**: un comentario ajusta su capa, no borra las demás |
-| Venta tipo producto caro (cupos, "vemos si calificas", cadenas de 12+) | Tania va a las masas | Alcance, compartir, recurso gratuito; venta de 8-10 historias |
+| Venta tipo producto caro (cupos, "vemos si calificas", cadenas de 12+) | Tania va a las masas | Alcance, conexión, recurso gratuito; venta de 8-10 historias |
 | Todo era de alimentación complementaria | Tania es pediatra, neonatóloga y mamá: habla de crianza, lactancia, sueño, salud, desarrollo y más | Días de conexión rotan territorios (`temas-tania.md`); el curso solo en días de venta |
 | Yapping armado como clase (puntos, "frase médica exacta", listas) | No se siente como historia; tiene que ser natural | Yapping = contar algo que pasó, en orden, como a una amiga; el dato va dentro de la plática; sin momento real no hay yapping |
+| Cerrar historias con "compártelo con…" | Eso va en reels y carruseles; las historias son para conectar | Cierre = algo que la mamá responda: encuesta, caja o pregunta personal |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
 ## Lo que el verificador encontró en las pruebas (ya son reglas)

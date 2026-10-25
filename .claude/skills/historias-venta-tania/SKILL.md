@@ -43,7 +43,7 @@ territorios y el curso solo aparece en días de venta), `references/reglas-duras
 | "me dicen que…", "objeción" | **3. Objeción** | Palabra clave |
 | "último día", "cierre" | **4. Cierre** (solo con fecha real) | Link |
 | "calentar", "voy a lanzar" | **5. Calentar lanzamiento** | Encuesta o "avísame" |
-| "comunidad", "conectar", "que compartan" | **6. Comunidad** | Pregunta o "compártelo" |
+| "comunidad", "conectar" | **6. Comunidad** | Pregunta, encuesta o caja (que respondan; nunca "compártelo") |
 | "reflexión", "algo emocional" | **7. Reflexión** | Pregunta abierta |
 | "divertirnos", "algo ligero" | **8. Diversión** | Encuesta o quiz |
 | "mi día", "un tip" | **9. Día a día / Tip** | Pregunta o sticker |

@@ -31,8 +31,8 @@ de votos y comentarios indican cuánto resonó cada tema en ese foro, no en la a
 El curso de stories está pensado para productos caros: cadenas largas para **filtrar**, escasez
 de lugares, "vemos si puedes trabajar con nosotros". Tania va **a las masas**: una comunidad muy
 grande de mamás y un curso accesible. Para eso:
-- Importa más **el alcance y que la compartan** que filtrar. Cerrar con *"compártelo con otra
-  mamá"* es tan importante como la palabra clave.
+- Importa más **conectar con muchas y que le respondan** que filtrar. En historias el cierre es
+  una pregunta, encuesta o caja (pedir "compártelo" es de reels y carruseles).
 - **Cadenas de venta de 8-10 historias**, no de 12+.
 - **Nada de "cupos" ni de "vemos si calificas".** El CTA es generoso: *"Si te sirve, respóndeme
   RECETAS y te lo envío."*

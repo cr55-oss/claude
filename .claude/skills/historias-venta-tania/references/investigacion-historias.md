@@ -41,8 +41,8 @@ en 24 h); lo que sí hay es cómo está armado su negocio.
 - **Cada respuesta a una historia hace dos cosas:** abre el embudo y sube a Tania en la fila de
   historias de esa mamá al día siguiente. Por eso los días de compartir, que generan respuestas,
   hacen que los días de venta se vean más.
-- **Pedir que la compartan** ("mándaselo a una mamá que esté en lo mismo") es una buena
-  acción para los modos de comunidad y diversión.
+- **En historias no se pide "compártelo"** (decisión del usuario: eso va en reels). Los modos de
+  comunidad y diversión cierran con algo que la mamá responda.
 
 ## 3. Embudo con palabra clave: lo que funciona (y una trampa técnica)
 

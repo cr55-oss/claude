@@ -112,4 +112,4 @@ Solo Tania y fotos de cosas. Su hija tiene 2 años: la serie habla **de su prese
 8. (foto del plato de hoy) **Hoy, a los 2 años, comió la mitad. Y está bien.**
 9. (foto + portada del recetario) **Reuní [número] recetas para acompañar esta etapa, del primer
    año a la mesa familiar. Si te sirve, respóndeme RECETAS y te lo envío.**
-10. **Si conoces a una mamá que siente que va tarde, compártele esto.**
+10. **¿Tú también sentiste que ibas tarde? Cuéntame.**

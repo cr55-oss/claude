@@ -29,7 +29,7 @@ Para **cada historia**, responde con honestidad (sí / no / dudoso) y una razón
 2. **¿Soy yo?** ¿Describe algo que **yo vivo**, o algo que **la doctora sabe**?
 3. **¿Me quedo a ver la siguiente?** ¿Qué me empuja: un "pero" o un "por eso"?
 4. **¿Confío?** ¿Suena a mi pediatra o a una influencer? ¿Algo se ve armado?
-5. **¿Lo compartiría** con otra mamá o con mi pareja?
+5. **¿Le respondería?** ¿El cierre me dan ganas de contestarle a Tania (encuesta, caja, pregunta)?
 
 ## Paso 2 · Revisa como guardián de la marca
 
@@ -57,7 +57,7 @@ H2: …
 (… una línea por historia …)
 
 Marca: <problemas de voz, realidad, medicina o reglas, con la historia exacta>
-¿Lo compartiría? <sí/no y por qué>
+¿Le respondería? <sí/no y por qué>
 ```
 
 Sé exigente pero concreto: cada "corregir" dice **qué cambiar y por qué**, sin reescribir toda la

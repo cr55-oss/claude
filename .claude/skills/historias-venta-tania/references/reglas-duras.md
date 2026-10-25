@@ -12,7 +12,7 @@
 - Productos (solo para días de venta): curso de Alimentación Complementaria (6 módulos, sobre
   todo 6-12 meses) con su recurso gratuito (recetario) `[PENDIENTE: nombre, número de recetas,
   link]`, y curso de sueño `[PENDIENTE: confirmar si está activo]`.
-- Estrategia **masiva**: comunidad grande de mamás; alcance y compartidos antes que filtrar.
+- Estrategia **masiva**: comunidad grande de mamás; conectar con muchas y que respondan, antes que filtrar.
 
 ## No negociables
 

@@ -25,7 +25,7 @@ crédito a una experta no verificado; "ya no está con nosotros" también es euf
 | 4 | Fondo liso cálido apagado | Es tu bisabuelo. Ya murió. Lo queremos mucho, y por eso le ponemos lo que le gustaba. / chico: ¿Ya le dijiste "se durmió"? Se aclara poco a poco. | — |
 | 5 | Foto de su ofrenda (o cempasúchil en su casa, cerca de una vela) | A: En mi casa también la ponemos. Y cada año, la ofrenda se vuelve suya también. / B: En mi casa estos días hay cempasúchil. Y cada año, estas fechas se vuelven suyas también. | — |
 | 6 | POV 0.5: su mano sube una veladora a un lugar alto | Veladoras donde no lleguen y el altar lejos de niños y mascotas (Protección Civil). / chico: Bebidas, cigarros y dulces pequeños, también arriba. Si usas velas de pilas: tapa atornillada y repuestos guardados. | "Y algo práctico: si ahora se acerca a mirar, también se acerca a la vela." |
-| 7 | Selfie foto + caja | Compártelo con una mamá que este año también va a escuchar "¿quién es?" 🧡 / Caja: Con ofrenda o sin ella: ¿qué le contestas tú cuando pregunta? | — |
+| 7 | Selfie foto + caja | (Se quitó "compártelo": en historias se cierra con algo que respondan) 🧡 / Caja: Con ofrenda o sin ella: ¿qué le contestas tú cuando pregunta? | — |
 
 **Respuestas a la caja** (Tania o su equipo, personalizadas, nunca pegadas igual ni por bot):
 - *Comparte lo que dijo (y es claro):* "Gracias por contarme. Eso que le dijiste es justo lo que

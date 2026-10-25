@@ -43,7 +43,7 @@ A o B. Un yapping sin historia real suena forzado.
 6. **El agente entrega un "así lo contaría" de referencia**, escrito como se habla, para que Tania
    lo **lea una vez y lo cuente con sus palabras**, no para memorizar. Lo médico que deba quedar
    exacto se marca en negritas dentro del texto.
-7. **Cierra con pregunta o "compártelo"**.
+7. **Cierra con una pregunta** (encuesta o caja), nunca con "compártelo".
 8. **Lo que no cambia:** sin anécdotas inventadas (todo lo que no confirmó Tania va como
    `[PENDIENTE: confirmar que pasó]`), sin datos de pacientes, sin humor de influencer, sin su
    hija si ella no quiere.
@@ -57,7 +57,7 @@ Clips: <2-4>   Subtítulos: sí
 CLIP 1 · "Así lo contaría": "<texto hablado, natural>"   Texto encima (opcional): "<≤6 palabras>"
 CLIP 2 · "Así lo contaría": "…" (lo médico exacto, en negritas)
 …
-CIERRE: "<pregunta o compártelo>"   Sticker: <encuesta / caja>
+CIERRE: "<pregunta>"   Sticker: <encuesta / caja>
 (Opcional) Historia de texto para guardar: <señales o frase>
 ```
 
