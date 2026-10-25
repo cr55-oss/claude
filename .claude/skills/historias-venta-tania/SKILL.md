@@ -114,6 +114,7 @@ historia se fue la mayoría y qué capa ajustar. Anótalo en `lecciones-feedback
 
 - `references/reglas-duras.md`: contexto real de Tania y reglas no negociables. **Se lee primero.**
 - `references/lecciones-feedback.md`: lo que el usuario rechazó y aprobó. **Se lee primero.**
+- `references/ejemplos-modelo.md`: series que pasaron por todo el equipo, con lo que corrigió el verificador.
 - `references/temas-tania.md`: todos sus territorios, con síntomas de ejemplo y la regla de rotación.
 - `references/sintoma-vs-problema.md`: síntoma antes que problema; banco síntoma → problema.
 - `references/voz-de-la-mama.md`: foros, datos de Tania, estrategia masiva.

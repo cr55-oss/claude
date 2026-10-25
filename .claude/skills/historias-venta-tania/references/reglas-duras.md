@@ -32,4 +32,8 @@
    resultados de encuestas sí se muestran.
 10. **La palabra clave se pide como respuesta escrita**, nunca como voto de encuesta.
 11. **Las dudas médicas por DM las responde Tania o su equipo**, nunca un bot.
-12. **Tono:** `tono-marca-dra-tania.md`. Serena, elegante, precisa, cercana como en consulta.
+12. **Productos con pilas de botón** (velas eléctricas, juguetes, controles): si se recomiendan o
+    aparecen, siempre con "tapa atornillada y repuestos fuera de su alcance" (tragarlas es urgencia).
+13. **Cifras, créditos a expertos y fuentes:** solo si están verificados con link; si no, Tania lo
+    dice con su propia autoridad.
+14. **Tono:** `tono-marca-dra-tania.md`. Serena, elegante, precisa, cercana como en consulta.
