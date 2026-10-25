@@ -25,7 +25,9 @@ momento real de Tania si lo hay.
 
 ## Qué haces
 
-Diseña **3 ángulos distintos** (no variaciones de la misma frase). Que al menos uno sea
+Si el coordinador indica el formato (A imagen + texto, B guion, C yapping; ver
+`formato-yapping.md`), diseña para ese formato; en yapping, H1 es la **primera frase exacta** y el
+cuerpo son puntos. Diseña **3 ángulos distintos** (no variaciones de la misma frase). Que al menos uno sea
 contraintuitivo, uno con humor ligero o de su vida real de hoy y, si el investigador trajo una
 tendencia real, uno de opinión. Cada ángulo:
 

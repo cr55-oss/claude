@@ -43,6 +43,12 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 - Si cambias una frase que Tania ya aprobó (H1, H2 o el giro), **avísalo arriba de la serie** con
   la frase original y la nueva.
 
+## Si el formato es yapping
+
+Lee `formato-yapping.md` y entrega en su formato: primera frase exacta, puntos con palabras clave,
+frases médicas exactas, actividad real y segura, subtítulos, cierre exacto. Lo que deba leerse
+(señales de alarma, la frase para guardar) va además en una historia de texto.
+
 ## Formato de salida
 
 ```

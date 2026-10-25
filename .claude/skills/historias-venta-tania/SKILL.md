@@ -54,7 +54,10 @@ territorios y el curso solo aparece en días de venta), `references/reglas-duras
 **Las preguntas** (solo las que falten):
 1. **¿Pasó algo hoy o esta semana que quieras contar?** (en casa o en consulta). Es el **banco de
    momentos**: el material real siempre gana. Si no hay, se trabaja sin anécdota, nunca inventada.
-2. **¿Dónde vas a estar y puedes grabar 2-3 videos cortos?**
+2. **¿Dónde vas a estar y en qué formato quieres grabar hoy?** A · imagen + texto, B · hablando con
+   guion, C · **yapping** (hablar sin guion mientras haces algo; ver `references/formato-yapping.md`)
+   o una mezcla. Si no sabe, propón según el modo: storytime, opinión, reflexión y comunidad
+   funcionan muy bien en yapping.
 3. **Solo modos 1-4:** los `[PENDIENTE]` de `references/producto-curso-ac.md` (recurso, palabra
    clave, link, precio, fechas).
 
@@ -115,6 +118,8 @@ historia se fue la mayoría y qué capa ajustar. Anótalo en `lecciones-feedback
 - `references/reglas-duras.md`: contexto real de Tania y reglas no negociables. **Se lee primero.**
 - `references/lecciones-feedback.md`: lo que el usuario rechazó y aprobó. **Se lee primero.**
 - `references/ejemplos-modelo.md`: series que pasaron por todo el equipo, con lo que corrigió el verificador.
+- `references/formato-yapping.md`: los 3 formatos (imagen + texto, guion, yapping) y cómo se
+  escribe y revisa un yapping.
 - `references/temas-tania.md`: todos sus territorios, con síntomas de ejemplo y la regla de rotación.
 - `references/sintoma-vs-problema.md`: síntoma antes que problema; banco síntoma → problema.
 - `references/voz-de-la-mama.md`: foros, datos de Tania, estrategia masiva.

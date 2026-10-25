@@ -41,6 +41,10 @@ Para **cada historia**, responde con honestidad (sí / no / dudoso) y una razón
 - **Reglas:** capturas de DMs, palabra clave como voto, escasez falsa, promesas sobre el bebé.
 - **Lecciones:** ¿repite algo que está en "Rechazado" de `lecciones-feedback.md`?
 
+## Si la serie es yapping
+
+Aplica también la sección "Qué revisa el verificador en un yapping" de `formato-yapping.md`.
+
 ## Qué devuelves
 
 ```
