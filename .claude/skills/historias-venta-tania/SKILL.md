@@ -98,6 +98,12 @@ Sigue `references/drive-fotos.md`. En resumen:
    visual va en esa misma historia (captura del temario, mensaje de una mamá).
 7. **Siempre termina en una acción** (la del modo).
 
+**Para los modos 1, 5, 6, 7 y 9, lee también `references/storytelling-historias.md`**: la mamá
+es la protagonista y Tania la guía; la serie gira alrededor de **un solo momento real**; entre
+historia e historia cabe un "pero" o un "por eso", nunca un "y luego"; y la emoción final es la
+del modo (alivio, pertenencia, esperanza; nunca tristeza ni miedo). **Pregunta primero por un
+momento real de Tania**; si no hay, usa una estructura sin anécdota y no inventes.
+
 **Primero, lee `references/voz-de-la-mama.md`**: lo que vive, dice y teme la mamá (foros), los
 datos de Tania (su vida de mamá duplica sus vistas: es el gancho por defecto; los lunes son de
 preguntas) y la estrategia masiva (alcance y compartidos, cadenas de venta de 8-10, sin cupos ni
@@ -182,6 +188,8 @@ que explica: eso es apertura de reel, no de historia. Mecánicas de texto para H
 - [ ] ¿Tiene las dos notas: valida el sentir de la mamá (Cuidador) y da la respuesta con
   autoridad (Sabio)?
 - [ ] Fotos: ¿sin pacientes identificables? ¿no repetí la misma foto en esta serie?
+- [ ] Storytelling: ¿hay un momento concreto? ¿Entre cada historia cabe "pero" o "por eso"
+  (no "y luego")? ¿Gira hacia "tú" antes del final? ¿Termina con la emoción del modo?
 - [ ] ¿Algún dato salió de la nada? → `[PENDIENTE]`.
 
 ## Paso 6 — entregar
@@ -232,6 +240,8 @@ documento de registro (ver `references/drive-fotos.md`), propón anotarlo ahí.
 - `references/producto-curso-ac.md`: temario real, ángulos, objeciones, pruebas visuales, datos
   comerciales y recurso gratuito (con pendientes).
 - `references/curso-stories-aprendizajes.md`: el método completo del curso traducido a Tania.
+- `references/storytelling-historias.md`: cómo contar (evidencia, 7 principios, emociones por
+  modo, 5 estructuras, banco de momentos y un ejemplo completo).
 - `references/voz-de-la-mama.md`: investigación en foros (8 tensiones de la mamá con sus frases),
   datos de Tania, estrategia masiva y ganchos derivados. **Se lee primero.**
 - `references/investigacion-historias.md`: datos de retención, cómo ordena Instagram las
