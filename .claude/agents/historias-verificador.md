@@ -39,6 +39,10 @@ Para **cada historia**, responde con honestidad (sí / no / dudoso) y una razón
   de familia ni exageraciones.
 - **Realidad:** ¿todo lo puede grabar Tania sola? ¿Alguna escena con su hija en una etapa que ya
   pasó? ¿Alguna anécdota, porcentaje o frase de consulta que parece inventada?
+- **¿Demasiado médico?** En historias rara vez gusta: si hay más de media línea de explicación
+  médica (fuera de un día de seguridad), marca "mover a reel".
+- **Producto recomendado:** ¿es algo que Tania sí usa? ¿Edad de la etiqueta, piezas pequeñas,
+  imanes, pilas de botón, cordones? ¿Se dice si es colaboración?
 - **Medicina:** ¿algún dato incorrecto o demasiado absoluto? ¿Humor en un tema de seguridad?
 - **Reglas:** capturas de DMs, palabra clave como voto, escasez falsa, promesas sobre el bebé.
 - **Lecciones:** ¿repite algo que está en "Rechazado" de `lecciones-feedback.md`?

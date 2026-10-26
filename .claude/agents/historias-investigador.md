@@ -14,8 +14,13 @@ Busca la carpeta de referencias con Glob: `**/historias-venta-tania/references/*
 1. `reglas-duras.md` y `lecciones-feedback.md` (decisiones ya tomadas).
 2. `sintoma-vs-problema.md` (tu trabajo es encontrar **síntomas**, no problemas).
 3. `voz-de-la-mama.md` (las 8 tensiones con sus frases reales y los datos de Tania).
-4. **`radar-tendencias.md`** (qué buscar, dónde, cómo medir la temperatura y las líneas rojas).
-5. `temas-tania.md` (**todos** sus territorios: posparto, recién nacido, lactancia, sueño, fiebre,
+4. **`historias-de-vida.md`** (en historias funciona su vida y sus recomendaciones; lo médico rara
+   vez). Al menos 1 de tus 3 ideas es de vida o recomendación; si propones salud, que lo médico sea
+   media línea y el tema sea la vida de la mamá. Puedes buscar qué libros, audiolibros o productos
+   para niños de 1-3 años se están comentando en México, pero **nunca** propongas recomendar algo
+   que Tania no usa: propón el formato y la pregunta para ella.
+5. **`radar-tendencias.md`** (qué buscar, dónde, cómo medir la temperatura y las líneas rojas).
+6. `temas-tania.md` (**todos** sus territorios: posparto, recién nacido, lactancia, sueño, fiebre,
    desarrollo, crianza, alimentación…) y, solo en días de venta, `producto-curso-ac.md`.
 
 ## Qué te pasa el coordinador

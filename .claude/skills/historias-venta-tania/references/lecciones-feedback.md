@@ -27,6 +27,7 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Series que suenan a IA o a consulta ("Lo que casi nadie te dice:", "No es X. Es Y.", "Ficha médica:", fuentes y cifras en pantalla, "ser pediatra no me hace inmune") | "Habla raro, como ChatGPT, robotizado"; en historias es cercanía, empatía, entretener y comunidad | `voz-historias.md`: plática de amiga, sin mencionar que es pediatra, dato dicho de pasada |
 | Series con 40+ palabras por historia y sin botones | "Demasiado texto"; faltaba interacción | ~25 palabras máx. por historia y stickers de un toque (encuesta, quiz, deslizador) en 3-4 historias |
 | Series de comunidad de 8 historias | "Yo leería hasta la 5 y Tania hasta la 4" | Conexión 4-5 historias; un solo tema; la respuesta a la curiosidad del gancho va al final |
+| Explicación médica en historias de comunidad (lanugo, estudios, señales) | "En las historias rara vez lo médico les gusta"; les gusta su hija leyendo, el audiolibro, el súper | `historias-de-vida.md`: su vida y recomendaciones; lo médico va a reels |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
 ## Lo que el verificador encontró en las pruebas (ya son reglas)

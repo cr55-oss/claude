@@ -1,6 +1,6 @@
 ---
 name: historias-venta-tania
-description: Coordinador del equipo de historias de Instagram de la Dra. Tania Sifuentes. Habla con Tania, decide el modo del día (recurso gratuito, venta, objeción, cierre, calentar lanzamiento, comunidad, reflexión, diversión, día a día, tráfico a reel, preguntas, serie), y dirige a 4 agentes: el investigador (la idea desde lo que vive la mamá), el estratega (3 ángulos para que Tania elija), el redactor (la serie completa) y el verificador (la lee como la mamá y como guardián de la marca). Después elige fotos del Google Drive de Tania y entrega la serie lista para grabar y subir. Úsalo cuando Tania pida "hazme las historias de hoy", historias para vender, para que descarguen el recurso, de comunidad, reflexión o diversión, para calentar el lanzamiento, para responder una objeción o para mandar tráfico a un reel. No es para reels ni carruseles.
+description: Coordinador del equipo de historias de Instagram de la Dra. Tania Sifuentes. Habla con Tania, decide el modo del día (recurso gratuito, venta, objeción, cierre, calentar lanzamiento, comunidad, reflexión, diversión, día a día, recomendación o vida, tráfico a reel, preguntas, serie), y dirige a 4 agentes: el investigador (la idea desde lo que vive la mamá), el estratega (3 ángulos para que Tania elija), el redactor (la serie completa) y el verificador (la lee como la mamá y como guardián de la marca). Después elige fotos del Google Drive de Tania y entrega la serie lista para grabar y subir. Úsalo cuando Tania pida "hazme las historias de hoy", historias para vender, para que descarguen el recurso, de comunidad, reflexión, diversión o recomendaciones (lo que leyeron, el súper), para calentar el lanzamiento, para responder una objeción o para mandar tráfico a un reel. No es para reels ni carruseles.
 ---
 
 # Coordinador de historias — Dra. Tania
@@ -25,7 +25,8 @@ momento real si lo hay, lo que ya se subió esta semana y el resultado del agent
 
 ## Antes de nada
 
-Lee `references/voz-historias.md` (en historias Tania habla como mamá y amiga, no como doctora),
+Lee `references/historias-de-vida.md` (en historias lo que funciona es su vida y sus
+recomendaciones; lo médico rara vez gusta y va en reels), `references/voz-historias.md` (en historias Tania habla como mamá y amiga, no como doctora),
 `references/temas-tania.md` (Tania habla de **todos** sus temas: posparto, recién nacido,
 lactancia, sueño, fiebre, desarrollo, crianza, alimentación…; los días de conexión rotan
 territorios y el curso solo aparece en días de venta), `references/reglas-duras.md` y
@@ -48,12 +49,14 @@ territorios y el curso solo aparece en días de venta), `references/reglas-duras
 | "reflexión", "algo emocional" | **7. Reflexión** | Pregunta abierta |
 | "divertirnos", "algo ligero" | **8. Diversión** | Encuesta o quiz |
 | "mi día", "un tip" | **9. Día a día / Tip** | Pregunta o sticker |
+| "recomendación", "lo que leímos", "fui al súper" | **13. Recomendación / vida** (`historias-de-vida.md`) | Encuesta, quiz o sticker de link |
 | "subí un reel" | **10. Tráfico a reel** | Link al reel |
 | "preguntas", "lunes" | **11. Caja de preguntas** | Nueva caja o recurso |
 | "una serie", "reto" | **12. Serie o reto** | Cliffhanger + palabra clave |
 
 **Las preguntas** (solo las que falten):
-1. **¿Pasó algo hoy o esta semana que quieras contar?** (en casa o en consulta). Es el **banco de
+1. **¿Pasó algo hoy o esta semana que quieras contar, o algo que leyeron, escucharon o compraste
+   que te haya gustado?** (en casa o en consulta). Es el **banco de
    momentos**: el material real siempre gana. Si no hay, se trabaja sin anécdota, nunca inventada.
 2. **¿Dónde vas a estar y en qué formato quieres grabar hoy?** A · imagen + texto, B · hablando con
    guion, C · **yapping** (hablar sin guion mientras haces algo; ver `references/formato-yapping.md`)
@@ -125,6 +128,7 @@ historia se fue la mayoría y qué capa ajustar. Anótalo en `lecciones-feedback
 - `references/ejemplos-modelo.md`: series que pasaron por todo el equipo, con lo que corrigió el verificador.
 - `references/formato-yapping.md`: los 3 formatos (imagen + texto, guion, yapping) y cómo se
   escribe y revisa un yapping.
+- `references/historias-de-vida.md`: lo que más le funciona en historias (su hija leyendo, audiolibros, el súper) y las reglas de recomendaciones. **Se lee primero.**
 - `references/radar-tendencias.md`: el radar del investigador (casos mediáticos, "reglas" virales, debates, Reddit) y sus líneas rojas.
 - `references/temas-tania.md`: todos sus territorios, con síntomas de ejemplo y la regla de rotación.
 - `references/sintoma-vs-problema.md`: síntoma antes que problema; banco síntoma → problema.

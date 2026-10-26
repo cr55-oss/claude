@@ -270,3 +270,16 @@ modo 2 reemplaza al 1 del miércoles.
 | +1 a +4 | 3 · objeción (una por día), intercalado con 6 o 7 |
 | +5 | 11 · caja de preguntas sobre el curso |
 | Último día | 4 · cierre (solo si hay fecha real) |
+
+
+## Modo 13 · Recomendación / vida · 4-5 historias · N1 → N2
+
+Ver `historias-de-vida.md`. Solo lo que Tania usa de verdad (se pregunta antes).
+
+| H | Bloque | Ejemplo |
+|---|---|---|
+| 1 | Gancho de vida (su hija, el carrito, el coche) | Video de su hija con el libro + "Su nuevo favorito" + deslizador |
+| 2 | Por qué le gustó (a ella y a su hija), en plática | Lo que pasó cuando lo usaron, con humor |
+| 3 | El producto de cerca + sticker de link | Encuesta "¿Lo conocías?" |
+| 4 | Un detalle honesto (lo que no le gustó, para qué edad sí) | Quiz o encuesta |
+| 5 (opc.) | Cierre cálido | "¿Les paso más de estos?" (encuesta) |
