@@ -27,7 +27,12 @@ la de Tania.
 
 1. **Noticias de esta semana**: Google News México ("mamá", "bebé", "maternidad", "posparto",
    "guardería", "pediatra" + viral/polémica), Infobae, El Universal, Milenio, People en Español.
-2. **Reddit** (ordenar por "top" de la semana y ver el número de comentarios): r/Mommit,
+2. **Reddit** con el servidor MCP `reddit` (reddit-mcp-buddy): herramientas `browse_subreddit`
+   (`sort: "top"`, `time: "week"`), `search_reddit` y `get_post_details` (comentarios reales). Si no
+   aparecen, búscalas con ToolSearch ("reddit"). Para instalarlo en otra computadora:
+   `claude mcp add --transport stdio reddit -s user -- npx -y reddit-mcp-buddy@1.1.14`. Sin
+   credenciales de Reddit algunos datos (búsqueda, número de comentarios) pueden venir limitados.
+   Ordenar por "top" de la semana y ver el número de comentarios: r/Mommit,
    r/beyondthebump, r/NewParents, r/Parenting, r/BabyBumps, r/AmItheAsshole (filtrar bebé,
    suegra, embarazo), r/JUSTNOMIL, r/mexico, r/Mujeres. Si Reddit está bloqueado, prueba con la
    herramienta de scraping o busca el hilo en notas de prensa que lo citen.
