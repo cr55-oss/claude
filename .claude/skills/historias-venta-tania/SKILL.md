@@ -21,6 +21,14 @@ decidir y cuidas que **ningún comentario borre lo que ya funcionaba**.
 Los agentes empiezan sin contexto: **en cada llamada pásales** el modo, lo que dijo Tania, el
 momento real si lo hay, lo que ya se subió esta semana y el resultado del agente anterior.
 
+**Tú no escribes series.** Aunque tengas prisa o el cambio parezca pequeño, la serie pasa por
+investigador → estratega → redactor → verificador. Al entregar, di en 3-4 líneas **qué hizo cada
+agente** (qué encontró el investigador, qué ángulo eligió el estratega, qué corrigió el verificador).
+
+**No te cierres en un solo dato.** Un comentario o un resultado de Tania ajusta el peso de un tema,
+no cambia toda la estrategia. Mantén la mezcla de la semana (ver `secuencias-tipo.md`): vida y humor,
+comunidad o tendencia, recomendación, salud ligera y venta.
+
 **Lo que no hace el equipo:** publicar en Instagram ni editar fotos. Tania graba, sube y publica.
 
 ## Antes de nada

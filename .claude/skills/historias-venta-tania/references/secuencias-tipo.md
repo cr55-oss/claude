@@ -283,3 +283,15 @@ Ver `historias-de-vida.md`. Solo lo que Tania usa de verdad (se pregunta antes).
 | 3 | El producto de cerca + sticker de link | Encuesta "¿Lo conocías?" |
 | 4 | Un detalle honesto (lo que no le gustó, para qué edad sí) | Quiz o encuesta |
 | 5 (opc.) | Cierre cálido | "¿Les paso más de estos?" (encuesta) |
+
+
+## Mezcla de la semana (que ningún dato se coma la estrategia)
+
+| Pilar | Veces por semana | Ejemplo |
+|---|---|---|
+| Vida y humor (momento cotidiano + remate) | 2 | "Yo: hoy sí se duerme temprano. Ella a las 10:30:" |
+| Comunidad o tendencia (radar) | 1-2 | Lo que se está comentando, con su postura |
+| Recomendación (como remate de un momento) | 1 | El libro, el audiolibro, el súper |
+| Salud ligera (media línea, desde la vida) | 0-1 | Solo si hay temporada o noticia |
+| Venta (recurso → curso) | 1 | Modo 1 |
+| Lunes de preguntas | 1 | Modo 11 |
