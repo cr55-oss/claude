@@ -34,6 +34,11 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 
 ## Reglas de forma
 
+- **Primero el mensaje en una frase** (arriba de la serie): qué se lleva la mamá ("el libro favorito
+  de su hija y por qué le gusta"). Si no cabe en una frase, la serie no está clara. **H1 dice de qué
+  se trata, sin acertijos**: si alguien solo ve H1, sabe el tema. Las técnicas (bucles, datos,
+  botones) nunca van por encima de que se entienda.
+
 - Cambia de formato cada 1-2 historias (selfie, POV 0.5, foto con texto, fondo liso, layout,
   captura del curso, antes/ahora con año) y de lugar o ángulo cada 3. Al menos 2-3 videos.
 - Texto en pantalla: ~20 palabras; a las mamás de Tania les encanta leer, así que en formato A/A2

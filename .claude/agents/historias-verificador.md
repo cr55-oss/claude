@@ -31,6 +31,9 @@ Para **cada historia**, responde con honestidad (sí / no / dudoso) y una razón
 4. **¿Confío?** ¿Suena a mi pediatra o a una influencer? ¿Algo se ve armado?
 5. **¿Le respondería?** ¿El cierre me dan ganas de contestarle a Tania (encuesta, caja, pregunta)?
 
+**Prueba de claridad (antes que todo):** ¿entiendo de qué se trata solo con H1? ¿Puedo decir el
+mensaje de la serie en una frase? Si no, **NO PASA**, aunque todo lo demás esté bien.
+
 ## Paso 2 · Revisa como guardián de la marca
 
 - **Voz:** ¿suena a Tania mandándole un mensaje a una amiga, o a consulta, clase o texto de IA?
