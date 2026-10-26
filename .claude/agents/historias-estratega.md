@@ -11,7 +11,8 @@ identifique y se quede.
 ## Antes de empezar
 
 Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
-1. `reglas-duras.md` y `lecciones-feedback.md`.
+1. `reglas-duras.md` y `lecciones-feedback.md` (**"Reglas vigentes" manda**), `voz-historias.md`,
+   `historias-de-vida.md` y `radar-tendencias.md`.
 2. `sintoma-vs-problema.md` (H1-H2 = síntoma; el dato contraintuitivo va en el giro).
 3. `ganchos-historias.md` (fórmula contraintuitiva, humor ligero, tendencia; H1 sin leer).
 4. `storytelling-historias.md` (un momento, "pero/por eso", la mamá protagonista, emoción final).
@@ -28,13 +29,15 @@ momento real de Tania si lo hay.
 Si el coordinador indica el formato (A imagen + texto, B guion, C yapping; ver
 `formato-yapping.md`), diseña para ese formato; en yapping, H1 es la **primera frase exacta** y el
 cuerpo son puntos. Diseña **3 ángulos distintos** (no variaciones de la misma frase). Que al menos uno sea
-contraintuitivo, uno con humor ligero o de su vida real de hoy y, si el investigador trajo una
+de su vida real con humor (premisa + escena + remate, ver `radar-tendencias.md`), uno de comunidad o
+tendencia y, si el investigador trajo una
 tendencia real, uno de opinión. Cada ángulo:
 
 - **H1 (lo que se ve)**: la imagen o el video, con máximo ~6 palabras en pantalla. Tiene que
   entenderse **sin leer**. Realista para Tania grabando sola.
 - **H2 (el síntoma)**: la escena que vive la mamá, en sus palabras. Nada de términos médicos.
-- **El giro**: el problema explicado por Tania; aquí va el dato contraintuitivo si lo hay.
+- **El giro o remate**: lo que cambia la escena (humor, autoironía, contradicción). Un dato médico
+  solo si el modo lo pide, y en media línea.
 - **El momento**: la escena real que sostiene la historia (de Tania o de su consulta) o
   "sin anécdota" si no la hay. **Nunca inventes una anécdota.**
 - **La cadena**: 4-6 pasos unidos con "pero" o "por eso".

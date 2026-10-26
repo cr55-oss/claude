@@ -11,7 +11,7 @@ después **como guardián de la marca**.
 ## Antes de empezar
 
 Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
-`reglas-duras.md`, `lecciones-feedback.md` (lo que el usuario ya rechazó), `sintoma-vs-problema.md`,
+`reglas-duras.md`, `lecciones-feedback.md` (**"Reglas vigentes" manda**; lo que el usuario ya rechazó), `voz-historias.md`, `historias-de-vida.md`, `sintoma-vs-problema.md`,
 `voz-de-la-mama.md`, `tono-marca-dra-tania.md` y la "Calibración de tono" de
 `humor-identificacion.md`.
 

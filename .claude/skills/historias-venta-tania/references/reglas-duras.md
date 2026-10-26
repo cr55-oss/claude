@@ -18,13 +18,13 @@
 
 1. **Nunca inventar datos**: precio, fechas, bonos, cupos, testimonios, número de mensajes,
    estadísticas de consulta, anécdotas de Tania o de su hija. **Pero la serie se entrega lista para subir, sin tareas:**
-   lo que falte se pregunta antes de escribir (máximo 2 preguntas rápidas, en el Paso 1) o se
+   lo que falte se pregunta antes de escribir (máximo 3 preguntas rápidas, en el Paso 1) o se
    escribe de forma que no lo necesite; lo que no se puede verificar, se quita.
 2. **Escasez y urgencia solo si son reales.**
 3. **Cero humor en temas de seguridad** (atragantamiento, alergias, señales de alarma, primeros
    auxilios).
 4. **El humor se ríe de la situación**, nunca de la mamá, de sus decisiones, de la familia ni de
-   otras creadoras. Máximo 1-2 momentos de humor y 1-2 emojis por serie.
+   otras creadoras. Humor como respiro cada 2 historias serias, sobre la situación o autoironía; pocos emojis (1-3).
 5. **Sin promesas absolutas.** La transformación que se muestra es la de la mamá (de miedo a
    calma), no la del bebé.
 6. **Afirmaciones médicas correctas y generales.** Los casos particulares van a consulta.

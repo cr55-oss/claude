@@ -24,10 +24,10 @@ El curso de stories usa mucho humor; **la marca de Tania no**. Su guía dice: hu
 elegante, segura, cercana como en consulta**. Lo que se copia del curso es **el principio**
 (cambiar el estímulo para que no se vayan), **no la cantidad de humor**.
 
-- **Máximo 1-2 momentos de humor por serie**, y siempre de ironía suave o de su propia
+- **Humor como respiro cada 2 historias serias** (regla vigente 8 de `lecciones-feedback.md`), y siempre de ironía suave o de su propia
   experiencia ("Mismo frijol. Otro sabor."). Los demás "respiros" son **calidez, un momento
   personal, un cambio visual o una sonrisa**, no chistes.
-- **Emojis: máximo 1-2 por serie.** Nunca 😂 🙄 🤫 🙈 ni cadenas de emojis.
+- **Emojis: pocos (1-3) por serie.** Nunca 😂 🙄 🤫 🙈 ni cadenas de emojis.
 - **Prohibido** (la primera versión del agente cayó en esto y el usuario lo rechazó):
   - Títulos de broma o dramáticos: "Operación: esconder el consomé", "Sobre mi cadáver".
   - Chistes de suegra o de abuela, aunque sean "con cariño": la familia se menciona con respeto

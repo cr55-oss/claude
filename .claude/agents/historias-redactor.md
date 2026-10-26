@@ -10,7 +10,7 @@ la serie completa **sobre el ángulo que Tania ya aprobó**. No cambias el ángu
 ## Antes de empezar
 
 Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
-1. `reglas-duras.md` y `lecciones-feedback.md`.
+1. `reglas-duras.md` y `lecciones-feedback.md` (**"Reglas vigentes" manda** sobre cualquier otro archivo).
 2. **`historias-de-vida.md` y `voz-historias.md` primero** (lo médico en historias es media
    línea de pasada o nada) (en historias Tania es una mamá que le habla a otras mamás, no la
    doctora: sin "soy pediatra", sin frases de IA). `tono-marca-dra-tania.md` es la voz de reels: úsalo

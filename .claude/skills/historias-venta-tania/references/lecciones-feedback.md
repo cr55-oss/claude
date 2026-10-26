@@ -2,7 +2,36 @@
 
 Análisis de la conversación con la que se construyó el agente. **Todos los agentes leen este
 archivo**: son decisiones ya tomadas por el usuario y por Tania, no sugerencias. El coordinador
-agrega una línea nueva cada vez que Tania rechace o apruebe algo.
+agrega una línea nueva cada vez que Tania rechace o apruebe algo **y actualiza "Reglas vigentes"**
+si la nueva lección cambia una regla (nunca dejar dos reglas que se contradigan).
+
+## Reglas vigentes (si algo de abajo choca con esto, gana esto)
+
+1. **Antes de escribir, se pregunta** (Paso 1 del coordinador). Preguntar antes no es dejar tareas;
+   dejar `[PENDIENTE]` después sí. Máximo 3 preguntas, en un solo mensaje, con opciones.
+2. **Tania elige el ángulo** entre 3 (solo H1-H2) antes de que se escriba la serie, salvo que diga
+   "tú decide".
+3. **El coordinador no escribe series**: investigador → estratega → redactor → verificador, y al
+   entregar se dice qué hizo cada uno.
+4. **Claridad primero:** mensaje en una frase; H1 dice el tema, sin acertijos.
+5. **Qué funciona en historias:** su vida (con su hija, con su esposo como personaje con cariño),
+   momentos cotidianos con humor (premisa + escena real + remate), comunidad y tendencias.
+   Recomendaciones sí, como remate de un momento real, nunca abriendo con el producto.
+   **Lo médico rara vez gusta:** máximo media línea, salvo días de seguridad o temporada.
+6. **Mezcla semanal** (`secuencias-tipo.md`); ningún dato o comentario se come la estrategia.
+7. **Voz:** amiga mexicana (`voz-historias.md`), sin frases de IA, sin "soy pediatra".
+8. **Humor:** respiro cada 2 historias serias; sobre la situación o autoironía; nunca en seguridad.
+   (Reemplaza el antiguo "máximo 1-2 humor".) Emojis: pocos (1-3), nunca 😂 🙄 🤫 🙈.
+9. **Texto:** ~25 palabras por historia en 2-3 líneas cortas.
+10. **Largo:** lo decide la historia, casi siempre 4-7 en conexión, sin relleno; venta 8-10.
+    La curiosidad del gancho se paga al final.
+11. **Interacción:** stickers de un toque en 3-4 historias; cierre con pregunta o sticker ligero
+    (la caja no es obligatoria); nunca "compártelo"; nunca historias de "resultados".
+12. **Realidad:** nada inventado; Tania sola (+ fotos de cosas; su hija y su esposo sin cara si ella
+    quiere); sin capturas de DMs.
+13. **Investigación siempre**, empezando por vidIQ (`radar-tendencias.md`).
+
+## Historial (cada regla vigente salió de aquí)
 
 ## Rechazado (no repetir)
 
@@ -13,14 +42,14 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Ganchos desde lo que sabe la pediatra ("Las arcadas son un reflejo", "la AC dura hasta los 2 años") | Son del nivel de Tania, no de la mamá | **Síntoma antes que problema** (`sintoma-vs-problema.md`) |
 | Elenco (asistente, hija, abuela en cámara) | A Tania se le complica grabar con otras personas | Solo Tania y fotos de cosas |
 | Capturas de DMs ("me llegan mensajes así cada semana") | Se siente forzado y resta credibilidad | Nada de capturas de DMs; la consulta se cuenta con su voz |
-| Humor de influencer ("Operación: esconder el consomé", "sobre mi cadáver", chistes de suegra, 😂🤫🙈) | No es el tono de Tania | Humor 1-2 veces por serie, inteligente; emojis 1-2; la familia con respeto |
+| Humor de influencer ("Operación: esconder el consomé", "sobre mi cadáver", chistes de suegra, 😂🤫🙈) | No es el tono de Tania | Humor inteligente sobre la situación (ver regla vigente 8); la familia con respeto |
 | "Le di su primer trozo de plátano" (en presente) | Su hija tiene ~2 años: es falso y se siente forzado | Solo escenas reales; lo de 6-12 meses desde la consulta |
 | Rehacer toda la serie con cada comentario | Se perdían las mejoras anteriores | **Capas**: un comentario ajusta su capa, no borra las demás |
 | Venta tipo producto caro (cupos, "vemos si calificas", cadenas de 12+) | Tania va a las masas | Alcance, conexión, recurso gratuito; venta de 8-10 historias |
 | Todo era de alimentación complementaria | Tania es pediatra, neonatóloga y mamá: habla de crianza, lactancia, sueño, salud, desarrollo y más | Días de conexión rotan territorios (`temas-tania.md`); el curso solo en días de venta |
 | Yapping armado como clase (puntos, "frase médica exacta", listas) | No se siente como historia; tiene que ser natural | Yapping = contar algo que pasó, en orden, como a una amiga; el dato va dentro de la plática; sin momento real no hay yapping |
 | Cerrar historias con "compártelo con…" | Eso va en reels y carruseles; las historias son para conectar | Cierre = algo que la mamá responda: encuesta, caja o pregunta personal |
-| Armar la serie como encuesta → resultados (y una plantilla por resultado) | Se siente mecánico; lo que se busca es conectar con un buen gancho y storytelling | Una historia contada (gancho → la mamá se ve → explosión de Tania → dato → alivio); una sola interacción al final, incluyente |
+| Armar la serie como encuesta → resultados (y una plantilla por resultado) | Se siente mecánico; lo que se busca es conectar con un buen gancho y storytelling | Una historia contada (gancho → la mamá se ve → explosión de Tania → dato → alivio); sin historias de resultados (ver regla vigente 11) |
 | Gancho que empieza por el resultado de Tania ("Ella no lloró. Yo casi.") | No detiene: la mamá no se ve ahí todavía | H1 abre con humor o con una escena que la mamá reconoce al instante (p. ej. "Día de vacunas en mi casa: ella…, su papá…, yo…"); el resultado de Tania va como remate |
 | Serie que se pone seria 3-4 historias seguidas (H4-H7 de vacunas) | "Se siente lloradera" | Respiro de humor cada 2 historias: autoironía de Tania ("si ser pediatra funcionara, a mí no me sudarían las manos") o un regreso al personaje gracioso; la emoción fuerte, una sola vez |
 | Entregar la serie con pendientes y tareas para Tania | El objetivo es quitarle tiempo, no dárselo | Lista para subir: se pregunta antes (máx. 2) o se escribe sin ese dato; lo no verificable se quita |
@@ -63,7 +92,7 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 
 - El cierre no siempre lleva caja de preguntas: puede ser una frase cálida o un sticker ligero (slider de emoji, encuesta de un toque).
 
-- A sus mamás les encanta leer: el texto puede ser más largo si se lee como historia (líneas cortas).
+- A sus mamás les gusta leer, pero sin pasarse (ver regla vigente 9: ~25 palabras).
 
 - Humor real de su familia (su esposo se vacuna mirando hacia el otro lado): sí, con cariño, sobre
   la situación, con permiso de él y sin su cara. Es humor de la vida de Tania, no chiste de familia.

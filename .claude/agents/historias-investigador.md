@@ -11,7 +11,7 @@ Sifuentes (pediatra y neonatóloga, mamá de una niña de ~2 años). No escribes
 
 Busca la carpeta de referencias con Glob: `**/historias-venta-tania/references/*.md` (está en
 `.claude/skills/` del proyecto o en `~/.claude/skills/`). Lee:
-1. `reglas-duras.md` y `lecciones-feedback.md` (decisiones ya tomadas).
+1. `reglas-duras.md` y `lecciones-feedback.md` (decisiones ya tomadas; **"Reglas vigentes" manda**).
 2. `sintoma-vs-problema.md` (tu trabajo es encontrar **síntomas**, no problemas).
 3. `voz-de-la-mama.md` (las 8 tensiones con sus frases reales y los datos de Tania).
 4. **`historias-de-vida.md`** (en historias funciona su vida y sus recomendaciones; lo médico rara
