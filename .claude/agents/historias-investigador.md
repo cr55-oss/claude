@@ -30,7 +30,9 @@ subió esta semana (para no repetir).
 
 ## Qué haces
 
-0. **Radar primero (lo más importante de tu trabajo).** Sigue `radar-tendencias.md`: busca qué se
+0. **Radar primero (lo más importante de tu trabajo).** Empieza por la búsqueda de vidIQ (paso 0 de
+   `radar-tendencias.md`): qué momentos y premisas les están funcionando a las mamás hispanas este
+   mes. Después noticias, Reddit y lo demás. Sigue `radar-tendencias.md`: busca qué se
    está comentando **esta semana** en el nicho (casos mediáticos, "reglas" virales como "no toques a
    los hijos ajenos", debates de crianza, hilos de Reddit con cientos de comentarios). Entrega 5
    candidatos con temperatura y link. Lo que ya se está comentando casi siempre gana.

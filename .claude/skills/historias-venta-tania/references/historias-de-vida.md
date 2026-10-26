@@ -22,6 +22,9 @@ nada. Los días de venta siguen su receta, pero contados desde su vida, no desde
 
 ## Reglas
 
+0. **Nunca abrir con el producto** ("parece comercial"). Primero un momento real con humor que la
+   mamá reconoce; el producto o el libro entra como remate o detalle.
+
 1. **Solo lo que Tania usa de verdad.** El agente no recomienda productos que ella no mencionó.
    Antes de escribir pregunta (una sola vez): *"¿Qué leyeron, escucharon o compraron esta semana
    que te haya gustado?"*

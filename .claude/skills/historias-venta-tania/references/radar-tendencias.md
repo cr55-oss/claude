@@ -15,6 +15,16 @@ la de Tania.
 
 ## Dónde buscar (en este orden)
 
+0. **Lo que está funcionando de verdad (fuente principal).** Si está disponible la herramienta de
+   vidIQ `vidiq_instagram_tiktok_outlier_search`, búscala con ToolSearch y úsala primero:
+   `descriptionLanguage: ["es"]`, últimos 30 días, `audienceQuery: "Culture/Region: Mexico/Latin
+   America Spanish-speaking; Global: false; Demographics: mothers 25-40 with babies and toddlers
+   0-3 years;"`, 8 resultados por plataforma. Prueba 2-3 búsquedas (concepto, gancho, formato).
+   Son reels y TikToks que rinden 5-1000 veces más que lo normal de esa creadora: muestran **qué
+   premisas y qué humor les está pegando a las mamás hoy**. Saca **patrones** (mínimo 2 ejemplos
+   por patrón), no copies videos. Si la cuenta de Tania está conectada a vidIQ
+   (`vidiq_instagram_connected_accounts`), revisa también sus propios datos.
+
 1. **Noticias de esta semana**: Google News México ("mamá", "bebé", "maternidad", "posparto",
    "guardería", "pediatra" + viral/polémica), Infobae, El Universal, Milenio, People en Español.
 2. **Reddit** (ordenar por "top" de la semana y ver el número de comentarios): r/Mommit,
@@ -62,3 +72,17 @@ RADAR (semana del …)
 ```
 
 Después elige los 3 mejores y los desarrolla como ideas.
+
+
+## Lo que mostró la primera búsqueda de vidIQ (26 oct 2026)
+
+Lo que más les pega a las mamás hispanas en el último mes **no es médico ni recomendación**: es
+**un momento cotidiano con humor**, con una premisa en texto y un remate.
+- "Tener hijos es despertar en la madrugada y verlos así 😱" (3.4M, 1708x su promedio).
+- "Adivinen el hijo de quién durmió toda la noche" → el esposo (907K, 27x).
+- "Cosas que puedo hacer cuando estoy sola con mi bebé:" → el bebé llora (914K, 6.8x).
+- "Yo: mi hijo nunca me deja dormir… " + el video tierno (1.1M, 32x).
+- Hasta la publicidad funciona si va primero el chiste: "cambiar el pañal a un bebé que ya aprendió
+  a correr debería contar como cardio" (1.1M, 116x, colaboración de una pomada).
+Patrón: **premisa que toda mamá vive (texto) + escena real de 5-10 s + remate/contradicción**. Una
+recomendación nunca abre: entra como remate de un momento real (si no, "parece comercial").
