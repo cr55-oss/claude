@@ -11,7 +11,7 @@ Reglas en todos los modos: historia 1 = gancho y 2 = subgancho; **nunca más de 
 un cambio de estímulo**; cambio de formato cada 1-2 historias; **al menos 2-3 🎥**.
 
 Largos: modos de venta **8-10** (Tania va a las masas: importa conectar con muchas y que respondan,
-no filtrar como en un producto caro); modos de conexión **4-5** (el usuario y Tania dejan de ver después de la 4-5). Más de 10 solo en lanzamiento.
+no filtrar como en un producto caro); modos de conexión **el largo lo decide la historia**: casi siempre 4-7, sin relleno (cada historia empuja a la siguiente). Se ajusta con los datos de retención de Tania, no con una regla fija. Más de 10 solo en lanzamiento.
 
 ---
 
@@ -128,7 +128,7 @@ interesadas. Se usa los días previos a abrir.
 
 ---
 
-## Modo 6 · Comunidad · 4-5 historias · N1 → N2
+## Modo 6 · Comunidad · 4-7 historias (lo decide la historia) · N1 → N2
 
 Objetivo: que se sientan parte y **le respondan** (encuesta, caja, pregunta). En historias no se pide
 "compártelo": eso es de reels y carruseles. Aquí se conecta: cada respuesta acerca a esa mamá.
@@ -167,7 +167,7 @@ Emoción con propósito: identificación, nunca hacer llorar. Siempre termina en
 
 ---
 
-## Modo 8 · Diversión · 4-5 historias · N1
+## Modo 8 · Diversión · 4-7 historias · N1
 
 Entretener para que vuelvan mañana. Todo humor de identificación; un dato útil es opcional.
 
@@ -183,7 +183,7 @@ Entretener para que vuelvan mañana. Todo humor de identificación; un dato úti
 
 ---
 
-## Modo 9 · Día a día / Tip · 4-5 historias · N1 → N3
+## Modo 9 · Día a día / Tip · 4-7 historias · N1 → N3
 
 | H | Bloque | Tipo |
 |---|---|---|
