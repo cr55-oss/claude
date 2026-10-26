@@ -28,6 +28,7 @@ agrega una línea nueva cada vez que Tania rechace o apruebe algo.
 | Series con 40+ palabras por historia y sin botones | "Demasiado texto"; faltaba interacción | ~25 palabras máx. por historia y stickers de un toque (encuesta, quiz, deslizador) en 3-4 historias |
 | Series de comunidad de 8 historias | "Yo leería hasta la 5 y Tania hasta la 4" | Conexión 4-5 historias; un solo tema; la respuesta a la curiosidad del gancho va al final |
 | Explicación médica en historias de comunidad (lanugo, estudios, señales) | "En las historias rara vez lo médico les gusta"; les gusta su hija leyendo, el audiolibro, el súper | `historias-de-vida.md`: su vida y recomendaciones; lo médico va a reels |
+| Escribir una serie sin investigación ni validación ("El mismo cuento") | "No hiciste ninguna investigación, validar ideas, nada" | El investigador siempre valida, también en el modo rápido y en recomendación / vida |
 | Copiar casi literal su gancho del posparto | Se fue al extremo con un solo comentario | Se toma la fórmula (creencia + verdad + alivio), no la frase |
 
 ## Lo que el verificador encontró en las pruebas (ya son reglas)

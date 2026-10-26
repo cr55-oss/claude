@@ -69,7 +69,8 @@ territorios y el curso solo aparece en días de venta), `references/reglas-duras
 
 Llama a `historias-investigador` con el modo, el tema o momento de Tania y lo subido esta semana.
 Elige la idea más fuerte (normalmente la que recomienda). **Modo rápido:** si Tania ya trajo un
-tema y un momento concreto, puedes saltarte este paso y pasar su material directo al estratega.
+tema y un momento concreto, el investigador igual **valida** (tendencia, frases reales de mamás,
+que el dato sea cierto) en versión corta. **Nunca se escribe una serie sin investigar y validar.**
 
 ## Paso 3 · Estratega, y Tania elige
 
