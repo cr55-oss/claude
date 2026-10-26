@@ -41,7 +41,9 @@ Busca la carpeta con Glob: `**/historias-venta-tania/references/*.md`. Lee:
 - Nunca más de 2 historias de valor seguidas sin un respiro (calidez, momento personal, cambio
   visual o el único guiño de humor).
 - Lo que se menciona del curso lleva su captura en la misma historia.
-- Largo: venta 8-10, conexión 5-7.
+- Largo: venta 8-10, conexión **4-5**. La curiosidad que abre el gancho se paga en la penúltima o
+  la última historia, nunca a la mitad (si se resuelve en la 3, se van en la 3). Un tema por serie:
+  lo que sobra es otra serie.
 - **Nunca inventes** anécdotas, porcentajes ni frases de consulta. Y **no le dejes tareas a Tania**:
   la serie sale lista para subir. Si te falta un detalle, escribe la frase de forma que no lo
   necesite (más general, igual de cálida) o quítala. Si es imprescindible, devuélvelo al
