@@ -46,5 +46,18 @@ Componer en Remotion en tres capas: fondo → elemento → Tania recortada → s
 - **Qué es:** un iPhone (~230 px de ancho, inclinado −10°) que entra deslizando desde el borde libre en 0,4 s, con una app que se va completando.
 - **Para Tania:** solo si el guion habla de algo en el celular (recordatorios de dosis, una app, un mensaje). Uso raro.
 
+### 8. Zoom out que revela (implementación propia)
+- **Qué es:** el plano empieza cerrado (1,4–1,6x sobre su cara o sus manos) y se abre a 1,0x en 0,6–0,9 s con easing suave, justo cuando aparece el objeto o la acción. Whoosh grave muy bajo.
+- **Para Tania:** el efecto natural para los **ganchos visuales** (`ganchos-visuales.md`): cuando saca un objeto de debajo de la mesa o empieza una demostración. El zoom out termina en el cuadro cumbre de la acción.
+- **Cuidado:** el crudo tiene que tener resolución de sobra para el 1,6x (4K ideal; en 1080 no pasar de 1,3x).
+
+### 9. Corte con zoom (implementación propia)
+- **Qué es:** transición entre dos tomas: la primera acelera un acercamiento (1,0→1,25x en 6–8 cuadros) con desenfoque de movimiento; la segunda entra ya cerrada y se asienta a 1,0x. Sirve para que un corte de la edición se sienta intencional.
+- **Para Tania:** entrar a la **frase clave** o al momento íntimo, o tapar un corte de toma difícil. Máximo 1–2 por video.
+
+### 10. Frame break (implementación propia)
+- **Qué es:** el video se encoge a un marco (esquinas redondeadas, borde crema) y la mano de Tania o el objeto que enseña **sale del marco** hacia la cámara. Requiere recorte de la mano/objeto (misma técnica de recorte de arriba).
+- **Para Tania:** solo cuando acerca un objeto a la cámara (un termómetro, un medicamento). Uso raro; validar bordes en la prueba de 10 s.
+
 ## Ideas adicionales (solo por nombre; implementación propia si se necesitan)
-Giro 3D (clips orbitando), couch wall (capturas en la pared), frame break (salir de un cuadro), corte con zoom (transición entrando en la cara con desenfoque), zoom out (alejarse y revelar algo), green screen (cambiar el fondo), paper cut (collage de papel), doodle boil (contorno a mano que tiembla — **descartado** para Tania: el trazo a mano simple fue rechazado), vértigo (el fondo se estira detrás). Si alguno encaja con un guion, proponerlo en el plan con una implementación propia en Remotion y validarlo con la prueba de 10 s.
+Giro 3D (clips orbitando), couch wall (capturas en la pared), green screen (cambiar el fondo), paper cut (collage de papel), doodle boil (contorno a mano que tiembla — **descartado** para Tania: el trazo a mano simple fue rechazado), vértigo (el fondo se estira detrás). Si alguno encaja con un guion, proponerlo en el plan con una implementación propia en Remotion y validarlo con la prueba de 10 s.
