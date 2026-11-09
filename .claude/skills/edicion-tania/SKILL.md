@@ -31,6 +31,7 @@ Referencias de esta skill (léelas antes de planear):
 - `references/fluidez.md` — quitar muletillas y cortar sin que se note (fluidez).
 - `references/recursos.md` — Claude busca, mira y preselecciona B-roll (Artlist con Claude en Chrome, iStock por invideo, Pexels/Pixabay por API, Magnific por conector), generación con IA (Higgsfield; OpenArt de respaldo si se acaban los créditos), música y efectos. Script: `scripts/buscar-broll.mjs`.
 - `references/flujo-tecnico.md` → "Acabado en invideo": las capas de Remotion se arman en invideo para revisar y ajustar sin re-render.
+- `references/velocidad.md` — **edición paso a paso y rápida**: proxy, datos en JSON, revisión por pasos, render por segmentos, correcciones sin re-render completo.
 - `references/flujo-tecnico.md` — herramientas y comandos (Whisper, ffmpeg, Remotion).
 - `references/plantilla-plan.md` — formato del plan que se entrega para aprobación.
 - Ejemplo de plan aprobado: `edicion/plan-fiebre-agua-fria.md` (en la raíz del repo).
@@ -85,8 +86,11 @@ Presenta al usuario un resumen corto (tabla de escenas + decisiones a revisar) y
 ### Fase 5.5 — Prueba de estilo de 10 s [fijo]
 Antes de editar el video completo, renderiza **10 segundos reales** (el gancho + una animación representativa) sobre el video de Tania y muéstraselos al usuario. Solo con su visto bueno se edita el resto. Así un cambio de dirección cuesta minutos, no una edición completa.
 
-### Fase 6 — Editar
-Orden: corte limpio (tomas + muletillas + silencios, con las técnicas de `fluidez.md` para que no se noten los cortes) → corrección de color → procesamiento de voz → ilustraciones y textos sincronizados a la palabra → B-roll → música y SFX → mezcla. Detalles en `flujo-tecnico.md`.
+### Fase 6 — Editar paso a paso [fijo]
+**Lee `velocidad.md` antes de empezar.** Nunca edites todo y lo muestres al final: avanza por pasos y espera el "ok" (o el ajuste) del usuario en cada uno:
+A. corte en bruto (solo ffmpeg, minutos) → B. color horneado → C. gráficos escena por escena (Remotion Studio o render de solo esa escena a 540 px) → D. mezcla de audio → E. render final por segmentos, una sola vez.
+Preparación única: proxy 1080 H.264 del crudo, voz procesada, Whisper y eventos guardados en `work/` y reutilizados siempre. Todo lo editable vive en JSON (`corte.json`, `escenas.json`, `audio.json`); un ajuste es cambiar un dato y re-renderizar solo lo afectado. Un ajuste básico no debe tardar más de ~5 min; si tarda más, algo se está rehaciendo de más.
+Técnicas de corte en `fluidez.md`; comandos en `flujo-tecnico.md`.
 
 ### Fase 7 — Revisión y acabado (invideo)
 Sube las capas a invideo y arma la línea de tiempo (ver `flujo-tecnico.md` → Acabado en invideo). Genera cuadros de verificación (un cuadro en cada evento del plan + bordes de cada escena) a ~540 px de ancho y revísalos tú primero: texto entero, nada sobre el rostro ni sobre la acción, zonas seguras de Instagram, animación correcta en la palabra correcta. Comparte el link de revisión de invideo y los cuadros más importantes (gancho, frases clave, cierre); los ajustes chicos se hacen en invideo, sin re-render.

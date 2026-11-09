@@ -46,6 +46,7 @@ Para el movimiento fuera del rostro, recorta primero el área sin cara (`crop=`)
 6. **Render:** h264, crf ~17, yuv420p, bt709; luego normalizar a −14 LUFS / −1 dBTP con ffmpeg `loudnorm` en dos pasadas.
 
 ## Velocidad (objetivo: ≤ 30–40 min por video después del primero)
+**Primero lee `velocidad.md`** (paso a paso, proxy, JSON, render por segmentos). Además:
 1. **Plantilla reutilizable:** si existe `.claude/skills/edicion-tania/assets/template/`, copiarla como base del proyecto (componentes, fuentes, kit de SFX, configuración de render) en lugar de construir desde cero. **Al terminar un video aprobado**, copiar ahí los componentes nuevos o mejorados (`Subtitulo`, `TituloApilado`, efectos de héroe, animaciones, `VentanaBroll`, etc.), sin el video ni los archivos pesados, y hacer commit, para que el siguiente video arranque con todo hecho.
 2. **Biblioteca de animaciones:** cada animación o efecto nuevo (termómetro, virus, checklist…) se guarda en la plantilla; los videos siguientes reutilizan los que ya existen.
 3. **En paralelo:** mientras Whisper transcribe, buscar música/efectos/B-roll y extraer cuadros.
