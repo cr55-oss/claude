@@ -28,6 +28,13 @@ Después de cada paso, Claude muestra el resultado, espera "ok" o el ajuste, y m
 | **D. Audio** | Mezcla de música + SFX + voz **con ffmpeg** sobre `base.mp4` a 540 px. Segundos. | Video ligero para escuchar la mezcla (en el celular). |
 | **E. Render final** | Una sola vez, en 1080, **por segmentos** (uno por escena o cada ~15 s) en paralelo, y unirlos con `ffmpeg -f concat -c copy`. Normalizar −14 LUFS. | El MP4 final (o subirlo a invideo para el acabado). |
 
+## 3b. Ajustes visuales que hace el usuario solo (sin Claude, sin render) [fijo]
+Los ajustes chicos ("sube un poco el subtítulo", "más grande el título", "ese texto medio segundo después") **los hace el usuario en segundos en Remotion Studio**, no Claude con un re-render.
+- Cada composición se declara con un **esquema zod** (`schema={...}` + `defaultProps`) que expone como controles todo lo ajustable: posición vertical y tamaño del subtítulo, posición/tamaño de títulos, opacidad de la viñeta, volumen de la música, y un `desfase` (segundos) por cada elemento de `escenas.json`.
+- El usuario abre `npx remotion studio`, cambia el valor en el panel de la derecha (número o deslizador), lo ve **en vivo**, y guarda (el botón de guardar escribe el valor en el código). Sin render.
+- Al entregar cada paso, Claude dice qué controles existen y cómo se llaman, en una lista corta ("subtituloY: altura del subtítulo, 0 = centro, sube con números más bajos").
+- Cuando el usuario termina sus ajustes, se hace el render final una sola vez.
+
 ## 4. Correcciones después del render final
 - Ubicar la escena afectada → cambiar su dato → **re-renderizar solo ese segmento** → volver a unir con `-c copy` (segundos).
 - Cambio de audio (volumen, SFX, música) → solo remezclar el audio y reemplazarlo en el MP4 con `-c:v copy`. **Nunca** re-renderizar la imagen por un cambio de audio.
